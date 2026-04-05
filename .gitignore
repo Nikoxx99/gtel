@@ -16,3 +16,5 @@
 # Keep only WordPress content (themes/plugins/uploads)
 !wp-content/
 !wp-content/**
+
+!docker-compose.yaml
