@@ -19,7 +19,9 @@ services:
     restart: unless-stopped
 
   db:
-    image: mysql:8.0
+    build:
+      context: .
+      dockerfile: mysql/Dockerfile
     command: --default-authentication-plugin=mysql_native_password
     environment:
       MYSQL_DATABASE: wp_gtel
@@ -28,7 +30,6 @@ services:
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
     volumes:
       - db_data:/var/lib/mysql
-      - ./all_databases.sql:/docker-entrypoint-initdb.d/01-all_databases.sql:ro
     restart: unless-stopped
 
 volumes:
