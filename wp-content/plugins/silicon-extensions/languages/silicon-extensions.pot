@@ -1,0 +1,327 @@
+# Copyright (C) 2022 MadrasThemes
+# This file is distributed under the same license as the Silicon Extensions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Silicon Extensions 1.2.0\n"
+"Report-Msgid-Bugs-To: https://madrasthemes.freshdesk.com/\n"
+"POT-Creation-Date: 2022-08-10 06:12:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: POT <support@madrasthemes.freshdesk.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:118
+msgid "Portfolio Projects"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:151
+#. translators: %s is the name of a custom post type such as
+#. "jetpack-portfolio"
+msgid "Enable Portfolio Projects for this site."
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:152
+msgid "Learn More"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:162
+#. translators: %1$s is link for project
+msgid "Portfolio pages display at most %1$s projects"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:289
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:507
+#. translators: %1$s is replaced with an input field for numbers
+msgid "Projects"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:290
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:445
+msgid "Project"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:291
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:497
+msgid "Portfolio"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:292
+msgid "All Projects"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:293
+msgid "Add New"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:294
+msgid "Add New Project"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:295
+msgid "Edit Project"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:296
+msgid "New Project"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:297
+msgid "View Project"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:298
+msgid "Search Projects"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:299
+msgid "No Projects found"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:300
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:301
+msgid "Filter projects list"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:302
+msgid "Project list navigation"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:303
+msgid "Projects list"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:341
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:343
+msgid "Project Types"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:342
+msgid "Project Type"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:344
+msgid "All Project Types"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:345
+msgid "Edit Project Type"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:346
+msgid "View Project Type"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:347
+msgid "Update Project Type"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:348
+msgid "Add New Project Type"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:349
+msgid "New Project Type Name"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:350
+msgid "Parent Project Type"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:351
+msgid "Parent Project Type:"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:352
+msgid "Search Project Types"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:353
+msgid "Project type list navigation"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:354
+msgid "Project type list"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:372
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:374
+msgid "Project Tags"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:373
+msgid "Project Tag"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:375
+msgid "All Project Tags"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:376
+msgid "Edit Project Tag"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:377
+msgid "View Project Tag"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:378
+msgid "Update Project Tag"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:379
+msgid "Add New Project Tag"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:380
+msgid "New Project Tag Name"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:381
+msgid "Search Project Tags"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:382
+msgid "Popular Project Tags"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:383
+msgid "Separate tags with commas"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:384
+msgid "Add or remove tags"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:385
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:386
+msgid "No tags found."
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:387
+msgid "Project tag list navigation"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:388
+msgid "Project tag list"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:412
+#. translators: %s is link for project
+msgid "Project updated. <a href=\"%s\">View item</a>"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:413
+msgid "Custom field updated."
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:414
+msgid "Custom field deleted."
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:415
+msgid "Project updated."
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:417
+#. translators: %s: date and time of the revision
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:419
+#. translators: %s is link for project
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:420
+msgid "Project saved."
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:422
+#. translators: %s is link for project
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:425
+#. translators: %1$s is date, %2$s is link
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview project</a>"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:427
+#. translators: Publish box date format, see https:php.net/date.
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:431
+#. translators: Publish box date format, see https:php.net/date.
+msgid ""
+"Project item draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"project</a>"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:518
+msgid "Portfolio Archive Title"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:539
+msgid "Portfolio Archive Content"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:563
+msgid "Portfolio Archive Featured Image"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:870
+msgid ""
+"Your Portfolio Archive currently has no entries. You can start creating "
+"them on your dashboard."
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:943
+msgid "Types"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:975
+msgid "Tags"
+msgstr ""
+
+#: modules/portfolio/classes/class-silicon-jetpack-portfolio.php:1002
+#. translators: %1$s is link to author posts, %2$s is author display name
+msgid "<span>Author:</span> <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: silicon-extensions.php:184 silicon-extensions.php:193
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Silicon Extensions"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://themeforest.net/user/madrasthemes/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This selection of extensions compliment our theme Silicon. Please note: "
+"they don’t work with any WordPress theme, just Silicon."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MadrasThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://madrasthemes.com/"
+msgstr ""

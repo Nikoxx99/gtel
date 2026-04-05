@@ -1,0 +1,8 @@
+FROM wordpress:php8.2-apache
+
+# Seed inicial del sitio (WordPress + themes + plugins + uploads)
+COPY . /usr/src/wordpress/
+
+# Forzamos que el contenedor genere wp-config.php desde variables de entorno
+RUN rm -f /usr/src/wordpress/wp-config.php \
+ && chown -R www-data:www-data /usr/src/wordpress

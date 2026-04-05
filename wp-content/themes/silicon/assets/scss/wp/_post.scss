@@ -1,0 +1,8 @@
+.post__meta > *:only-child,
+.single-post__meta > *:last-child {
+	border-right: 0 !important;
+}
+
+.wp-block-image figcaption {
+	color: inherit;
+}

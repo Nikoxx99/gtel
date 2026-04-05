@@ -1,0 +1,67 @@
+//
+// Pagination
+// --------------------------------------------------
+
+
+.pagination,
+.page-links {
+  margin-bottom: 0;
+  .page-link,
+  .post-page-numbers {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    @include border-radius($pagination-border-radius);
+    font: {
+      size: $pagination-font-size;
+      weight: $pagination-font-weight;
+    }
+    > i {
+      margin-top: .0625rem;
+      font-size: 1.425em;
+    }
+  }
+  .page-item {
+    margin: 0 $pagination-margin;
+    &:first-child { margin-left: 0; }
+    &:last-child { margin-right: 0; }
+    &.active .page-link {
+      box-shadow: $pagination-active-box-shadow;
+    }
+  }
+}
+.pagination-sm .page-link {
+  @include border-radius($pagination-border-radius-sm);
+  font-size: $pagination-font-size-sm;
+}
+.pagination-lg .page-link {
+  @include border-radius($pagination-border-radius-lg);
+  font-size: $pagination-font-size-lg;
+}
+
+.post-page-numbers {
+    padding: 0.45rem 0.875rem;
+    text-decoration: none;
+    margin: 0 2px;
+
+    &:hover {
+        color: var(--bs-primary);
+        background-color: #eff2fc;
+        border-color: #e2e5f1;
+    }
+
+    &.current {
+        color: #fff;
+        background-color: var(--bs-primary);
+        border-color: var(--bs-primary);
+    }
+}
+
+.page-links {
+    display: flex;
+    align-items: center;
+
+    >*:first-child {
+        margin-left: 10px;
+    }
+}

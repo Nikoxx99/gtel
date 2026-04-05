@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Keep git metadata file itself
+!.gitignore
+
+# Deployment files for Coolify
+!docker-compose.coolify.yml
+!Dockerfile.coolify
+!GUIA_MIGRACION_COOLIFY.md
+
+# Database dump used on first MySQL init
+!all_databases.sql
+
+# Keep only WordPress content (themes/plugins/uploads)
+!wp-content/
+!wp-content/**

@@ -1,0 +1,1634 @@
+# <!=Copyright (C) 2022 MadrasThemes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Silicon 1.2.0\n"
+"Report-Msgid-Bugs-To: https://madrasthemes.freshdesk.com/\n"
+"POT-Creation-Date: 2022-08-10 06:12:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: POT <support@madrasthemes.freshdesk.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/customizer/class-silicon-customizer.php:1143
+msgid "404"
+msgstr ""
+
+#: comments.php:21
+msgid "Post Comments"
+msgstr ""
+
+#: comments.php:50
+msgid "Comment Navigation Below"
+msgstr ""
+
+#: comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:23
+#. translators: 1: URL
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:102
+#: inc/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:151
+msgid "Activated"
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:164
+#: inc/classes/class-tgm-plugin-activation.php:2847
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:185
+msgid "Install now"
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:204
+#. translators: conjunction of two alternative options user can choose (in
+#. missing plugin admin notice).
+msgid "or"
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:205
+msgid "learn more"
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:267
+msgid "Page Builder used to build all our Silicon Pages"
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:274
+msgid "Additional modules for Elementor to build our Silicon Pages"
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:280
+msgid "Additional options for Silicon Pages, Posts and Portfolio"
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:286
+msgid "Import Silicon demo content easily with just one click."
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:292
+#: inc/admin/class-silicon-plugin-install.php:323
+msgid "Use this plugin to replace HTML forms with a working form."
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:298
+msgid "Use this plugin to upload SVG files."
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:307
+msgid "Enable this plugin for Portfolio custom post type."
+msgstr ""
+
+#: inc/admin/class-silicon-plugin-install.php:315
+msgid "Silicon uses Static Contents for Footer and Megamenus."
+msgstr ""
+
+#: inc/class-silicon-breadcrumb.php:109
+msgid "Error 404"
+msgstr ""
+
+#: inc/class-silicon-breadcrumb.php:218
+#. translators: %s: tag name
+msgid "Posts tagged &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/class-silicon-breadcrumb.php:261
+#. translators: %s: author name
+msgid "Author: %s"
+msgstr ""
+
+#: inc/class-silicon-breadcrumb.php:301
+#. translators: %s: search term
+msgid "Search results for &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/class-silicon-breadcrumb.php:311
+#. translators: %d: page number
+msgid "Page %d"
+msgstr ""
+
+#: inc/class-silicon.php:108
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/class-silicon.php:109
+msgid "Portfolio Menu"
+msgstr ""
+
+#: inc/class-silicon.php:182
+msgid "Extra Small"
+msgstr ""
+
+#: inc/class-silicon.php:187 inc/customizer/class-silicon-customizer.php:1051
+#: inc/customizer/class-silicon-customizer.php:1356
+msgid "Small"
+msgstr ""
+
+#: inc/class-silicon.php:192
+msgid "Base"
+msgstr ""
+
+#: inc/class-silicon.php:197 inc/customizer/class-silicon-customizer.php:1053
+#: inc/customizer/class-silicon-customizer.php:1358
+msgid "Large"
+msgstr ""
+
+#: inc/class-silicon.php:202
+msgid "Extra Large"
+msgstr ""
+
+#: inc/class-silicon.php:216 inc/silicon-functions.php:334
+#: inc/silicon-functions.php:339
+msgid "Primary"
+msgstr ""
+
+#: inc/class-silicon.php:221
+msgid "Secondary"
+msgstr ""
+
+#: inc/class-silicon.php:226 inc/silicon-functions.php:349
+msgid "Info"
+msgstr ""
+
+#: inc/class-silicon.php:231 inc/silicon-functions.php:344
+msgid "Success"
+msgstr ""
+
+#: inc/class-silicon.php:236 inc/silicon-functions.php:354
+msgid "Warning"
+msgstr ""
+
+#: inc/class-silicon.php:241 inc/silicon-functions.php:359
+msgid "Danger"
+msgstr ""
+
+#: inc/class-silicon.php:246 inc/customizer/class-silicon-customizer.php:625
+#: inc/customizer/class-silicon-customizer.php:713
+#: inc/silicon-functions.php:364 inc/template-functions/header.php:223
+msgid "Light"
+msgstr ""
+
+#: inc/class-silicon.php:251 inc/customizer/class-silicon-customizer.php:626
+#: inc/customizer/class-silicon-customizer.php:714
+#: inc/silicon-functions.php:369 inc/template-functions/header.php:224
+msgid "Dark"
+msgstr ""
+
+#: inc/class-silicon.php:276 inc/customizer/class-silicon-customizer.php:445
+#. translators: label field of control in Customizer
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/class-silicon.php:291
+#. translators: 1: column number
+msgid "Footer Column %1$d"
+msgstr ""
+
+#: inc/class-silicon.php:294
+#. translators: 1: column number
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr ""
+
+#: inc/class-silicon.php:297
+#. translators: 1: row number, 2: column number
+msgid "Footer Row %1$d - Column %2$d"
+msgstr ""
+
+#: inc/class-silicon.php:300
+#. translators: 1: column number, 2: row number
+msgid "Widgets added here will appear in column %1$d of footer row %2$d."
+msgstr ""
+
+#: inc/class-silicon.php:551
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/class-silicon.php:685
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: inc/class-silicon.php:685
+msgid "Password:"
+msgstr ""
+
+#: inc/class-silicon.php:685
+msgid "Enter Password"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:377
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:393
+#: inc/classes/class-tgm-plugin-activation.php:913
+#: inc/classes/class-tgm-plugin-activation.php:2654
+#: inc/classes/class-tgm-plugin-activation.php:3705
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#: inc/classes/class-tgm-plugin-activation.php:3280
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+#: inc/classes/class-tgm-plugin-activation.php:3073
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1022
+#: inc/classes/class-tgm-plugin-activation.php:1032
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1032
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2103
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2394
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2397
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2413
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2416
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2419
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2436
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2440
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2442
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2448
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2451
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2454
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2513
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2517
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2521
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2611
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2619
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2631
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2654
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2668
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2669
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2670
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2674
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2675
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2724
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2729
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2735
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2805
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2838
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2844
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2878
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2880
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2921
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2923
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3029
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3055
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3279
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3623
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3626
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3628
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3632
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3634
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3635
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3637
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3640
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3642
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3643
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3645
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-wp-bootstrap-navwalker.php:417
+msgid "Please assign a menu"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:63
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:64
+msgid "Customize the theme footer."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:105
+msgid "Dark Logo"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:106
+msgid "Dark logo appears whenyou choose dark version."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:113
+#: inc/customizer/class-silicon-customizer.php:118
+msgid "Select logo"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:114
+msgid "Change logo"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:115
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:116
+#: inc/customizer/class-silicon-customizer.php:1084
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:117
+msgid "No logo selected"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:119
+msgid "Choose logo"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:153
+msgid "Footer Variant"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:154
+msgid "This setting allows you to choose your footer variant."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:181
+msgid "Footer Static Content"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:182
+msgid "This setting allows you to choose your footer type."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:211
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:236
+#. translators: title of section in Customizer
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:237
+#: inc/customizer/class-silicon-customizer.php:309
+msgid ""
+"This section contains settings related to posts listing archives and single "
+"post."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:264
+#: inc/customizer/class-silicon-customizer.php:481
+#. translators: label field of control in Customizer
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:265
+#: inc/customizer/class-silicon-customizer.php:391
+#: inc/customizer/class-silicon-customizer.php:482
+msgid "This setting affects both the posts listing (your blog page) and archives."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:268
+#: inc/customizer/class-silicon-customizer.php:485
+#. translators: single item in a list of Blog Layout choices (in Customizer)
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:270
+#: inc/customizer/class-silicon-customizer.php:487
+#. translators: single item in a list of Blog Layout choices (in Customizer)
+msgid "List"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:272
+#. translators: single item in a list of Blog Layout choices (in Customizer)
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:287
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:288
+#: inc/customizer/class-silicon-customizer.php:566
+msgid "Customize the theme header."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:308
+#. translators: title of section in Customizer
+msgid "Single Podcast"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:338
+#: inc/customizer/class-silicon-customizer.php:390
+#. translators: label field of control in Customizer
+msgid "Static Content"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:361
+#. translators: title of section in Customizer
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:414
+#. translators: title of section in Customizer
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:447
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:448
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:449
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:509
+msgid "General"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:510
+msgid "Customize general options."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:539
+msgid "Page Loader"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:541
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:542
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:565
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:595
+msgid "Enable Mode Switcher?"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:597
+#: inc/customizer/class-silicon-customizer.php:682
+#: inc/customizer/class-silicon-customizer.php:770
+#: inc/customizer/class-silicon-customizer.php:798
+#: inc/customizer/class-silicon-customizer.php:898
+#: inc/customizer/class-silicon-customizer.php:2104
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:598
+#: inc/customizer/class-silicon-customizer.php:683
+#: inc/customizer/class-silicon-customizer.php:771
+#: inc/customizer/class-silicon-customizer.php:799
+#: inc/customizer/class-silicon-customizer.php:899
+#: inc/customizer/class-silicon-customizer.php:2105
+msgid "No"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:623
+msgid "Default Mode"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:651
+msgid "Navbar Position"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:680
+msgid "Stick Navbar on Scroll"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:711
+msgid "Navbar Text"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:739
+#: inc/customizer/class-silicon-customizer.php:1446
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:768
+msgid "Enable Shadow ?"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:796
+msgid "Disable Dark Mode Shadow ?"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:827
+msgid "Border"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:858
+msgid "Buy Header Border Color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:896
+msgid "Enable Buy Now Button ?"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:924
+msgid "Change Buy Now Button Icon"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:925
+msgid "This setting allows you to change the button icon"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:953
+msgid "Buy Now Button Color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:981
+#: inc/template-functions/header.php:254
+msgid "Buy now"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:992
+msgid "Buy Now Button Text"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:993
+#: inc/customizer/class-silicon-customizer.php:1283
+msgid "This setting allows you to change the button text"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1020
+msgid "Buy Now Button Link"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1021
+msgid "This setting allows you to change the button link"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1048
+msgid "Buy Now Button Size"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1049
+msgid "This setting allows you to choose your header button size."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1052
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1081
+msgid "Buy Now Button Shape"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1082
+msgid "This setting allows you to choose your header button shape."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1085
+msgid "Pill"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1086
+msgid "Square"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1116
+msgid "Buy Now Button CSS"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1117
+msgid "This setting allows you to add button css classes"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1171
+msgid "404 Page Variant"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1172
+msgid "This setting allows you to choose your 404 page types."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1174
+msgid "404 v1"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1175
+msgid "404 v2"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1204
+msgid "404 Image Upload"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1205
+msgid "This setting allows you to upload an image for 404 page."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1228
+msgid "404 Title"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1255
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1271
+msgid "Go to home page"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1282
+msgid "Action button text"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1308
+msgid "Action button color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1335
+msgid "Button Url"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1336
+msgid "This setting allows you to change button url."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1353
+msgid "Primary Button Size"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1354
+msgid "This setting allows you to choose your 404 page primary button size."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1357
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1491
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1512
+msgid "Heading color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1536
+#: inc/customizer/class-silicon-customizer.php:1668
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1560
+msgid "Link / accent color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1584
+msgid "Hero heading color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1608
+msgid "Hero text color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1622
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1624
+msgid "Customize the look & feel of your website buttons."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1644
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1692
+msgid "Alternate button background color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1716
+msgid "Alternate button text color"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:2098
+msgid "Enable Custom Color?"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:2099
+msgid "This settings allow you to apply your custom color option."
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:2125
+msgid "Primary color"
+msgstr ""
+
+#: inc/customizer/silicon-customizer-functions.php:24
+msgid "— Select —"
+msgstr ""
+
+#: inc/customizer/silicon-customizer-functions.php:29
+msgid "No Static Content Found"
+msgstr ""
+
+#: inc/functions/template.php:39
+#. translators: %s template
+msgid "%s does not exist."
+msgstr ""
+
+#: inc/functions/template.php:56
+msgid "action_args should not be overwritten when calling silicon_get_template."
+msgstr ""
+
+#: inc/functions/template.php:301
+msgid "Page navigation"
+msgstr ""
+
+#: inc/functions/template.php:305
+#. translators: %1$s - Current Page, %2$s - Total Pages
+msgid "%1$s / %2$s"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:290
+#. translators: %1$s - The demo name. %2$s - Minutes.
+msgid "This demo will import %1$s. It may take %2$s"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:291
+msgid ""
+"Menus, Widgets and Settings will not be imported. Content imported already "
+"will not be imported."
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:292
+msgid ""
+"Alternatively, you can import this template directly into your page via "
+"Edit with Elementor."
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:302
+msgid "25 items including 1 page & 24 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:302 inc/ocdi/class-silicon-ocdi.php:312
+#: inc/ocdi/class-silicon-ocdi.php:322 inc/ocdi/class-silicon-ocdi.php:332
+#: inc/ocdi/class-silicon-ocdi.php:342 inc/ocdi/class-silicon-ocdi.php:352
+#: inc/ocdi/class-silicon-ocdi.php:362 inc/ocdi/class-silicon-ocdi.php:372
+#: inc/ocdi/class-silicon-ocdi.php:382 inc/ocdi/class-silicon-ocdi.php:392
+#: inc/ocdi/class-silicon-ocdi.php:402 inc/ocdi/class-silicon-ocdi.php:412
+#: inc/ocdi/class-silicon-ocdi.php:422 inc/ocdi/class-silicon-ocdi.php:432
+#: inc/ocdi/class-silicon-ocdi.php:442 inc/ocdi/class-silicon-ocdi.php:453
+#: inc/ocdi/class-silicon-ocdi.php:463 inc/ocdi/class-silicon-ocdi.php:473
+#: inc/ocdi/class-silicon-ocdi.php:497
+msgid "upto a minute"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:312
+msgid "33 items including 1 page & 32 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:322
+msgid "28 items including 1 page & 27 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:332
+msgid "36 items including 1 page & 35 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:342
+msgid "29 items including 1 page & 28 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:352
+msgid "39 items including 1 page & 38 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:362
+msgid "31 items including 1 page, 4 posts, 1 static-content & 25 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:372
+msgid "42 items including 1 page, 4 posts, 1 static-content & 36 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:382
+msgid "39 items including 1 page, 5 posts, 1 static-content & 32 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:392
+msgid "44 items including 1 page, 2 static-content & 41 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:402
+msgid "63 items including 1 page, 6 posts, 7 projects, 1 static-content & 48 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:412
+msgid "38 items including 1 page, 15 posts, 2 static-content & 20 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:422
+msgid "46 items including 2 pages & 44 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:432
+msgid "66 items including 4 pages, 4 posts & 58 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:442
+msgid "4 items including 3 pages & 1 image"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:453
+msgid "29 items including 5 pages, 12 posts, 1 static-content & 11 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:463
+msgid "46 items including 3 pages, 16 projects & 27 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:473
+msgid "16 items including 11 Static Contents & 5 images"
+msgstr ""
+
+#: inc/ocdi/class-silicon-ocdi.php:497
+msgid "7 items including 2 pages & 1 image"
+msgstr ""
+
+#: inc/silicon-template-functions.php:71
+msgid "Skip to navigation"
+msgstr ""
+
+#: inc/silicon-template-functions.php:72
+msgid "Skip to content"
+msgstr ""
+
+#: inc/silicon-template-functions.php:84
+msgid "Edit this section"
+msgstr ""
+
+#: inc/silicon-template-functions.php:106
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/silicon-template-functions.php:129
+#: inc/silicon-template-functions.php:132
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/silicon-template-functions.php:138
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/silicon-template-functions.php:144
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/silicon-template-functions.php:176
+msgid "Next post:"
+msgstr ""
+
+#: inc/silicon-template-functions.php:177
+msgid "Previous post:"
+msgstr ""
+
+#: inc/template-functions/footer.php:78
+msgid ""
+"© All rights reserved. Made with <i class=\"bx bx-heart d-inline-block "
+"fs-lg text-gradient-primary align-middle mt-n1 mx-1\"></i> by&nbsp; <a "
+"href=\"https://madrasthemes.com/\" class=\"text-muted\" target=\"_blank\" "
+"rel=\"noopener\">MadrasThemes</a>"
+msgstr ""
+
+#: inc/template-functions/global.php:83
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-functions/global.php:110
+msgid "Edit"
+msgstr ""
+
+#: inc/template-functions/global.php:134
+msgid "Loading..."
+msgstr ""
+
+#: inc/template-functions/global.php:176 sidebar.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: inc/template-functions/global.php:190
+msgid "Top"
+msgstr ""
+
+#: inc/template-functions/global.php:203
+msgid "Page Navigation"
+msgstr ""
+
+#: inc/template-functions/header.php:242
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/template-functions/header.php:490
+msgid "Menu"
+msgstr ""
+
+#: inc/template-functions/loop-post.php:233
+#: inc/template-functions/loop-post.php:235
+#. translators: %$ - Time ago
+msgid "%s ago"
+msgstr ""
+
+#: inc/template-functions/loop-post.php:354
+#: inc/template-functions/loop-post.php:384
+#. translators: %1$s - Post link, %2$s - Post date time, %3$s - link class
+msgid "Avatar"
+msgstr ""
+
+#: inc/template-functions/loop-post.php:356
+msgid "Author"
+msgstr ""
+
+#: inc/template-functions/page.php:53 inc/template-functions/single-post.php:97
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-functions/portfolio.php:31
+msgid "All Categories"
+msgstr ""
+
+#: inc/template-functions/portfolio.php:89
+msgid "Portfolio List"
+msgstr ""
+
+#: inc/template-functions/portfolio.php:104
+msgid "Portfolio Grid"
+msgstr ""
+
+#: inc/template-functions/single-post.php:91
+#. translators: %s: post title
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/template-functions/single-post.php:125
+msgid "Related Tags:"
+msgstr ""
+
+#: inc/wpforms/class-silicon-wpforms.php:414
+msgid "Form Tag Class"
+msgstr ""
+
+#: inc/wpforms/class-silicon-wpforms.php:416
+msgid ""
+"Enter CSS class names for the form tag. Multiple class names should be "
+"separated with spaces."
+msgstr ""
+
+#: inc/wpforms/class-silicon-wpforms.php:424
+msgid "Fields Wrapper Class"
+msgstr ""
+
+#: inc/wpforms/class-silicon-wpforms.php:426
+msgid ""
+"Enter CSS class names for the fields wrapper. Multiple class names should "
+"be separated with spaces."
+msgstr ""
+
+#: inc/wpforms/class-silicon-wpforms.php:434
+msgid "Form Control CSS"
+msgstr ""
+
+#: inc/wpforms/class-silicon-wpforms.php:436
+msgid ""
+"Enter additional CSS class names for the form_control element. Multiple "
+"class names should be separated with spaces."
+msgstr ""
+
+#: inc/wpforms/class-silicon-wpforms.php:444
+msgid "Form Footer CSS"
+msgstr ""
+
+#: inc/wpforms/class-silicon-wpforms.php:446
+msgid ""
+"Enter additional CSS class names for the form footer element. Multiple "
+"class names should be separated with spaces."
+msgstr ""
+
+#: search.php:17
+#. translators: %s: search term
+msgid "Search Results for: %s"
+msgstr ""
+
+#: templates/404/404-v1.php:9 templates/404/404-v2.php:9
+msgid "Go to homepage"
+msgstr ""
+
+#: templates/404/404-v2.php:36 templates/404/404-v2.php:39
+#: templates/404/404-v2.php:42 templates/404/404-v2.php:49
+#: templates/404/404-v2.php:52 templates/404/404-v2.php:55
+msgid "Layer"
+msgstr ""
+
+#: templates/contents/loop-post-default.php:28
+msgid "Featured"
+msgstr ""
+
+#: templates/contents/loop-post-featured.php:20
+msgid "Read article"
+msgstr ""
+
+#: templates/contents/loop-post-grid-podcast.php:19
+msgid "Listen podcast"
+msgstr ""
+
+#: templates/contents/loop-post-grid-podcast.php:30
+msgid "Listen now"
+msgstr ""
+
+#: templates/global/footer-404.php:14
+#. translators: %s - Credit Link
+msgid "&copy; All Rights reserved. Made by %s"
+msgstr ""
+
+#: templates/global/footer-v1.php:15
+#. translators: %1$s - Heart Icon, %2$s - Credit Link
+msgid "&copy; All Rights reserved. Made with %1$s by %2$s"
+msgstr ""
+
+#: templates/portfolio/loop-portfolio-slider.php:12
+msgid "Category"
+msgstr ""
+
+#: templates/portfolio/loop-portfolio-slider.php:17
+msgid "Date"
+msgstr ""
+
+#: templates/portfolio/loop-portfolio-slider.php:23
+msgid "Read more"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Silicon"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://silicon.madrasthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Silicon is a multipurpose WordPress Theme with focus in Technology Business "
+"niches. It offers demos for creative businesses, IT, software development "
+"as well as corporate segment and startups."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MadrasThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://madrasthemes.com/"
+msgstr ""
+
+#: comments.php:30
+#. translators: %s - number of comments
+msgctxt "number of comments"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:84
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: inc/class-silicon.php:685
+msgctxt "post password form"
+msgid "Enter"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1221
+#: inc/classes/class-tgm-plugin-activation.php:3069
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2463
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2509
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2603
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:156
+#: inc/customizer/class-silicon-customizer.php:653
+msgctxt "button"
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:157
+msgctxt "button"
+msgid "Static Contents"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:158
+msgctxt "button"
+msgid "No Footer"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:654
+msgctxt "button"
+msgid "Fixed Top"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:655
+msgctxt "button"
+msgid "Absolute"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:741
+msgctxt "button"
+msgid "Transparent"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:742
+#: inc/customizer/class-silicon-customizer.php:962
+msgctxt "button"
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:743
+#: inc/customizer/class-silicon-customizer.php:961
+#: inc/customizer/class-silicon-customizer.php:1315
+msgctxt "button"
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:955
+#: inc/customizer/class-silicon-customizer.php:1310
+msgctxt "button"
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:956
+msgctxt "button"
+msgid "Secondary"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:957
+#: inc/customizer/class-silicon-customizer.php:1311
+msgctxt "button"
+msgid "Success"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:958
+#: inc/customizer/class-silicon-customizer.php:1312
+msgctxt "button"
+msgid "Danger"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:959
+#: inc/customizer/class-silicon-customizer.php:1313
+msgctxt "button"
+msgid "Warning"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:960
+#: inc/customizer/class-silicon-customizer.php:1314
+msgctxt "button"
+msgid "Info"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:963
+#: inc/customizer/class-silicon-customizer.php:1317
+msgctxt "button"
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1316
+msgctxt "button"
+msgid "Gradient"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:829
+msgctxt "border"
+msgid "None"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:830
+msgctxt "border"
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:831
+msgctxt "border"
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:832
+msgctxt "border"
+msgid "Start"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:833
+msgctxt "border"
+msgid "End"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:860
+msgctxt "border"
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:861
+msgctxt "border"
+msgid "Secondary"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:862
+msgctxt "border"
+msgid "Success"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:863
+msgctxt "border"
+msgid "Danger"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:864
+msgctxt "border"
+msgid "Warning"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:865
+msgctxt "border"
+msgid "Info"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:866
+msgctxt "border"
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:867
+msgctxt "border"
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:868
+msgctxt "border"
+msgid "Link"
+msgstr ""
+
+#: templates/404/404-v1.php:29 templates/404/404-v2.php:27
+msgctxt "front-end"
+msgid "404"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1217 templates/404/404-v1.php:42
+#: templates/404/404-v2.php:61
+msgctxt "front-end"
+msgid "Error 404"
+msgstr ""
+
+#: inc/customizer/class-silicon-customizer.php:1244 templates/404/404-v1.php:44
+#: templates/404/404-v2.php:62
+msgctxt "front-end"
+msgid "The page you are looking for was moved, removed or might never existed."
+msgstr ""
+
+#: inc/silicon-template-functions.php:162
+msgctxt "Next post"
+msgid "Next"
+msgstr ""
+
+#: inc/silicon-template-functions.php:163
+msgctxt "Previous post"
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions/global.php:226
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search …"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""

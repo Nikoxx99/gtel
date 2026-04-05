@@ -1,0 +1,5333 @@
+# Copyright (C) 2022 MadrasThemes
+# This file is distributed under the same license as the Silicon Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Silicon Elementor 1.2.0\n"
+"Report-Msgid-Bugs-To: https://madrasthemes.freshdesk.com/\n"
+"POT-Creation-Date: 2022-08-10 06:12:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: POT <support@madrasthemes.freshdesk.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: base/module-base.php:34
+#: modules/accordion/skins/skin-accordion-silicon.php:53
+#: modules/button/skins/skin-button-silicon.php:55
+#: modules/logo/widgets/logo.php:152
+msgid "Silicon"
+msgstr ""
+
+#: core/icons-manager.php:35
+msgid "Box Icons"
+msgstr ""
+
+#: core/utils.php:150
+#. translators: %s: Search term.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: core/utils.php:154
+#. translators: %s is the page number.
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: core/utils.php:161
+#. translators: Category archive title. 1: Category name
+msgid "Category: %s"
+msgstr ""
+
+#: core/utils.php:167
+#. translators: Tag archive title. 1: Tag name
+msgid "Tag: %s"
+msgstr ""
+
+#: core/utils.php:174
+#. translators: Author archive title. 1: Author name
+msgid "Author: %s"
+msgstr ""
+
+#: core/utils.php:181
+#. translators: Yearly archive title. 1: Year
+msgid "Year: %s"
+msgstr ""
+
+#: core/utils.php:188
+#. translators: Monthly archive title. 1: Month name and year
+msgid "Month: %s"
+msgstr ""
+
+#: core/utils.php:195
+#. translators: Daily archive title. 1: Date
+msgid "Day: %s"
+msgstr ""
+
+#: core/utils.php:222
+#. translators: Post type archive title. 1: Post type name
+msgid "Archives: %s"
+msgstr ""
+
+#: core/utils.php:230
+#. translators: Taxonomy term archive title. 1: Taxonomy singular name, 2:
+#. Current taxonomy term
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: core/utils.php:233
+msgid "Archives"
+msgstr ""
+
+#: core/utils.php:235
+msgid "Page Not Found"
+msgstr ""
+
+#: includes/controls/font-size.php:19
+#: modules/button/skins/skin-button-silicon.php:342
+#: modules/carousel/widgets/content-carousel.php:1145
+#: modules/carousel/widgets/team-carousel.php:315
+#: modules/image/skins/skin-image.php:206
+#: modules/nav-tabs/skins/skin-nav-tabs.php:194
+#: modules/nav-tabs/widgets/nav-tabs.php:191
+#: modules/page-settings/module.php:594 modules/page-settings/module.php:684
+#: modules/posts/traits/button-widget-trait.php:281
+#: modules/posts/widgets/posts-base.php:486
+#: modules/pricing/widgets/price.php:750
+#: modules/team-member/widgets/team-member.php:411
+#: modules/ticket/widgets/ticket.php:606
+msgid "Normal"
+msgstr ""
+
+#: includes/controls/font-size.php:20
+msgid "Display 1"
+msgstr ""
+
+#: includes/controls/font-size.php:21
+msgid "Display 2"
+msgstr ""
+
+#: includes/controls/font-size.php:22
+msgid "Display 3"
+msgstr ""
+
+#: includes/controls/font-size.php:23
+msgid "Display 4"
+msgstr ""
+
+#: includes/controls/font-size.php:24
+msgid "Display 5"
+msgstr ""
+
+#: includes/controls/font-size.php:25
+msgid "Display 6"
+msgstr ""
+
+#: includes/controls/font-size.php:26
+msgid "Font Size 1"
+msgstr ""
+
+#: includes/controls/font-size.php:27
+msgid "Font Size 2"
+msgstr ""
+
+#: includes/controls/font-size.php:28
+msgid "Font Size 3"
+msgstr ""
+
+#: includes/controls/font-size.php:29
+msgid "Font Size 4"
+msgstr ""
+
+#: includes/controls/font-size.php:30
+msgid "Font Size 5"
+msgstr ""
+
+#: includes/controls/font-size.php:31
+msgid "Font Size 6"
+msgstr ""
+
+#: includes/controls/font-size.php:32 modules/hero/widgets/hero.php:126
+msgid "Lead"
+msgstr ""
+
+#: includes/controls/font-size.php:33
+msgid "Font Size lg"
+msgstr ""
+
+#: includes/controls/font-size.php:34 includes/controls/font-size.php:35
+msgid "Font Size sm"
+msgstr ""
+
+#: includes/controls/font-size.php:36
+msgid "H1"
+msgstr ""
+
+#: includes/controls/font-size.php:37
+msgid "H2"
+msgstr ""
+
+#: includes/controls/font-size.php:38
+msgid "H3"
+msgstr ""
+
+#: includes/controls/font-size.php:39
+msgid "H4"
+msgstr ""
+
+#: includes/controls/font-size.php:40
+msgid "H5"
+msgstr ""
+
+#: includes/controls/font-size.php:41
+msgid "H6"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card-v2.php:54
+msgid "Card V2"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card-v2.php:111
+#: modules/accordion/skins/skin-accordion-card.php:93
+#: modules/accordion/skins/skin-accordion-card.php:285
+#: modules/accordion/skins/skin-accordion-silicon.php:77
+#: modules/button/skins/skin-button-market.php:199
+#: modules/button/skins/skin-button-reviews.php:88
+#: modules/carousel/skins/skin-post-carousel-v3.php:121
+#: modules/carousel/skins/skin-post-carousel-v3.php:129
+#: modules/carousel/widgets/content-carousel.php:252
+#: modules/carousel/widgets/content-carousel.php:421
+#: modules/carousel/widgets/content-carousel.php:587
+#: modules/carousel/widgets/content-carousel.php:767
+#: modules/carousel/widgets/content-carousel.php:875
+#: modules/carousel/widgets/content-carousel.php:1241
+#: modules/carousel/widgets/iconbox-carousel.php:138
+#: modules/carousel/widgets/iconbox-carousel.php:355
+#: modules/carousel/widgets/iconbox-carousel.php:468
+#: modules/carousel/widgets/imagebox-carousel.php:132
+#: modules/carousel/widgets/imagebox-carousel.php:478
+#: modules/carousel/widgets/imagebox-carousel.php:755
+#: modules/carousel/widgets/mobile-carousel.php:115
+#: modules/carousel/widgets/mobile-carousel.php:251
+#: modules/carousel/widgets/mobile-carousel.php:397
+#: modules/carousel/widgets/mobile-carousel.php:488
+#: modules/carousel/widgets/post-carousel.php:569
+#: modules/hero/skins/medical-hero.php:99 modules/hero/widgets/hero.php:104
+#: modules/highlighted-heading/widgets/highlighted-heading.php:68
+#: modules/highlighted-heading/widgets/highlighted-heading.php:204
+#: modules/logo/widgets/logo.php:150 modules/pricing/skins/skin-list.php:149
+#: modules/pricing/skins/skin-list.php:398
+#: modules/pricing/widgets/price.php:101 modules/pricing/widgets/price.php:504
+#: modules/query-control/controls/group-control-query.php:382
+#: modules/ticket/widgets/ticket.php:100 modules/ticket/widgets/ticket.php:477
+msgid "Title"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card-v2.php:119
+#: modules/accordion/skins/skin-accordion-card.php:293
+#: modules/accordion/skins/skin-accordion-silicon.php:85
+msgid " Background Hover Color"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card-v2.php:133
+#: modules/accordion/skins/skin-accordion-card-v2.php:176
+#: modules/accordion/skins/skin-accordion-card.php:307
+#: modules/accordion/skins/skin-accordion-card.php:350
+#: modules/accordion/skins/skin-accordion-silicon.php:99
+#: modules/accordion/skins/skin-accordion-silicon.php:142
+#: modules/button/skins/skin-button-silicon.php:373
+#: modules/button/skins/skin-button-silicon.php:415
+#: modules/page-settings/module.php:359
+#: modules/posts/traits/button-widget-trait.php:303
+#: modules/posts/traits/button-widget-trait.php:348
+#: modules/section/module.php:99 modules/ticket/widgets/ticket.php:325
+msgid "Background"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card-v2.php:144
+#: modules/accordion/skins/skin-accordion-card-v2.php:187
+#: modules/accordion/skins/skin-accordion-card.php:318
+#: modules/accordion/skins/skin-accordion-card.php:361
+#: modules/accordion/skins/skin-accordion-silicon.php:110
+#: modules/accordion/skins/skin-accordion-silicon.php:153
+#: modules/blockquote/widgets/blockquote.php:257
+#: modules/carousel/widgets/base.php:439 modules/carousel/widgets/base.php:497
+#: modules/image/module.php:133 modules/posts/widgets/posts-base.php:134
+#: modules/posts/widgets/posts-base.php:493
+#: modules/posts/widgets/posts-base.php:513
+#: modules/posts/widgets/posts-base.php:533
+#: modules/pricing/widgets/price.php:664 modules/shapes/widgets/shapes.php:59
+msgid "Color"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card-v2.php:168
+#: modules/accordion/skins/skin-accordion-card.php:115
+#: modules/accordion/skins/skin-accordion-card.php:342
+#: modules/accordion/skins/skin-accordion-silicon.php:134
+#: modules/blockquote/widgets/blockquote.php:93
+#: modules/blockquote/widgets/blockquote.php:158
+#: modules/carousel/widgets/brand-carousel.php:132
+#: modules/carousel/widgets/content-carousel.php:866
+#: modules/carousel/widgets/iconbox-carousel.php:199
+#: modules/carousel/widgets/imagebox-carousel.php:441
+#: modules/carousel/widgets/post-carousel.php:503
+#: modules/carousel/widgets/team-carousel.php:411
+#: modules/carousel/widgets/testimonial-carousel.php:355
+#: modules/hero/widgets/hero.php:97
+#: modules/image-gallery/skins/skin-image-gallery.php:169
+#: modules/nav-tabs/skins/skin-nav-tabs.php:152
+#: modules/nav-tabs/widgets/nav-tabs.php:344
+#: modules/team-member/widgets/team-member.php:507
+msgid "Content"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card-v2.php:209
+msgid "Wrap CSS"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card-v2.php:212
+#: modules/accordion/skins/skin-accordion-card.php:398
+#: modules/carousel/widgets/brand-carousel.php:193
+#: modules/carousel/widgets/iconbox-carousel.php:369
+#: modules/carousel/widgets/iconbox-carousel.php:412
+#: modules/carousel/widgets/imagebox-carousel.php:346
+#: modules/carousel/widgets/imagebox-carousel.php:404
+#: modules/carousel/widgets/imagebox-carousel.php:491
+#: modules/carousel/widgets/imagebox-carousel.php:539
+#: modules/image/module.php:92
+msgid "Additional CSS class that you want to apply to the a tag"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card.php:57
+#: modules/carousel/widgets/brand-carousel.php:141
+#: modules/carousel/widgets/iconbox-carousel.php:296
+#: modules/carousel/widgets/imagebox-carousel.php:265
+#: modules/carousel/widgets/imagebox-carousel.php:277
+#: modules/carousel/widgets/post-carousel.php:542
+#: modules/carousel/widgets/team-carousel.php:170
+#: modules/carousel/widgets/team-carousel.php:180
+#: modules/icon-box/skins/skin-icon-box-v2.php:390
+#: modules/icon-box/skins/skin-icon-box.php:90
+#: modules/image-box/skins/skin-image-box-v2.php:235
+#: modules/image-box/skins/skin-image-box.php:320
+#: modules/pricing/skins/skin-card.php:32
+#: modules/pricing/skins/skin-card.php:317
+#: modules/team-member/widgets/team-member.php:244
+#: modules/team-member/widgets/team-member.php:254
+msgid "Card"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card.php:91
+msgid "Title & Description"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card.php:104
+#: modules/accordion/skins/skin-accordion-card.php:385
+#: modules/carousel/skins/skin-team-carousel.php:207
+#: modules/carousel/widgets/brand-carousel.php:319
+#: modules/carousel/widgets/content-carousel.php:396
+#: modules/carousel/widgets/imagebox-carousel.php:113
+#: modules/carousel/widgets/imagebox-carousel.php:318
+#: modules/carousel/widgets/imagebox-carousel.php:734
+#: modules/carousel/widgets/mobile-carousel.php:477
+#: modules/carousel/widgets/team-carousel.php:102
+#: modules/carousel/widgets/team-carousel.php:263
+#: modules/ticket/widgets/ticket.php:357 modules/ticket/widgets/ticket.php:371
+msgid "Image"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card.php:117
+msgid "Accordion Content"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card.php:125
+msgid "Accordion Items"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card.php:393
+#: modules/carousel/widgets/brand-carousel.php:247
+#: modules/carousel/widgets/imagebox-carousel.php:356
+#: modules/carousel/widgets/team-carousel.php:272
+#: modules/hero/widgets/hero.php:502 modules/image/module.php:75
+#: modules/image-box/skins/skin-image-box-v2.php:370
+#: modules/image-box/skins/skin-image-box.php:114
+#: modules/image-gallery/skins/skin-profile.php:81
+#: modules/team-member/widgets/team-member.php:116
+msgid "Image Class"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card.php:395
+#: modules/carousel/widgets/brand-carousel.php:249 modules/image/module.php:77
+msgid "Add your custom class for <img> tag  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/accordion/skins/skin-accordion-card.php:407
+#: modules/button/skins/skin-button-reviews.php:206
+#: modules/carousel/widgets/brand-carousel.php:260
+#: modules/carousel/widgets/imagebox-carousel.php:416
+#: modules/carousel/widgets/testimonial-carousel.php:522
+msgid "Image Width"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:55
+#: modules/blockquote/widgets/blockquote.php:86
+#: modules/blockquote/widgets/blockquote.php:324
+#: modules/carousel/widgets/testimonial-carousel.php:107
+#: modules/carousel/widgets/testimonial-carousel.php:175
+#: modules/carousel/widgets/testimonial-carousel.php:364
+#: modules/carousel/widgets/testimonial-carousel.php:724
+msgid "Blockquote"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:98
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:98
+msgid "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:99
+msgid "Enter your quote"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:107
+#: modules/blockquote/widgets/blockquote.php:200
+#: modules/carousel/widgets/post-carousel.php:330
+#: modules/carousel/widgets/post-carousel.php:352
+#: modules/query-control/controls/group-control-posts.php:103
+#: modules/query-control/controls/group-control-query.php:131
+#: modules/query-control/controls/group-control-query.php:168
+#: modules/query-control/controls/group-control-query.php:209
+#: modules/query-control/controls/group-control-query.php:267
+msgid "Author"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:112
+msgid "John Doe"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:120
+msgid "Author Byline"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:125
+msgid "CEO of Ipsum Company"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:133
+#: modules/carousel/widgets/testimonial-carousel.php:117
+#: modules/carousel/widgets/testimonial-carousel.php:185
+#: modules/carousel/widgets/testimonial-carousel.php:512
+#: modules/carousel/widgets/testimonial-carousel.php:750
+msgid "Avatar"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:166
+#: modules/blockquote/widgets/blockquote.php:208
+#: modules/button/skins/skin-button-silicon.php:349
+#: modules/button/skins/skin-button-silicon.php:402
+#: modules/button-icon/widgets/button-icon.php:265
+#: modules/carousel/widgets/content-carousel.php:895
+#: modules/carousel/widgets/content-carousel.php:955
+#: modules/carousel/widgets/content-carousel.php:1006
+#: modules/carousel/widgets/content-carousel.php:1152
+#: modules/carousel/widgets/imagebox-carousel.php:627
+#: modules/carousel/widgets/mobile-carousel.php:417
+#: modules/carousel/widgets/mobile-carousel.php:451
+#: modules/carousel/widgets/testimonial-carousel.php:384
+#: modules/carousel/widgets/testimonial-carousel.php:572
+#: modules/carousel/widgets/testimonial-carousel.php:634
+#: modules/icon-box/skins/skin-icon-box-v2.php:490
+#: modules/nav-tabs/skins/skin-nav-tabs.php:201
+#: modules/nav-tabs/skins/skin-nav-tabs.php:253
+#: modules/nav-tabs/skins/skin-nav-tabs.php:296
+#: modules/nav-tabs/widgets/nav-tabs.php:198
+#: modules/nav-tabs/widgets/nav-tabs.php:260
+#: modules/nav-tabs/widgets/nav-tabs.php:303
+#: modules/page-settings/module.php:604 modules/page-settings/module.php:631
+#: modules/page-settings/module.php:695 modules/page-settings/module.php:740
+#: modules/posts/traits/button-widget-trait.php:289
+#: modules/posts/traits/button-widget-trait.php:334
+#: modules/pricing/widgets/price.php:315 modules/pricing/widgets/price.php:760
+#: modules/pricing/widgets/price.php:818 modules/pricing/widgets/price.php:884
+#: modules/ticket/widgets/ticket.php:616 modules/ticket/widgets/ticket.php:674
+#: modules/ticket/widgets/ticket.php:731
+msgid "Text Color"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:188
+#: modules/blockquote/widgets/blockquote.php:230
+#: modules/blockquote/widgets/blockquote.php:279
+msgid "Gap"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:249
+#: modules/blockquote/widgets/blockquote.php:313
+#: modules/button/skins/skin-button-silicon.php:235
+#: modules/page-settings/module.php:405
+msgid "Border"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:268
+#: modules/button/skins/skin-button-market.php:123
+#: modules/carousel/widgets/lottie-carousel.php:114
+#: modules/highlighted-heading/widgets/highlighted-heading.php:317
+#: modules/logo/widgets/logo.php:123 modules/ticket/widgets/ticket.php:528
+msgid "Width"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:291
+msgid "Vertical Padding"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:305
+#: modules/button/skins/skin-button-silicon.php:278
+#: modules/button/skins/skin-button-silicon.php:500
+#: modules/button/skins/skin-button-silicon.php:513
+#: modules/carousel/widgets/testimonial-carousel.php:656
+#: modules/column/module.php:87
+#: modules/image-gallery/skins/skin-parallax-gfx.php:78
+#: modules/section/module.php:192 modules/section/module.php:209
+msgid "CSS Classes"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:315
+msgid "Additional CSS classes to be applied to the border tag"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:326
+msgid "Additional CSS classes to be applied to the blockquote tag"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:335
+msgid "Quote Content"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:337
+msgid ""
+"Additional CSS classes to be applied to the content inside the blockquote "
+"tag"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:346
+#: modules/carousel/widgets/testimonial-carousel.php:551
+#: modules/team-member/widgets/team-member.php:128
+msgid "Author Name"
+msgstr ""
+
+#: modules/blockquote/widgets/blockquote.php:348
+msgid "Additional CSS classes to be applied to the author of the quote"
+msgstr ""
+
+#: modules/breadcrumb/widgets/breadcrumb.php:39
+msgid "Breadcrumb"
+msgstr ""
+
+#: modules/breadcrumb/widgets/breadcrumb.php:79
+#: templates/documents/section.php:16 templates/types/section.php:21
+msgid "Section"
+msgstr ""
+
+#: modules/breadcrumb/widgets/breadcrumb.php:86
+msgid "Nav Class"
+msgstr ""
+
+#: modules/breadcrumb/widgets/breadcrumb.php:88
+msgid "container py-4 mb-2 my-lg-3 "
+msgstr ""
+
+#: modules/breadcrumb/widgets/breadcrumb.php:95
+msgid "Ordered List Class"
+msgstr ""
+
+#: modules/button/skins/skin-button-market.php:56
+msgid "Market Button"
+msgstr ""
+
+#: modules/button/skins/skin-button-market.php:101
+msgid "Image Light"
+msgstr ""
+
+#: modules/button/skins/skin-button-market.php:112
+msgid "Image Dark"
+msgstr ""
+
+#: modules/button/skins/skin-button-market.php:150
+msgid "Button Wrap Class"
+msgstr ""
+
+#: modules/button/skins/skin-button-market.php:152
+#: modules/carousel/widgets/team-carousel.php:423
+#: modules/carousel/widgets/team-carousel.php:453
+#: modules/image-gallery/skins/skin-profile.php:83
+#: modules/image-gallery/skins/skin-profile.php:164
+#: modules/nav-tabs/skins/skin-nav-tabs.php:163
+#: modules/nav-tabs/skins/skin-nav-tabs.php:173
+#: modules/star-rating/skins/skin-star-rating.php:163
+#: modules/star-rating/skins/skin-star-rating.php:195
+#: modules/star-rating/skins/skin-star-rating.php:228
+#: modules/star-rating/skins/skin-star-rating.php:246
+#: modules/team-member/widgets/team-member.php:118
+#: modules/team-member/widgets/team-member.php:209
+#: modules/team-member/widgets/team-member.php:518
+#: modules/team-member/widgets/team-member.php:547
+msgid "Enter Your Class"
+msgstr ""
+
+#: modules/button/skins/skin-button-market.php:153
+#: modules/team-member/widgets/team-member.php:210
+msgid "Additional CSS class that you want to apply to the <a> tag"
+msgstr ""
+
+#: modules/button/skins/skin-button-market.php:170
+#: modules/button/skins/skin-button-reviews.php:158
+#: modules/button/skins/skin-button-reviews.php:166
+#: modules/button/skins/skin-button-silicon.php:321
+#: modules/button-icon/widgets/button-icon.php:85
+#: modules/button-icon/widgets/button-icon.php:213
+#: modules/carousel/widgets/content-carousel.php:1105
+#: modules/carousel/widgets/content-carousel.php:1114
+#: modules/carousel/widgets/imagebox-carousel.php:607
+#: modules/icon-box/skins/skin-icon-box-v2.php:110
+#: modules/icon-box/skins/skin-icon-box-v2.php:470
+#: modules/image/skins/skin-image.php:196 modules/page-settings/module.php:669
+#: modules/posts/widgets/posts-base.php:76
+#: modules/posts/widgets/posts-base.php:326
+#: modules/pricing/widgets/price.php:710 modules/ticket/widgets/ticket.php:566
+msgid "Button"
+msgstr ""
+
+#: modules/button/skins/skin-button-market.php:178
+#: modules/carousel/widgets/content-carousel.php:450
+#: modules/carousel/widgets/content-carousel.php:926
+#: modules/hero/skins/medical-hero.php:110 modules/hero/widgets/hero.php:115
+msgid "Subtitle"
+msgstr ""
+
+#: modules/button/skins/skin-button-market.php:188
+#: modules/button/skins/skin-button-market.php:209
+#: modules/carousel/widgets/content-carousel.php:884
+#: modules/carousel/widgets/content-carousel.php:940
+#: modules/carousel/widgets/content-carousel.php:994
+#: modules/carousel/widgets/content-carousel.php:1123
+#: modules/carousel/widgets/iconbox-carousel.php:386
+#: modules/carousel/widgets/iconbox-carousel.php:429
+#: modules/carousel/widgets/imagebox-carousel.php:508
+#: modules/carousel/widgets/imagebox-carousel.php:564
+#: modules/carousel/widgets/imagebox-carousel.php:616
+#: modules/carousel/widgets/mobile-carousel.php:406
+#: modules/carousel/widgets/mobile-carousel.php:439
+#: modules/carousel/widgets/testimonial-carousel.php:561
+#: modules/carousel/widgets/testimonial-carousel.php:623
+#: modules/icon-box/skins/skin-icon-box-v2.php:479
+msgid "Typography"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:56
+#: modules/button/skins/skin-button-reviews.php:138
+#: modules/carousel/skins/skin-team-carousel.php:289
+#: modules/star-rating/skins/skin-star-rating.php:122
+#: modules/team-member/widgets/team-member.php:179
+msgid "Reviews"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:97
+#: modules/carousel/widgets/testimonial-carousel.php:207
+#: modules/logo/widgets/logo.php:47 modules/logo/widgets/logo.php:86
+#: modules/testimonial/skins/skin-testimonial.php:262
+msgid "Logo"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:109
+#: modules/carousel/widgets/testimonial-carousel.php:293
+msgid "Enable Rating Icon"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:111
+#: modules/button/skins/skin-button-reviews.php:198
+#: modules/carousel/skins/skin-mobile-carousel.php:96
+#: modules/carousel/skins/skin-team-carousel.php:261
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:127
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:140
+#: modules/carousel/skins/skin-testimonial-carousel.php:142
+#: modules/carousel/widgets/base.php:131 modules/carousel/widgets/base.php:160
+#: modules/carousel/widgets/base.php:181
+#: modules/carousel/widgets/brand-carousel.php:144
+#: modules/carousel/widgets/brand-carousel.php:155
+#: modules/carousel/widgets/iconbox-carousel.php:309
+#: modules/carousel/widgets/imagebox-carousel.php:280
+#: modules/carousel/widgets/imagebox-carousel.php:291
+#: modules/carousel/widgets/imagebox-carousel.php:330
+#: modules/carousel/widgets/imagebox-carousel.php:372
+#: modules/carousel/widgets/post-carousel.php:231
+#: modules/carousel/widgets/post-carousel.php:263
+#: modules/carousel/widgets/post-carousel.php:274
+#: modules/carousel/widgets/post-carousel.php:288
+#: modules/carousel/widgets/post-carousel.php:304
+#: modules/carousel/widgets/post-carousel.php:315
+#: modules/carousel/widgets/team-carousel.php:183
+#: modules/carousel/widgets/team-carousel.php:194
+#: modules/carousel/widgets/team-carousel.php:208
+#: modules/carousel/widgets/testimonial-carousel.php:254
+#: modules/carousel/widgets/testimonial-carousel.php:295
+#: modules/hero/skins/medical-hero.php:134
+#: modules/icon-box/skins/skin-icon-box-v2.php:413
+#: modules/icon-box/skins/skin-icon-box.php:93
+#: modules/icon-box/skins/skin-icon-box.php:104
+#: modules/image/skins/skin-image.php:106
+#: modules/image-box/skins/skin-image-box-v2.php:279
+#: modules/image-box/skins/skin-image-box.php:138
+#: modules/image-box/skins/skin-image-box.php:323
+#: modules/image-box/skins/skin-image-box.php:334
+#: modules/nav-tabs/widgets/nav-tabs.php:99
+#: modules/pricing/widgets/price.php:456
+#: modules/team-member/widgets/team-member.php:147
+#: modules/team-member/widgets/team-member.php:257
+#: modules/team-member/widgets/team-member.php:268
+#: modules/team-member/widgets/team-member.php:282
+#: modules/testimonial/skins/skin-testimonial.php:130
+msgid "Show"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:112
+#: modules/button/skins/skin-button-reviews.php:199
+#: modules/carousel/skins/skin-mobile-carousel.php:95
+#: modules/carousel/skins/skin-team-carousel.php:262
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:126
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:139
+#: modules/carousel/skins/skin-testimonial-carousel.php:141
+#: modules/carousel/widgets/base.php:130 modules/carousel/widgets/base.php:159
+#: modules/carousel/widgets/base.php:180
+#: modules/carousel/widgets/brand-carousel.php:143
+#: modules/carousel/widgets/brand-carousel.php:154
+#: modules/carousel/widgets/iconbox-carousel.php:308
+#: modules/carousel/widgets/imagebox-carousel.php:279
+#: modules/carousel/widgets/imagebox-carousel.php:290
+#: modules/carousel/widgets/imagebox-carousel.php:329
+#: modules/carousel/widgets/imagebox-carousel.php:371
+#: modules/carousel/widgets/post-carousel.php:232
+#: modules/carousel/widgets/post-carousel.php:264
+#: modules/carousel/widgets/post-carousel.php:275
+#: modules/carousel/widgets/post-carousel.php:289
+#: modules/carousel/widgets/post-carousel.php:305
+#: modules/carousel/widgets/post-carousel.php:316
+#: modules/carousel/widgets/team-carousel.php:182
+#: modules/carousel/widgets/team-carousel.php:193
+#: modules/carousel/widgets/team-carousel.php:207
+#: modules/carousel/widgets/team-carousel.php:222
+#: modules/carousel/widgets/testimonial-carousel.php:255
+#: modules/carousel/widgets/testimonial-carousel.php:296
+#: modules/hero/skins/medical-hero.php:133
+#: modules/icon-box/skins/skin-icon-box-v2.php:412
+#: modules/icon-box/skins/skin-icon-box.php:92
+#: modules/icon-box/skins/skin-icon-box.php:103
+#: modules/icon-box/skins/skin-icon-box.php:118
+#: modules/image/skins/skin-image.php:107
+#: modules/image-box/skins/skin-image-box-v2.php:278
+#: modules/image-box/skins/skin-image-box.php:137
+#: modules/image-box/skins/skin-image-box.php:322
+#: modules/image-box/skins/skin-image-box.php:333
+#: modules/image-box/skins/skin-image-box.php:348
+#: modules/nav-tabs/widgets/nav-tabs.php:100
+#: modules/team-member/widgets/team-member.php:148
+#: modules/team-member/widgets/team-member.php:256
+#: modules/team-member/widgets/team-member.php:267
+#: modules/team-member/widgets/team-member.php:281
+#: modules/team-member/widgets/team-member.php:296
+#: modules/testimonial/skins/skin-testimonial.php:131
+msgid "Hide"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:119
+#: modules/carousel/skins/skin-team-carousel.php:270
+#: modules/carousel/widgets/testimonial-carousel.php:734
+#: modules/star-rating/skins/skin-star-rating.php:88
+#: modules/team-member/widgets/team-member.php:159
+msgid "Rating Star"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:175
+#: modules/carousel/widgets/base.php:299
+#: modules/carousel/widgets/brand-carousel.php:201
+#: modules/carousel/widgets/content-carousel.php:1163
+#: modules/carousel/widgets/iconbox-carousel.php:331
+#: modules/carousel/widgets/imagebox-carousel.php:382
+#: modules/carousel/widgets/imagebox-carousel.php:638
+#: modules/carousel/widgets/testimonial-carousel.php:414
+#: modules/icon-box/skins/skin-icon-box-v2.php:501
+#: modules/image-box/skins/skin-image-box-v2.php:344
+#: modules/nav-tabs/skins/skin-nav-tabs.php:233
+#: modules/nav-tabs/skins/skin-nav-tabs.php:276
+#: modules/nav-tabs/skins/skin-nav-tabs.php:307
+#: modules/nav-tabs/widgets/nav-tabs.php:219
+#: modules/nav-tabs/widgets/nav-tabs.php:271
+#: modules/nav-tabs/widgets/nav-tabs.php:314
+#: modules/page-settings/module.php:653 modules/page-settings/module.php:711
+#: modules/page-settings/module.php:756 modules/pricing/skins/skin-list.php:264
+#: modules/pricing/widgets/price.php:783 modules/pricing/widgets/price.php:829
+#: modules/pricing/widgets/price.php:869 modules/shapes/widgets/shapes.php:130
+#: modules/ticket/widgets/ticket.php:385 modules/ticket/widgets/ticket.php:639
+#: modules/ticket/widgets/ticket.php:685
+msgid "Background Color"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:184
+#: modules/hero/skins/financial-consulting.php:113
+msgid "Subtitle Color"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:196
+msgid "Enable UpperCase"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:233
+#: modules/carousel/skins/skin-team-carousel.php:75
+#: modules/carousel/widgets/testimonial-carousel.php:480
+#: modules/team-member/widgets/team-member.php:349
+msgid "Rating Size"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:250
+#: modules/carousel/skins/skin-team-carousel.php:103
+#: modules/team-member/widgets/team-member.php:377
+msgid "Reviews Color"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:114
+#: modules/button-icon/widgets/button-icon.php:104
+#: modules/carousel/widgets/content-carousel.php:320
+#: modules/carousel/widgets/content-carousel.php:500
+#: modules/carousel/widgets/content-carousel.php:1295
+#: modules/carousel/widgets/imagebox-carousel.php:169
+#: modules/hero/skins/medical-hero.php:164 modules/hero/widgets/hero.php:210
+#: modules/hero/widgets/hero.php:339
+#: modules/icon-box/skins/skin-icon-box-v2.php:119
+#: modules/image-box/skins/skin-image-box.php:157
+#: modules/page-settings/module.php:506
+#: modules/posts/traits/button-widget-trait.php:58
+#: modules/pricing/widgets/price.php:392 modules/ticket/widgets/ticket.php:176
+msgid "Type"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:118
+#: modules/button-icon/widgets/button-icon.php:108
+#: modules/carousel/widgets/content-carousel.php:324
+#: modules/carousel/widgets/content-carousel.php:505
+#: modules/carousel/widgets/content-carousel.php:1299
+#: modules/carousel/widgets/imagebox-carousel.php:173
+#: modules/hero/skins/medical-hero.php:168 modules/hero/widgets/hero.php:214
+#: modules/hero/widgets/hero.php:343
+#: modules/icon-box/skins/skin-icon-box-v2.php:123
+#: modules/image-box/skins/skin-image-box.php:161
+#: modules/page-settings/module.php:428 modules/page-settings/module.php:510
+#: modules/pricing/widgets/price.php:396 modules/shapes/widgets/shapes.php:64
+#: modules/ticket/widgets/ticket.php:180
+msgid "Primary"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:119
+#: modules/button-icon/widgets/button-icon.php:109
+#: modules/carousel/widgets/content-carousel.php:325
+#: modules/carousel/widgets/content-carousel.php:506
+#: modules/carousel/widgets/content-carousel.php:1300
+#: modules/carousel/widgets/imagebox-carousel.php:174
+#: modules/hero/skins/medical-hero.php:169 modules/hero/widgets/hero.php:215
+#: modules/hero/widgets/hero.php:344
+#: modules/icon-box/skins/skin-icon-box-v2.php:124
+#: modules/image-box/skins/skin-image-box.php:162
+#: modules/page-settings/module.php:429 modules/page-settings/module.php:511
+#: modules/pricing/widgets/price.php:397 modules/shapes/widgets/shapes.php:65
+#: modules/ticket/widgets/ticket.php:181
+msgid "Secondary"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:120
+#: modules/button-icon/widgets/button-icon.php:110
+#: modules/carousel/widgets/content-carousel.php:326
+#: modules/carousel/widgets/content-carousel.php:507
+#: modules/carousel/widgets/content-carousel.php:1301
+#: modules/carousel/widgets/imagebox-carousel.php:175
+#: modules/hero/skins/medical-hero.php:170 modules/hero/widgets/hero.php:216
+#: modules/hero/widgets/hero.php:345
+#: modules/icon-box/skins/skin-icon-box-v2.php:125
+#: modules/image-box/skins/skin-image-box.php:163
+#: modules/page-settings/module.php:430 modules/page-settings/module.php:512
+#: modules/posts/traits/button-widget-trait.php:64
+#: modules/pricing/widgets/price.php:398 modules/shapes/widgets/shapes.php:66
+#: modules/ticket/widgets/ticket.php:182
+msgid "Success"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:121
+#: modules/button-icon/widgets/button-icon.php:111
+#: modules/carousel/widgets/content-carousel.php:327
+#: modules/carousel/widgets/content-carousel.php:508
+#: modules/carousel/widgets/content-carousel.php:1302
+#: modules/carousel/widgets/imagebox-carousel.php:176
+#: modules/hero/skins/medical-hero.php:171 modules/hero/widgets/hero.php:217
+#: modules/hero/widgets/hero.php:346
+#: modules/icon-box/skins/skin-icon-box-v2.php:126
+#: modules/image-box/skins/skin-image-box.php:164
+#: modules/page-settings/module.php:431 modules/page-settings/module.php:513
+#: modules/posts/traits/button-widget-trait.php:66
+#: modules/pricing/widgets/price.php:399 modules/shapes/widgets/shapes.php:69
+#: modules/ticket/widgets/ticket.php:183
+msgid "Danger"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:122
+#: modules/button-icon/widgets/button-icon.php:112
+#: modules/carousel/widgets/content-carousel.php:328
+#: modules/carousel/widgets/content-carousel.php:509
+#: modules/carousel/widgets/content-carousel.php:1303
+#: modules/carousel/widgets/imagebox-carousel.php:177
+#: modules/hero/skins/medical-hero.php:172 modules/hero/widgets/hero.php:218
+#: modules/hero/widgets/hero.php:347
+#: modules/icon-box/skins/skin-icon-box-v2.php:127
+#: modules/image-box/skins/skin-image-box.php:165
+#: modules/page-settings/module.php:432 modules/page-settings/module.php:514
+#: modules/posts/traits/button-widget-trait.php:65
+#: modules/pricing/widgets/price.php:400 modules/shapes/widgets/shapes.php:68
+#: modules/ticket/widgets/ticket.php:184
+msgid "Warning"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:123
+#: modules/button-icon/widgets/button-icon.php:113
+#: modules/carousel/widgets/content-carousel.php:329
+#: modules/carousel/widgets/content-carousel.php:510
+#: modules/carousel/widgets/content-carousel.php:1304
+#: modules/carousel/widgets/imagebox-carousel.php:178
+#: modules/hero/skins/medical-hero.php:173 modules/hero/widgets/hero.php:219
+#: modules/hero/widgets/hero.php:348
+#: modules/icon-box/skins/skin-icon-box-v2.php:128
+#: modules/image-box/skins/skin-image-box.php:166
+#: modules/page-settings/module.php:433 modules/page-settings/module.php:515
+#: modules/posts/traits/button-widget-trait.php:63
+#: modules/pricing/widgets/price.php:401 modules/shapes/widgets/shapes.php:67
+#: modules/ticket/widgets/ticket.php:185
+msgid "Info"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:124
+#: modules/button-icon/widgets/button-icon.php:114
+#: modules/carousel/widgets/content-carousel.php:330
+#: modules/carousel/widgets/content-carousel.php:511
+#: modules/carousel/widgets/content-carousel.php:1305
+#: modules/carousel/widgets/imagebox-carousel.php:179
+#: modules/hero/skins/medical-hero.php:174 modules/hero/widgets/hero.php:220
+#: modules/hero/widgets/hero.php:349
+#: modules/icon-box/skins/skin-icon-box-v2.php:129
+#: modules/image-box/skins/skin-image-box.php:167
+#: modules/page-settings/module.php:349 modules/page-settings/module.php:364
+#: modules/page-settings/module.php:434 modules/page-settings/module.php:516
+#: modules/pricing/widgets/price.php:402 modules/shapes/widgets/shapes.php:70
+#: modules/ticket/widgets/ticket.php:186
+msgid "Light"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:125
+#: modules/button-icon/widgets/button-icon.php:115
+#: modules/carousel/widgets/content-carousel.php:331
+#: modules/carousel/widgets/content-carousel.php:512
+#: modules/carousel/widgets/content-carousel.php:1306
+#: modules/carousel/widgets/imagebox-carousel.php:180
+#: modules/hero/skins/medical-hero.php:175 modules/hero/widgets/hero.php:221
+#: modules/hero/widgets/hero.php:350
+#: modules/icon-box/skins/skin-icon-box-v2.php:130
+#: modules/image-box/skins/skin-image-box.php:168
+#: modules/page-settings/module.php:348 modules/page-settings/module.php:365
+#: modules/page-settings/module.php:435 modules/page-settings/module.php:517
+#: modules/pricing/widgets/price.php:403 modules/shapes/widgets/shapes.php:71
+#: modules/ticket/widgets/ticket.php:187
+msgid "Dark"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:126
+#: modules/button-icon/widgets/button-icon.php:116
+#: modules/button-icon/widgets/button-icon.php:202
+#: modules/carousel/widgets/brand-carousel.php:327
+#: modules/carousel/widgets/content-carousel.php:311
+#: modules/carousel/widgets/content-carousel.php:332
+#: modules/carousel/widgets/content-carousel.php:491
+#: modules/carousel/widgets/content-carousel.php:513
+#: modules/carousel/widgets/content-carousel.php:1249
+#: modules/carousel/widgets/content-carousel.php:1286
+#: modules/carousel/widgets/content-carousel.php:1307
+#: modules/carousel/widgets/iconbox-carousel.php:165
+#: modules/carousel/widgets/imagebox-carousel.php:160
+#: modules/carousel/widgets/imagebox-carousel.php:181
+#: modules/carousel/widgets/lottie-carousel.php:267
+#: modules/carousel/widgets/lottie-carousel.php:282
+#: modules/carousel/widgets/mobile-carousel.php:165
+#: modules/hero/skins/medical-hero.php:153
+#: modules/hero/skins/medical-hero.php:176 modules/hero/widgets/hero.php:182
+#: modules/hero/widgets/hero.php:222 modules/hero/widgets/hero.php:330
+#: modules/hero/widgets/hero.php:351
+#: modules/highlighted-heading/widgets/highlighted-heading.php:118
+#: modules/icon-box/skins/skin-icon-box-v2.php:131
+#: modules/icon-box/skins/skin-icon-box-v2.php:206
+#: modules/image/skins/skin-image.php:91
+#: modules/image-box/skins/skin-image-box-v2.php:262
+#: modules/image-box/skins/skin-image-box.php:169
+#: modules/page-settings/module.php:436 modules/page-settings/module.php:493
+#: modules/page-settings/module.php:518
+#: modules/posts/traits/button-widget-trait.php:90
+#: modules/pricing/widgets/price.php:380 modules/pricing/widgets/price.php:404
+#: modules/ticket/widgets/ticket.php:164 modules/ticket/widgets/ticket.php:188
+msgid "Link"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:134
+#: modules/button-icon/widgets/button-icon.php:127
+#: modules/hero/skins/medical-hero.php:187 modules/hero/widgets/hero.php:191
+#: modules/hero/widgets/hero.php:360
+#: modules/icon-box/skins/skin-icon-box-v2.php:139
+#: modules/image-box/skins/skin-image-box.php:180
+#: modules/pricing/widgets/price.php:412 modules/ticket/widgets/ticket.php:196
+msgid "Variant"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:138
+#: modules/button/skins/skin-button-silicon.php:153
+#: modules/button/skins/skin-button-silicon.php:167
+#: modules/button-icon/widgets/button-icon.php:131
+#: modules/button-icon/widgets/button-icon.php:147
+#: modules/button-icon/widgets/button-icon.php:164
+#: modules/carousel/skins/skin-post-carousel.php:75
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:95
+#: modules/carousel/widgets/content-carousel.php:345
+#: modules/carousel/widgets/content-carousel.php:372
+#: modules/carousel/widgets/content-carousel.php:526
+#: modules/carousel/widgets/content-carousel.php:553
+#: modules/carousel/widgets/content-carousel.php:1320
+#: modules/carousel/widgets/content-carousel.php:1347
+#: modules/carousel/widgets/imagebox-carousel.php:194
+#: modules/carousel/widgets/imagebox-carousel.php:221
+#: modules/hero/skins/medical-hero.php:191
+#: modules/hero/skins/medical-hero.php:209
+#: modules/hero/skins/medical-hero.php:226 modules/hero/widgets/hero.php:195
+#: modules/hero/widgets/hero.php:235 modules/hero/widgets/hero.php:268
+#: modules/hero/widgets/hero.php:364 modules/hero/widgets/hero.php:380
+#: modules/hero/widgets/hero.php:407
+#: modules/icon-box/skins/skin-icon-box-v2.php:143
+#: modules/icon-box/skins/skin-icon-box-v2.php:158
+#: modules/icon-box/skins/skin-icon-box-v2.php:173
+#: modules/image/skins/skin-image.php:118
+#: modules/image-box/skins/skin-image-box.php:184
+#: modules/image-box/skins/skin-image-box.php:202
+#: modules/image-box/skins/skin-image-box.php:219
+#: modules/nav-menu/widgets/nav-menu.php:204
+#: modules/page-settings/module.php:317 modules/page-settings/module.php:534
+#: modules/page-settings/module.php:552 modules/page-settings/module.php:809
+#: modules/posts/traits/button-widget-trait.php:62
+#: modules/pricing/widgets/price.php:416 modules/pricing/widgets/price.php:726
+#: modules/ticket/widgets/ticket.php:200 modules/ticket/widgets/ticket.php:582
+msgid "Default"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:139
+#: modules/button-icon/widgets/button-icon.php:132
+#: modules/hero/skins/medical-hero.php:192 modules/hero/widgets/hero.php:196
+#: modules/hero/widgets/hero.php:365
+#: modules/icon-box/skins/skin-icon-box-v2.php:144
+#: modules/image-box/skins/skin-image-box.php:185
+#: modules/pricing/widgets/price.php:417 modules/ticket/widgets/ticket.php:201
+msgid "Outline"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:140
+#: modules/hero/skins/medical-hero.php:193 modules/hero/widgets/hero.php:197
+#: modules/hero/widgets/hero.php:366
+#: modules/icon-box/skins/skin-icon-box-v2.php:145
+#: modules/image-box/skins/skin-image-box.php:186
+#: modules/nav-tabs/skins/skin-nav-tabs.php:289
+#: modules/nav-tabs/widgets/nav-tabs.php:296
+#: modules/posts/widgets/posts-base.php:526
+msgid "Active"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:141
+#: modules/carousel/skins/skin-mobile-carousel.php:106
+#: modules/hero/skins/medical-hero.php:194 modules/hero/widgets/hero.php:198
+#: modules/hero/widgets/hero.php:367
+#: modules/icon-box/skins/skin-icon-box-v2.php:146
+#: modules/image-box/skins/skin-image-box.php:187
+msgid "Disabled"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:149
+#: modules/button-icon/widgets/button-icon.php:143
+#: modules/carousel/widgets/base.php:414 modules/carousel/widgets/base.php:479
+#: modules/carousel/widgets/content-carousel.php:368
+#: modules/carousel/widgets/content-carousel.php:549
+#: modules/carousel/widgets/content-carousel.php:1343
+#: modules/carousel/widgets/iconbox-carousel.php:279
+#: modules/carousel/widgets/imagebox-carousel.php:217
+#: modules/carousel/widgets/mobile-carousel.php:180
+#: modules/carousel/widgets/team-carousel.php:295
+#: modules/hero/skins/medical-hero.php:205 modules/hero/widgets/hero.php:264
+#: modules/hero/widgets/hero.php:403
+#: modules/highlighted-heading/widgets/highlighted-heading.php:142
+#: modules/icon-box/skins/skin-icon-box-v2.php:169
+#: modules/icon-box/skins/skin-icon-box-v2.php:351
+#: modules/icon-box/skins/skin-icon-box-v2.php:572
+#: modules/icon-box/skins/skin-icon-box.php:198
+#: modules/image/skins/skin-image.php:114
+#: modules/image-box/skins/skin-image-box.php:198
+#: modules/page-settings/module.php:548
+#: modules/posts/traits/button-widget-trait.php:135
+#: modules/pricing/widgets/price.php:722 modules/ticket/widgets/ticket.php:578
+msgid "Size"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:154
+#: modules/button-icon/widgets/button-icon.php:148
+#: modules/carousel/widgets/content-carousel.php:373
+#: modules/carousel/widgets/content-carousel.php:554
+#: modules/carousel/widgets/content-carousel.php:1348
+#: modules/carousel/widgets/imagebox-carousel.php:222
+#: modules/hero/skins/medical-hero.php:210 modules/hero/widgets/hero.php:269
+#: modules/hero/widgets/hero.php:408
+#: modules/icon-box/skins/skin-icon-box-v2.php:174
+#: modules/image/skins/skin-image.php:119
+#: modules/image-box/skins/skin-image-box.php:203
+#: modules/page-settings/module.php:553
+#: modules/posts/traits/button-widget-trait.php:30
+#: modules/pricing/widgets/price.php:727 modules/ticket/widgets/ticket.php:583
+msgid "Small"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:155
+#: modules/button-icon/widgets/button-icon.php:149
+#: modules/carousel/widgets/content-carousel.php:374
+#: modules/carousel/widgets/content-carousel.php:555
+#: modules/carousel/widgets/content-carousel.php:1349
+#: modules/carousel/widgets/imagebox-carousel.php:223
+#: modules/hero/skins/medical-hero.php:211 modules/hero/widgets/hero.php:270
+#: modules/hero/widgets/hero.php:409
+#: modules/icon-box/skins/skin-icon-box-v2.php:175
+#: modules/image/skins/skin-image.php:120
+#: modules/image-box/skins/skin-image-box.php:204
+#: modules/page-settings/module.php:554
+#: modules/posts/traits/button-widget-trait.php:32
+#: modules/pricing/widgets/price.php:728 modules/ticket/widgets/ticket.php:584
+msgid "Large"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:163
+#: modules/button-icon/widgets/button-icon.php:160
+#: modules/carousel/widgets/content-carousel.php:341
+#: modules/carousel/widgets/content-carousel.php:522
+#: modules/carousel/widgets/content-carousel.php:1316
+#: modules/carousel/widgets/imagebox-carousel.php:190
+#: modules/hero/skins/medical-hero.php:222 modules/hero/widgets/hero.php:231
+#: modules/hero/widgets/hero.php:376
+#: modules/icon-box/skins/skin-icon-box-v2.php:154
+#: modules/image-box/skins/skin-image-box.php:215
+#: modules/page-settings/module.php:530
+msgid "Shape"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:168
+#: modules/button-icon/widgets/button-icon.php:165
+#: modules/carousel/widgets/content-carousel.php:346
+#: modules/carousel/widgets/content-carousel.php:527
+#: modules/carousel/widgets/content-carousel.php:1321
+#: modules/carousel/widgets/imagebox-carousel.php:195
+#: modules/hero/skins/medical-hero.php:227 modules/hero/widgets/hero.php:236
+#: modules/hero/widgets/hero.php:381
+#: modules/icon-box/skins/skin-icon-box-v2.php:159
+#: modules/image-box/skins/skin-image-box.php:220
+#: modules/page-settings/module.php:535
+msgid "Pill"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:169
+#: modules/button-icon/widgets/button-icon.php:166
+#: modules/carousel/widgets/content-carousel.php:347
+#: modules/carousel/widgets/content-carousel.php:528
+#: modules/carousel/widgets/content-carousel.php:1322
+#: modules/carousel/widgets/imagebox-carousel.php:196
+#: modules/hero/skins/medical-hero.php:228 modules/hero/widgets/hero.php:237
+#: modules/hero/widgets/hero.php:382
+#: modules/icon-box/skins/skin-icon-box-v2.php:160
+#: modules/image-box/skins/skin-image-box.php:221
+#: modules/page-settings/module.php:536
+msgid "Square"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:177
+#: modules/carousel/widgets/brand-carousel.php:176
+#: modules/carousel/widgets/content-carousel.php:357
+#: modules/carousel/widgets/content-carousel.php:538
+#: modules/carousel/widgets/content-carousel.php:1332
+#: modules/carousel/widgets/imagebox-carousel.php:206
+#: modules/hero/skins/medical-hero.php:239 modules/hero/widgets/hero.php:250
+#: modules/hero/widgets/hero.php:392
+#: modules/icon-box/skins/skin-icon-box-v2.php:185
+#: modules/image-box/skins/skin-image-box.php:232
+#: modules/pricing/widgets/price.php:425 modules/pricing/widgets/price.php:564
+#: modules/ticket/widgets/ticket.php:209
+msgid "Enable Shadow"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:179
+#: modules/button/skins/skin-button-silicon.php:194
+#: modules/button/skins/skin-button-silicon.php:209
+#: modules/button/skins/skin-button-silicon.php:221
+#: modules/button/skins/skin-button-silicon.php:249
+#: modules/carousel/widgets/brand-carousel.php:169
+#: modules/carousel/widgets/brand-carousel.php:178
+#: modules/carousel/widgets/imagebox-carousel.php:745
+#: modules/hero/skins/medical-hero.php:241 modules/image/module.php:123
+#: modules/image-box/skins/skin-image-box-v2.php:290
+#: modules/image-box/skins/skin-image-box.php:234
+#: modules/image-box/skins/skin-image-box.php:249
+#: modules/pricing/skins/skin-card.php:346
+#: modules/pricing/skins/skin-card.php:358
+#: modules/pricing/widgets/price.php:427 modules/pricing/widgets/price.php:554
+#: modules/pricing/widgets/price.php:566 modules/sidebar/module.php:54
+#: modules/ticket/widgets/ticket.php:211
+msgid "Yes"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:180
+#: modules/button/skins/skin-button-silicon.php:195
+#: modules/button/skins/skin-button-silicon.php:210
+#: modules/button/skins/skin-button-silicon.php:222
+#: modules/button/skins/skin-button-silicon.php:250
+#: modules/carousel/widgets/brand-carousel.php:168
+#: modules/carousel/widgets/brand-carousel.php:179
+#: modules/carousel/widgets/imagebox-carousel.php:746
+#: modules/hero/skins/medical-hero.php:242 modules/image/module.php:124
+#: modules/image-box/skins/skin-image-box-v2.php:289
+#: modules/image-box/skins/skin-image-box.php:235
+#: modules/image-box/skins/skin-image-box.php:250
+#: modules/pricing/skins/skin-card.php:347
+#: modules/pricing/skins/skin-card.php:359
+#: modules/pricing/widgets/price.php:428 modules/pricing/widgets/price.php:555
+#: modules/pricing/widgets/price.php:567 modules/sidebar/module.php:55
+#: modules/ticket/widgets/ticket.php:212
+msgid "No"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:192
+#: modules/image-box/skins/skin-image-box.php:247
+msgid "Enable Gradient"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:207
+msgid "Is Block Button?"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:219
+msgid "Is Spinner Button?"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:231
+#: modules/posts/widgets/posts-base.php:293
+msgid "Spinner"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:236
+msgid "Grow"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:247
+msgid "Enable button tag"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:260
+#: modules/carousel/widgets/content-carousel.php:1051
+#: modules/hero/skins/medical-hero.php:287
+#: modules/image/skins/skin-image.php:149
+#: modules/image-box/skins/skin-image-box.php:295
+msgid "Icon Size"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:280
+#: modules/button/skins/skin-button-silicon.php:505
+#: modules/button/skins/skin-button-silicon.php:518
+#: modules/section/module.php:198 modules/section/module.php:215
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:281
+msgid "Added to <i> tag"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:361
+#: modules/button/skins/skin-button-silicon.php:430
+#: modules/carousel/widgets/content-carousel.php:1174
+#: modules/carousel/widgets/iconbox-carousel.php:252
+#: modules/carousel/widgets/imagebox-carousel.php:649
+#: modules/carousel/widgets/testimonial-carousel.php:442
+#: modules/icon-box/skins/skin-icon-box-v2.php:512
+#: modules/image-box/skins/skin-image-box.php:490
+#: modules/page-settings/module.php:424
+#: modules/posts/traits/button-widget-trait.php:364
+#: modules/pricing/widgets/price.php:840 modules/ticket/widgets/ticket.php:696
+msgid "Border Color"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:395
+#: modules/carousel/widgets/brand-carousel.php:152
+#: modules/carousel/widgets/content-carousel.php:1186
+#: modules/carousel/widgets/imagebox-carousel.php:288
+#: modules/carousel/widgets/team-carousel.php:191
+#: modules/carousel/widgets/team-carousel.php:367
+#: modules/icon-box/skins/skin-icon-box.php:101
+#: modules/image/skins/skin-image.php:239
+#: modules/image-box/skins/skin-image-box.php:331
+#: modules/nav-tabs/skins/skin-nav-tabs.php:246
+#: modules/nav-tabs/widgets/nav-tabs.php:253
+#: modules/page-settings/module.php:621 modules/page-settings/module.php:729
+#: modules/posts/traits/button-widget-trait.php:326
+#: modules/posts/widgets/posts-base.php:506
+#: modules/pricing/widgets/price.php:808
+#: modules/team-member/widgets/team-member.php:265
+#: modules/team-member/widgets/team-member.php:463
+#: modules/ticket/widgets/ticket.php:664
+msgid "Hover"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:441
+#: modules/posts/traits/button-widget-trait.php:379
+msgid "Hover Animation"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:467
+#: modules/carousel/widgets/base.php:323
+#: modules/carousel/widgets/post-carousel.php:764
+#: modules/posts/traits/button-widget-trait.php:402
+#: modules/pricing/widgets/price.php:736
+#: modules/testimonial/skins/skin-testimonial.php:230
+#: modules/testimonial/skins/skin-testimonial.php:297
+#: modules/ticket/widgets/ticket.php:592
+msgid "Border Radius"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:487
+#: modules/carousel/widgets/base.php:341
+#: modules/icon-box/skins/skin-icon-box.php:215
+#: modules/posts/traits/button-widget-trait.php:424
+msgid "Padding"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:506
+msgid "Added to .btn tag"
+msgstr ""
+
+#: modules/button/skins/skin-button-silicon.php:519
+msgid "Added to .elementor-button-content-wrapper tag"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:46
+#: modules/icon-box/skins/skin-icon-box-v2.php:215
+msgid "Button Icon"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:92
+#: modules/carousel/skins/skin-post-carousel.php:72
+#: modules/image-box/skins/skin-image-box.php:89
+#: modules/shapes/widgets/shapes.php:94
+msgid "Styles"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:95
+#: modules/icon-box/skins/skin-icon-box.php:54
+#: modules/image-box/skins/skin-image-box.php:55
+#: modules/image-box/skins/skin-image-box.php:92
+#: modules/shapes/widgets/shapes.php:98
+#: modules/star-rating/skins/skin-star-rating.php:52
+#: modules/team-member/skins/skin-team-member.php:35
+msgid "Style 1"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:96
+#: modules/icon-box/skins/skin-icon-box-v2.php:54
+#: modules/image-box/skins/skin-image-box-v2.php:56
+#: modules/image-box/skins/skin-image-box.php:93
+#: modules/shapes/widgets/shapes.php:99
+msgid "Style 2"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:177
+#: modules/carousel/widgets/content-carousel.php:135
+#: modules/carousel/widgets/content-carousel.php:1029
+#: modules/carousel/widgets/content-carousel.php:1043
+#: modules/carousel/widgets/iconbox-carousel.php:126
+#: modules/carousel/widgets/iconbox-carousel.php:208
+#: modules/carousel/widgets/iconbox-carousel.php:456
+#: modules/carousel/widgets/imagebox-carousel.php:232
+#: modules/carousel/widgets/team-carousel.php:286
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:142
+#: modules/hero/skins/medical-hero.php:254 modules/hero/widgets/hero.php:294
+#: modules/hero/widgets/hero.php:429
+#: modules/icon-box/skins/skin-icon-box-v2.php:90
+#: modules/icon-box/skins/skin-icon-box-v2.php:313
+#: modules/icon-box/skins/skin-icon-box.php:162
+#: modules/image/skins/skin-image.php:132
+#: modules/image-box/skins/skin-image-box-v2.php:167
+#: modules/image-box/skins/skin-image-box.php:262
+#: modules/nav-tabs/widgets/nav-tabs.php:134
+#: modules/page-settings/module.php:462
+#: modules/posts/traits/button-widget-trait.php:147
+#: modules/pricing/skins/skin-list.php:139
+#: modules/pricing/widgets/price.php:288
+#: modules/team-member/widgets/team-member.php:198
+#: modules/team-member/widgets/team-member.php:400
+msgid "Icon"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:189
+#: modules/carousel/widgets/lottie-carousel.php:254
+#: modules/posts/traits/button-widget-trait.php:46
+#: modules/pricing/widgets/price.php:298
+msgid "Text"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:194
+#: modules/button-icon/widgets/button-icon.php:195
+#: modules/posts/traits/button-widget-trait.php:45
+#: modules/pricing/widgets/price.php:373 modules/ticket/widgets/ticket.php:157
+msgid "Click here"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:204
+#: modules/carousel/widgets/brand-carousel.php:329
+#: modules/image/skins/skin-image.php:95
+#: modules/image-box/skins/skin-image-box-v2.php:267
+#: modules/image-gallery/skins/skin-image-gallery.php:107
+#: modules/nav-tabs/widgets/nav-tabs.php:111
+#: modules/posts/traits/button-widget-trait.php:95
+#: modules/pricing/widgets/price.php:382
+#: modules/team-member/widgets/team-member.php:218
+#: modules/ticket/widgets/ticket.php:166
+msgid "https://your-link.com"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:222
+#: modules/carousel/widgets/iconbox-carousel.php:156
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:179
+#: modules/icon/module.php:67 modules/image-box/skins/skin-image-box-v2.php:332
+msgid "Wrap Class"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:227
+#: modules/button-icon/widgets/button-icon.php:245
+#: modules/button-icon/widgets/button-icon.php:257
+#: modules/carousel/widgets/iconbox-carousel.php:158
+#: modules/hero/skins/medical-hero.php:307
+#: modules/icon-box/skins/skin-icon-box.php:253
+#: modules/icon-box/skins/skin-icon-box.php:272
+#: modules/icon-box/skins/skin-icon-box.php:289
+#: modules/image-box/skins/skin-image-box.php:445
+#: modules/image-box/skins/skin-image-box.php:462
+#: modules/image-box/skins/skin-image-box.php:504
+#: modules/image-box/skins/skin-image-box.php:514
+#: modules/image-box/skins/skin-image-box.php:524
+#: modules/image-box/skins/skin-image-box.php:533
+msgid "Enter your class"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:228
+msgid "position-absolute d-none d-lg-block bottom-0 start-0 w-100"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:239
+msgid "Link Class"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:244
+msgid "nav-link stretched-link text-light fw-normal opacity-80 py-2 px-3"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:252
+#: modules/carousel/widgets/iconbox-carousel.php:217
+#: modules/carousel/widgets/imagebox-carousel.php:681
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:225
+#: modules/hero/skins/medical-hero.php:302 modules/hero/widgets/hero.php:534
+#: modules/icon/module.php:58 modules/icon-box/skins/skin-icon-box-v2.php:371
+#: modules/icon-box/skins/skin-icon-box-v2.php:545
+#: modules/icon-box/skins/skin-icon-box.php:251 modules/icon-list/module.php:76
+#: modules/image-box/skins/skin-image-box-v2.php:183
+#: modules/nav-tabs/widgets/nav-tabs.php:146
+msgid "Icon Class"
+msgstr ""
+
+#: modules/button-icon/widgets/button-icon.php:287
+#: modules/carousel/widgets/content-carousel.php:1071
+#: modules/carousel/widgets/iconbox-carousel.php:229
+#: modules/carousel/widgets/testimonial-carousel.php:428
+#: modules/icon-box/skins/skin-icon-box-v2.php:336
+#: modules/icon-box/skins/skin-icon-box.php:184
+#: modules/image/skins/skin-image.php:225
+#: modules/nav-tabs/widgets/nav-tabs.php:230
+#: modules/nav-tabs/widgets/nav-tabs.php:282
+#: modules/nav-tabs/widgets/nav-tabs.php:326
+#: modules/pricing/widgets/price.php:326
+msgid "Icon Color"
+msgstr ""
+
+#: modules/carousel/skins/skin-brand-carousel.php:38
+msgid "Brand Carousel"
+msgstr ""
+
+#: modules/carousel/skins/skin-brand-carousel.php:103
+msgid "Enable Arrow ID"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel-v2.php:38
+msgid "Skin v2"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel-v2.php:85
+msgid "Enable Fade"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel-v2.php:87
+#: modules/carousel/skins/skin-content-carousel-v2.php:100
+#: modules/carousel/skins/skin-content-carousel-v2.php:129
+#: modules/carousel/skins/skin-content-carousel-v3.php:85
+#: modules/carousel/skins/skin-content-carousel.php:102
+#: modules/carousel/skins/skin-content-carousel.php:116
+#: modules/carousel/skins/skin-imagebox-carousel.php:99
+#: modules/carousel/skins/skin-imagebox-carousel.php:140
+#: modules/carousel/skins/skin-post-carousel-v3.php:99
+#: modules/carousel/widgets/content-carousel.php:127
+#: modules/carousel/widgets/content-carousel.php:292
+#: modules/carousel/widgets/content-carousel.php:359
+#: modules/carousel/widgets/content-carousel.php:472
+#: modules/carousel/widgets/content-carousel.php:540
+#: modules/carousel/widgets/content-carousel.php:599
+#: modules/carousel/widgets/content-carousel.php:649
+#: modules/carousel/widgets/content-carousel.php:689
+#: modules/carousel/widgets/content-carousel.php:739
+#: modules/carousel/widgets/content-carousel.php:779
+#: modules/carousel/widgets/content-carousel.php:829
+#: modules/carousel/widgets/content-carousel.php:1268
+#: modules/carousel/widgets/content-carousel.php:1334
+#: modules/carousel/widgets/imagebox-carousel.php:208
+#: modules/carousel/widgets/project-carousel.php:170
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:116
+#: modules/hero/widgets/hero.php:164 modules/hero/widgets/hero.php:252
+#: modules/hero/widgets/hero.php:285 modules/hero/widgets/hero.php:312
+#: modules/hero/widgets/hero.php:394 modules/hero/widgets/hero.php:420
+#: modules/icon-box/skins/skin-icon-box-v2.php:187
+#: modules/image-box/skins/skin-image-box-v2.php:300
+#: modules/page-settings/module.php:305 modules/page-settings/module.php:333
+#: modules/page-settings/module.php:379 modules/page-settings/module.php:393
+#: modules/page-settings/module.php:451 modules/page-settings/module.php:798
+#: modules/posts/skins/skin-hero.php:58 modules/posts/skins/skin-hero.php:70
+msgid "Enable"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel-v2.php:88
+#: modules/carousel/skins/skin-content-carousel-v2.php:101
+#: modules/carousel/skins/skin-content-carousel-v2.php:130
+#: modules/carousel/skins/skin-content-carousel-v3.php:86
+#: modules/carousel/skins/skin-content-carousel.php:103
+#: modules/carousel/skins/skin-content-carousel.php:117
+#: modules/carousel/skins/skin-imagebox-carousel.php:100
+#: modules/carousel/skins/skin-imagebox-carousel.php:141
+#: modules/carousel/skins/skin-post-carousel-v3.php:100
+#: modules/carousel/widgets/content-carousel.php:128
+#: modules/carousel/widgets/content-carousel.php:293
+#: modules/carousel/widgets/content-carousel.php:360
+#: modules/carousel/widgets/content-carousel.php:473
+#: modules/carousel/widgets/content-carousel.php:541
+#: modules/carousel/widgets/content-carousel.php:600
+#: modules/carousel/widgets/content-carousel.php:650
+#: modules/carousel/widgets/content-carousel.php:690
+#: modules/carousel/widgets/content-carousel.php:740
+#: modules/carousel/widgets/content-carousel.php:780
+#: modules/carousel/widgets/content-carousel.php:830
+#: modules/carousel/widgets/content-carousel.php:1269
+#: modules/carousel/widgets/content-carousel.php:1335
+#: modules/carousel/widgets/imagebox-carousel.php:209
+#: modules/carousel/widgets/project-carousel.php:171
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:117
+#: modules/hero/widgets/hero.php:165 modules/hero/widgets/hero.php:253
+#: modules/hero/widgets/hero.php:286 modules/hero/widgets/hero.php:313
+#: modules/hero/widgets/hero.php:395 modules/hero/widgets/hero.php:421
+#: modules/icon-box/skins/skin-icon-box-v2.php:188
+#: modules/image-box/skins/skin-image-box-v2.php:301
+#: modules/page-settings/module.php:306 modules/page-settings/module.php:334
+#: modules/page-settings/module.php:380 modules/page-settings/module.php:394
+#: modules/page-settings/module.php:452 modules/page-settings/module.php:799
+#: modules/posts/skins/skin-hero.php:59 modules/posts/skins/skin-hero.php:71
+msgid "Disable"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel-v2.php:98
+#: modules/carousel/skins/skin-content-carousel-v3.php:83
+#: modules/carousel/skins/skin-mobile-carousel.php:104
+msgid "Enable Container"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel-v2.php:127
+msgid "Disable On Interaction"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel-v3.php:38
+msgid "Skin v3"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel-v3.php:112
+msgid "Pagination Id"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel.php:38
+#: modules/carousel/skins/skin-lottie-carousel.php:38
+#: modules/testimonial/skins/skin-testimonial.php:59
+msgid "Skin v1"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel.php:100
+#: modules/carousel/skins/skin-imagebox-carousel.php:97
+msgid "Enable Auto Height"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel.php:114
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:124
+msgid "Enable Tabs"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel.php:166
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:185
+msgid "Arrows Wrapper CSS"
+msgstr ""
+
+#: modules/carousel/skins/skin-content-carousel.php:168
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:187
+#: modules/carousel/widgets/base.php:511
+#: modules/carousel/widgets/content-carousel.php:919
+#: modules/carousel/widgets/content-carousel.php:972
+#: modules/carousel/widgets/content-carousel.php:1019
+#: modules/carousel/widgets/content-carousel.php:1096
+#: modules/carousel/widgets/content-carousel.php:1136
+#: modules/carousel/widgets/imagebox-carousel.php:673
+#: modules/carousel/widgets/post-carousel.php:490
+#: modules/carousel/widgets/post-carousel.php:622
+#: modules/carousel/widgets/post-carousel.php:669
+#: modules/carousel/widgets/post-carousel.php:812
+#: modules/carousel/widgets/post-carousel.php:856
+#: modules/icon-box/skins/skin-icon-box-v2.php:536
+msgid "Add your custom class for text without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/carousel/skins/skin-iconbox-carousel.php:38
+#: modules/carousel/widgets/iconbox-carousel.php:43
+msgid "Iconbox Carousel"
+msgstr ""
+
+#: modules/carousel/skins/skin-iconbox-carousel.php:97
+#: modules/carousel/skins/skin-imagebox-carousel.php:80
+msgid "Enable Custom Arrow"
+msgstr ""
+
+#: modules/carousel/skins/skin-imagebox-carousel.php:38
+#: modules/carousel/widgets/imagebox-carousel.php:44
+msgid "Imagebox Carousel"
+msgstr ""
+
+#: modules/carousel/skins/skin-imagebox-carousel.php:138
+#: modules/carousel/skins/skin-post-carousel-v3.php:97
+msgid "Adjust For Service"
+msgstr ""
+
+#: modules/carousel/skins/skin-mobile-carousel.php:38
+#: modules/carousel/widgets/mobile-carousel.php:47
+msgid "Mobile Carousel"
+msgstr ""
+
+#: modules/carousel/skins/skin-mobile-carousel.php:93
+msgid "Enable Frame"
+msgstr ""
+
+#: modules/carousel/skins/skin-mobile-carousel.php:107
+msgid "Enabled"
+msgstr ""
+
+#: modules/carousel/skins/skin-mobile-carousel.php:159
+msgid "Pagination ID"
+msgstr ""
+
+#: modules/carousel/skins/skin-mobile-carousel.php:161
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:154
+#: modules/carousel/widgets/mobile-carousel.php:370
+#: modules/highlighted-heading/widgets/highlighted-heading.php:292
+msgid ""
+"Additional CSS classes separated by space that you'd like to apply to the "
+"highlighted text"
+msgstr ""
+
+#: modules/carousel/skins/skin-post-carousel-v2.php:38
+msgid "Post Carousel v2"
+msgstr ""
+
+#: modules/carousel/skins/skin-post-carousel-v2.php:68
+msgid "Widget Wrapper CSS"
+msgstr ""
+
+#: modules/carousel/skins/skin-post-carousel-v2.php:70
+msgid ""
+"Additional CSS classes separated by space that you'd like to apply to the "
+"Widget Wrapper"
+msgstr ""
+
+#: modules/carousel/skins/skin-post-carousel-v3.php:41
+msgid "Post Carousel v3"
+msgstr ""
+
+#: modules/carousel/skins/skin-post-carousel-v3.php:137
+#: modules/carousel/widgets/iconbox-carousel.php:377
+#: modules/carousel/widgets/imagebox-carousel.php:499
+#: modules/carousel/widgets/mobile-carousel.php:259
+#: modules/carousel/widgets/post-carousel.php:578
+#: modules/carousel/widgets/team-carousel.php:430
+#: modules/hero/skins/financial-consulting.php:92
+#: modules/highlighted-heading/widgets/highlighted-heading.php:212
+#: modules/image-gallery/skins/skin-image-gallery.php:199
+#: modules/pricing/skins/skin-list.php:159
+#: modules/pricing/widgets/price.php:513
+#: modules/team-member/widgets/team-member.php:525
+#: modules/ticket/widgets/ticket.php:486
+msgid "Title Color"
+msgstr ""
+
+#: modules/carousel/skins/skin-post-carousel.php:38
+msgid "Post Carousel v1"
+msgstr ""
+
+#: modules/carousel/skins/skin-post-carousel.php:76
+msgid "Full Width"
+msgstr ""
+
+#: modules/carousel/skins/skin-project-carousel-v2.php:38
+msgid "Style v2"
+msgstr ""
+
+#: modules/carousel/skins/skin-project-carousel-v2.php:68
+#: modules/carousel/widgets/base.php:110
+msgid "Slides Per View"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:39
+msgid "Team V1"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:66
+#: modules/carousel/widgets/testimonial-carousel.php:456
+#: modules/team-member/widgets/team-member.php:337
+msgid "Rating"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:92
+#: modules/team-member/widgets/team-member.php:366
+msgid "Rating Icon Color"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:152
+#: modules/carousel/widgets/base.php:72 modules/carousel/widgets/base.php:84
+#: modules/carousel/widgets/base.php:291
+#: modules/carousel/widgets/content-carousel.php:383
+#: modules/carousel/widgets/content-carousel.php:564
+#: modules/carousel/widgets/iconbox-carousel.php:177
+#: modules/carousel/widgets/imagebox-carousel.php:243
+#: modules/carousel/widgets/testimonial-carousel.php:148
+#: modules/carousel/widgets/testimonial-carousel.php:238
+msgid "Slides"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:227
+#: modules/carousel/widgets/post-carousel.php:776
+#: modules/carousel/widgets/team-carousel.php:122
+#: modules/carousel/widgets/testimonial-carousel.php:128
+#: modules/carousel/widgets/testimonial-carousel.php:218
+#: modules/carousel/widgets/testimonial-carousel.php:761
+#: modules/categories-dropdown/widgets/categories-dropdown.php:115
+#: modules/team-member/widgets/team-member.php:126
+msgid "Name"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:229
+#: modules/carousel/widgets/team-carousel.php:124
+#: modules/carousel/widgets/testimonial-carousel.php:800
+msgid "Ralph Edwards"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:237
+#: modules/carousel/widgets/post-carousel.php:820
+#: modules/carousel/widgets/team-carousel.php:132
+#: modules/carousel/widgets/testimonial-carousel.php:138
+#: modules/carousel/widgets/testimonial-carousel.php:228
+#: modules/carousel/widgets/testimonial-carousel.php:771
+msgid "Role"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:239
+#: modules/carousel/widgets/team-carousel.php:134
+msgid "Co-Founder"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:247
+#: modules/carousel/widgets/team-carousel.php:142
+#: modules/team-member/widgets/team-member.php:226
+msgid "Icon List"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:249
+#: modules/carousel/widgets/team-carousel.php:144
+msgid "link|value"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:250
+#: modules/carousel/widgets/team-carousel.php:145
+msgid "https://facebook.com|me-2"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:251
+#: modules/carousel/widgets/team-carousel.php:146
+msgid ""
+"Enter the social profiles here. Each profile URL should be separated by a "
+"new line by hitting Enter button"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:259
+#: modules/team-member/widgets/team-member.php:145
+msgid "Enable Rating Icon?"
+msgstr ""
+
+#: modules/carousel/skins/skin-team-carousel.php:291
+#: modules/team-member/widgets/team-member.php:181
+msgid "Enter Your Reviews"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v2.php:38
+msgid "Skin V2"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v3.php:38
+msgid "Skin V3"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:38
+msgid "Skin V4"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:70
+msgid "Swiper Order"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:72
+msgid "Last"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:73
+msgid "First"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:91
+#: modules/carousel/widgets/brand-carousel.php:284
+#: modules/carousel/widgets/iconbox-carousel.php:111
+#: modules/carousel/widgets/imagebox-carousel.php:697
+#: modules/highlighted-heading/widgets/highlighted-heading.php:309
+#: modules/section/module.php:180
+msgid "Style"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:96
+msgid "Style v1"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:137
+msgid "Enable Pager"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel-v4.php:152
+msgid "Pager ID"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel.php:38
+msgid "Skin V1"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel.php:77
+msgid "Desktop Breakpoints"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel.php:139
+msgid "Enable Custom Arrows ID"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel.php:152
+#: modules/carousel/widgets/base.php:188
+msgid "Prev Arrow ID"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel.php:154
+#: modules/carousel/widgets/base.php:190
+msgid "Enter ID for Previous Button"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel.php:166
+#: modules/carousel/widgets/base.php:200
+msgid "Next Arrow ID"
+msgstr ""
+
+#: modules/carousel/skins/skin-testimonial-carousel.php:168
+#: modules/carousel/widgets/base.php:202
+msgid "Enter ID for Next Button"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:95
+msgid "Effect"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:98 modules/carousel/widgets/base.php:216
+#: modules/carousel/widgets/content-carousel.php:611
+#: modules/carousel/widgets/content-carousel.php:632
+#: modules/carousel/widgets/content-carousel.php:701
+#: modules/carousel/widgets/content-carousel.php:722
+#: modules/carousel/widgets/content-carousel.php:791
+#: modules/carousel/widgets/content-carousel.php:812
+#: modules/carousel/widgets/lottie-carousel.php:272
+#: modules/carousel/widgets/project-carousel.php:255
+#: modules/image-gallery/skins/skin-image-gallery.php:133
+#: modules/page-settings/module.php:409 modules/page-settings/module.php:811
+#: modules/posts/widgets/posts-base.php:729
+#: modules/pricing/skins/skin-list.php:173
+#: modules/pricing/widgets/price.php:154
+#: modules/query-control/controls/group-control-related.php:70
+#: modules/shapes/widgets/shapes.php:63 modules/ticket/widgets/ticket.php:252
+msgid "None"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:99
+msgid "Slide"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:100
+msgid "Fade"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:128
+msgid "Enable Space Between"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:139
+#: modules/carousel/widgets/post-carousel.php:404
+#: modules/carousel/widgets/project-carousel.php:240
+#: modules/posts/widgets/posts-base.php:548
+msgid "Space Between"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:140
+#: modules/carousel/widgets/project-carousel.php:241
+msgid "Set Space between each Slides"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:157
+msgid "Center Slides"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:170
+msgid "Additional Options"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:178 modules/carousel/widgets/base.php:402
+msgid "Arrows"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:212 modules/carousel/widgets/base.php:471
+#: modules/carousel/widgets/project-carousel.php:251
+#: modules/posts/widgets/posts-base.php:184
+#: modules/posts/widgets/posts-base.php:191
+#: modules/posts/widgets/posts-base.php:440
+#: modules/posts/widgets/posts-base.php:592
+msgid "Pagination"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:217
+#: modules/carousel/widgets/project-carousel.php:256
+msgid "Dots"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:218
+#: modules/carousel/widgets/project-carousel.php:257
+msgid "Fraction"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:219
+#: modules/carousel/widgets/project-carousel.php:258
+msgid "Progress"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:227
+msgid "Transition Duration"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:239
+#: modules/carousel/widgets/project-carousel.php:219
+#: modules/lottie/widgets/lottie.php:103
+msgid "Autoplay"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:251
+msgid "Autoplay Speed"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:265
+#: modules/carousel/widgets/project-carousel.php:230
+msgid "Infinite Loop"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:275
+msgid "Pause on Hover"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:356
+msgid "Swiper Wrappers"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:365
+msgid "Carousel Options Wrap"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:367
+#: modules/carousel/widgets/testimonial-carousel.php:670
+msgid "CSS Classes added to data-swiper-options attribute <div>"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:374
+msgid "Carousel Wrapper CSS"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:376
+#: modules/carousel/widgets/testimonial-carousel.php:680
+msgid "CSS Classes added to swiper-wrapper class <div>"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:383
+msgid "Carousel Slide CSS"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:385
+msgid "CSS Classes added to swiper-slide class <div>"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:394
+msgid "Navigation"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:454
+msgid "Background Hover Color"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:509
+msgid "Pagination CSS"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:559
+msgid "Previous"
+msgstr ""
+
+#: modules/carousel/widgets/base.php:563
+msgid "Next"
+msgstr ""
+
+#: modules/carousel/widgets/brand-carousel.php:44
+msgid "Brands Carousel"
+msgstr ""
+
+#: modules/carousel/widgets/brand-carousel.php:166
+#: modules/image-box/skins/skin-image-box-v2.php:287
+msgid "Border Disable"
+msgstr ""
+
+#: modules/carousel/widgets/brand-carousel.php:188
+#: modules/carousel/widgets/iconbox-carousel.php:343
+#: modules/carousel/widgets/imagebox-carousel.php:301
+#: modules/icon-box/skins/skin-icon-box-v2.php:399
+#: modules/image-box/skins/skin-image-box-v2.php:250
+#: modules/pricing/skins/skin-card.php:326
+#: modules/pricing/widgets/price.php:544
+msgid "Card Class"
+msgstr ""
+
+#: modules/carousel/widgets/brand-carousel.php:190 modules/image/module.php:89
+msgid "Add your custom class for <a> tag  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/carousel/widgets/brand-carousel.php:216
+#: modules/carousel/widgets/content-carousel.php:906
+#: modules/carousel/widgets/content-carousel.php:1082
+#: modules/carousel/widgets/content-carousel.php:1193
+#: modules/carousel/widgets/content-carousel.php:1204
+#: modules/carousel/widgets/iconbox-carousel.php:316
+#: modules/carousel/widgets/imagebox-carousel.php:660
+#: modules/carousel/widgets/mobile-carousel.php:294
+#: modules/carousel/widgets/post-carousel.php:554
+#: modules/carousel/widgets/post-carousel.php:593
+#: modules/icon-box/skins/skin-icon-box-v2.php:523
+msgid "Hover Color"
+msgstr ""
+
+#: modules/carousel/widgets/brand-carousel.php:252 modules/image/module.php:80
+msgid "Additional CSS class that you want to apply to the img tag"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:44
+msgid "Content Carousel"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:115
+#: modules/carousel/widgets/post-carousel.php:211
+#: modules/carousel/widgets/project-carousel.php:150
+#: modules/hero/widgets/hero.php:88 modules/nav-menu/widgets/nav-menu.php:199
+#: modules/posts/widgets/portfolio.php:104
+#: modules/posts/widgets/posts-base.php:714
+msgid "Layout"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:125
+msgid "Enable Icon"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:149
+msgid "Arrows Position"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:154
+#: modules/carousel/widgets/content-carousel.php:612
+#: modules/carousel/widgets/content-carousel.php:702
+#: modules/carousel/widgets/content-carousel.php:792
+#: modules/carousel/widgets/post-carousel.php:697
+#: modules/carousel/widgets/post-carousel.php:723
+#: modules/page-settings/module.php:410
+msgid "Top"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:158
+#: modules/carousel/widgets/content-carousel.php:613
+#: modules/carousel/widgets/content-carousel.php:703
+#: modules/carousel/widgets/content-carousel.php:793
+#: modules/carousel/widgets/post-carousel.php:705
+#: modules/carousel/widgets/post-carousel.php:731
+#: modules/page-settings/module.php:411
+msgid "Bottom"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:168
+#: modules/carousel/widgets/content-carousel.php:260
+#: modules/carousel/widgets/content-carousel.php:430
+#: modules/carousel/widgets/post-carousel.php:240
+#: modules/pricing/widgets/price.php:110 modules/ticket/widgets/ticket.php:109
+msgid "Title HTML Tag"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:190
+#: modules/section/module.php:82
+msgid "Jarallax"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:201
+#: modules/carousel/widgets/team-carousel.php:243
+#: modules/team-member/widgets/team-member.php:317
+msgid "Opacity"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:222
+msgid "Data Speed"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:280
+#: modules/carousel/widgets/content-carousel.php:459
+#: modules/carousel/widgets/content-carousel.php:677
+#: modules/carousel/widgets/content-carousel.php:984
+#: modules/carousel/widgets/content-carousel.php:1257
+#: modules/carousel/widgets/iconbox-carousel.php:147
+#: modules/carousel/widgets/iconbox-carousel.php:398
+#: modules/carousel/widgets/iconbox-carousel.php:477
+#: modules/carousel/widgets/imagebox-carousel.php:521
+#: modules/carousel/widgets/mobile-carousel.php:430
+#: modules/carousel/widgets/mobile-carousel.php:498
+#: modules/image-gallery/skins/skin-profile.php:90
+msgid "Description"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:290
+#: modules/carousel/widgets/content-carousel.php:470
+#: modules/carousel/widgets/content-carousel.php:1266
+msgid "Enable Button"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:301
+#: modules/carousel/widgets/content-carousel.php:481
+#: modules/carousel/widgets/content-carousel.php:1276
+#: modules/carousel/widgets/imagebox-carousel.php:150
+#: modules/hero/skins/medical-hero.php:141 modules/hero/widgets/hero.php:172
+#: modules/hero/widgets/hero.php:320
+#: modules/icon-box/skins/skin-icon-box-v2.php:196
+#: modules/image-box/skins/skin-image-box.php:145
+#: modules/page-settings/module.php:480
+#: modules/posts/widgets/posts-base.php:338
+#: modules/pricing/widgets/price.php:370 modules/ticket/widgets/ticket.php:154
+msgid "Button Text"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:303
+#: modules/carousel/widgets/content-carousel.php:1278
+msgid "Learn More"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:413
+#: modules/ticket/widgets/ticket.php:343
+msgid "Background Image"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:423
+#: modules/carousel/widgets/content-carousel.php:1418
+msgid "Cashless payment case study"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:452
+#: modules/carousel/widgets/content-carousel.php:1419
+msgid "Payment Service Provider Company"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:462
+#: modules/carousel/widgets/content-carousel.php:1420
+msgid ""
+"Aenean dolor elit tempus tellus imperdiet. Elementum, ac convallis morbi "
+"sit est feugiat ultrices. Cras tortor maecenas pulvinar nec ac justo. Massa "
+"sem eget semper..."
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:483
+#: modules/carousel/widgets/content-carousel.php:1421
+#: modules/carousel/widgets/content-carousel.php:1427
+msgid "View case study"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:577
+msgid "Animation"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:597
+#: modules/carousel/widgets/content-carousel.php:687
+#: modules/carousel/widgets/content-carousel.php:777
+msgid "Enable Animation"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:607
+#: modules/carousel/widgets/content-carousel.php:697
+#: modules/carousel/widgets/content-carousel.php:787
+msgid "Animation Direction"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:614
+#: modules/carousel/widgets/content-carousel.php:704
+#: modules/carousel/widgets/content-carousel.php:794
+#: modules/page-settings/module.php:412
+msgid "Start"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:615
+#: modules/carousel/widgets/content-carousel.php:705
+#: modules/carousel/widgets/content-carousel.php:795
+#: modules/page-settings/module.php:413
+msgid "End"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:627
+#: modules/carousel/widgets/content-carousel.php:717
+#: modules/carousel/widgets/content-carousel.php:807
+msgid "Scale Direction"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:633
+#: modules/carousel/widgets/content-carousel.php:723
+#: modules/carousel/widgets/content-carousel.php:813
+msgid "Up"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:634
+#: modules/carousel/widgets/content-carousel.php:724
+#: modules/carousel/widgets/content-carousel.php:814
+msgid "Down"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:647
+#: modules/carousel/widgets/content-carousel.php:737
+#: modules/carousel/widgets/content-carousel.php:827
+msgid "Enable Delay"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:661
+#: modules/carousel/widgets/content-carousel.php:751
+#: modules/carousel/widgets/content-carousel.php:841
+msgid "Delay"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:917
+#: modules/carousel/widgets/content-carousel.php:970
+#: modules/carousel/widgets/content-carousel.php:1017
+#: modules/carousel/widgets/content-carousel.php:1093
+#: modules/carousel/widgets/content-carousel.php:1134
+#: modules/carousel/widgets/imagebox-carousel.php:671
+#: modules/carousel/widgets/post-carousel.php:620
+#: modules/carousel/widgets/post-carousel.php:667
+#: modules/carousel/widgets/post-carousel.php:810
+#: modules/carousel/widgets/post-carousel.php:854
+#: modules/icon-box/skins/skin-icon-box-v2.php:534
+msgid "CSS Class"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1233
+msgid "Tabs ID"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1367
+msgid "Transportation & Logistics"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1368
+msgid ""
+"Risus massa fames metus lectus diam maecenas dui. Nibh morbi id purus eget "
+"tellus diam, integer blandit. Ac condimentum a nisl sagittis, interdum. Et "
+"viverra maecenas quis cras sed gravida volutpat, cursus enim. Enim ut nulla "
+"netus porta lacus diam. Et enim ultrices nunc, nunc. In iaculis venenatis "
+"at sit."
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1371
+msgid "Construction & Real Estate"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1372
+msgid ""
+"Nunc, amet et, et at habitant. Eget quis justo, metus at metus sapien. Urna "
+"quisque rutrum pharetra pulvinar vitae quam blandit non. Orci tempor cursus "
+"egestas quis orci at nisi maecenas. Enim in ultrices tortor, nibh quis "
+"sollicitudin tellus non maecenas. In libero ut semper nunc magna tortor."
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1375
+msgid "Education"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1376
+msgid ""
+"Vivamus nisl sit volutpat laoreet ligula et. Nunc, duis est justo, cras "
+"ipsum vulputate eget tellus augue. Amet, sagittis ut enim nisl commodo, "
+"pharetra. Sapien imperdiet tristique interdum aliquet varius vitae "
+"facilisis vel. Erat convallis eget elit eget iaculis. Morbi id facilisis "
+"ligula odio sed amet suspendisse duis aliquet. Justo quam convallis id sed."
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1391
+msgid "The Best IT Solutions for Your Business"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1392
+msgid ""
+"We provide the wide range of high quality IT services and best practices "
+"solutions to our customers making their business better."
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1393
+msgid "Start your project"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1396
+msgid "Award-Winning Software Development"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1397
+msgid ""
+"We build complex web, desktop and mobile applications. With us you get "
+"quality software and perfect service every time."
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1398
+msgid "View case studies"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1401
+msgid "24/7 Tech & Business Support"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1402
+msgid ""
+"We ensure lifetime support of all applications we've built. Our support "
+"department is a team of professionals who will assist you 24/7."
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1403
+msgid "Work with us"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1424
+msgid "Smart tech case study"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1425
+msgid "Data Analytics Company"
+msgstr ""
+
+#: modules/carousel/widgets/content-carousel.php:1426
+msgid ""
+"Adipiscing quis a at ligula. Gravida gravida diam rhoncus cursus in. Turpis "
+"sagittis tempor gravida phasellus sapien. Faucibus donec consectetur sed id "
+"sit nisl."
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:167
+msgid "Enter your Link"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:219
+#: modules/icon-box/skins/skin-icon-box-v2.php:373
+#: modules/image-box/skins/skin-image-box-v2.php:185
+#: modules/image-box/skins/skin-image-box-v2.php:252
+#: modules/image-box/skins/skin-image-box-v2.php:311
+#: modules/image-box/skins/skin-image-box-v2.php:334
+#: modules/image-box/skins/skin-image-box-v2.php:359
+#: modules/image-box/skins/skin-image-box-v2.php:372
+#: modules/image-box/skins/skin-image-box-v2.php:392
+#: modules/image-box/skins/skin-image-box-v2.php:412
+#: modules/image-box/skins/skin-image-box.php:116
+msgid "Add your custom class for icon  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:222
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:228
+#: modules/icon-box/skins/skin-icon-box-v2.php:376
+msgid "Additional CSS class that you want to apply to the icon"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:238
+msgid "Button Color"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:266
+#: modules/image/skins/skin-image.php:258
+msgid "Icon Hover Color"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:306
+#: modules/icon-box/skins/skin-icon-box-v2.php:410
+#: modules/image-box/skins/skin-image-box-v2.php:276
+msgid "CardHover"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:345
+#: modules/carousel/widgets/imagebox-carousel.php:303
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:200
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:213
+msgid "Add your custom class for <div>  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:348
+#: modules/carousel/widgets/imagebox-carousel.php:306
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:203
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:216
+msgid "Additional CSS class that you want to apply to the <div>"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:364
+#: modules/carousel/widgets/imagebox-carousel.php:486
+#: modules/carousel/widgets/team-carousel.php:420
+#: modules/hero/skins/medical-hero.php:356 modules/hero/widgets/hero.php:472
+#: modules/icon-box/skins/skin-icon-box-v2.php:438
+#: modules/icon-box/skins/skin-icon-box.php:270
+#: modules/image-box/skins/skin-image-box-v2.php:390
+#: modules/image-box/skins/skin-image-box.php:443
+#: modules/image-gallery/skins/skin-image-gallery.php:188
+#: modules/pricing/widgets/price.php:535
+#: modules/star-rating/skins/skin-star-rating.php:161
+#: modules/team-member/widgets/team-member.php:516
+#: modules/ticket/widgets/ticket.php:509
+msgid "Title Class"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:366
+#: modules/carousel/widgets/imagebox-carousel.php:488
+#: modules/carousel/widgets/imagebox-carousel.php:683
+#: modules/icon-box/skins/skin-icon-box-v2.php:547
+msgid "Add your custom class for <h> tag  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:407
+#: modules/carousel/widgets/imagebox-carousel.php:534
+#: modules/icon-box/skins/skin-icon-box-v2.php:456
+#: modules/icon-box/skins/skin-icon-box.php:287
+#: modules/image-box/skins/skin-image-box-v2.php:410
+#: modules/image-box/skins/skin-image-box.php:460
+#: modules/image-gallery/skins/skin-image-gallery.php:221
+#: modules/image-gallery/skins/skin-profile.php:162
+#: modules/nav-tabs/skins/skin-nav-tabs.php:171
+msgid "Description Class"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:409
+#: modules/carousel/widgets/imagebox-carousel.php:536
+msgid "Add your custom class for <p> tag  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/carousel/widgets/iconbox-carousel.php:420
+#: modules/carousel/widgets/imagebox-carousel.php:551
+#: modules/image-gallery/skins/skin-image-gallery.php:233
+#: modules/image-gallery/skins/skin-profile.php:171
+#: modules/nav-tabs/skins/skin-nav-tabs.php:221
+#: modules/nav-tabs/skins/skin-nav-tabs.php:264
+msgid "Description Color"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:121
+msgid "Image Link"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:141
+msgid "List "
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:152
+#: modules/hero/widgets/hero.php:174 modules/hero/widgets/hero.php:322
+#: modules/icon-box/skins/skin-icon-box-v2.php:198
+msgid "Learn more"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:327
+msgid "Border Enable"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:341
+#: modules/carousel/widgets/imagebox-carousel.php:399
+#: modules/image-box/skins/skin-image-box.php:521
+msgid "Image Wrap Class"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:343
+msgid "Add your custom class for <div> tag  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:358
+#: modules/carousel/widgets/team-carousel.php:274
+msgid "Add your custom class for image  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:361
+#: modules/carousel/widgets/team-carousel.php:277
+#: modules/hero/widgets/hero.php:505 modules/hero/widgets/hero.php:515
+#: modules/hero/widgets/hero.php:526 modules/hero/widgets/hero.php:537
+#: modules/hero/widgets/hero.php:548
+msgid "Additional CSS class that you want to apply to the image"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:369
+msgid "Enable BackgroundColor"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:401
+msgid "Add your custom class for <span> tag  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:449
+#: modules/carousel/widgets/mobile-carousel.php:210
+#: modules/carousel/widgets/post-carousel.php:398
+#: modules/highlighted-heading/widgets/highlighted-heading.php:172
+#: modules/posts/traits/button-widget-trait.php:106
+#: modules/posts/widgets/posts-base.php:260
+#: modules/posts/widgets/posts-base.php:370
+msgid "Alignment"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:453
+#: modules/carousel/widgets/mobile-carousel.php:214
+#: modules/carousel/widgets/post-carousel.php:401
+#: modules/highlighted-heading/widgets/highlighted-heading.php:176
+#: modules/posts/traits/button-widget-trait.php:110
+#: modules/posts/widgets/posts-base.php:264
+#: modules/posts/widgets/posts-base.php:374
+msgid "Left"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:457
+#: modules/carousel/widgets/mobile-carousel.php:218
+#: modules/carousel/widgets/post-carousel.php:402
+#: modules/highlighted-heading/widgets/highlighted-heading.php:180
+#: modules/posts/traits/button-widget-trait.php:114
+#: modules/posts/widgets/posts-base.php:268
+#: modules/posts/widgets/posts-base.php:378
+msgid "Center"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:461
+#: modules/carousel/widgets/mobile-carousel.php:222
+#: modules/carousel/widgets/post-carousel.php:403
+#: modules/highlighted-heading/widgets/highlighted-heading.php:184
+#: modules/posts/traits/button-widget-trait.php:118
+#: modules/posts/widgets/posts-base.php:272
+#: modules/posts/widgets/posts-base.php:382
+msgid "Right"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:582
+msgid "Description Width"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:742
+#: modules/image/module.php:120
+msgid "Inline SVG"
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:744
+#: modules/image/module.php:122
+msgid ""
+"If you are uploading SVG file, it might be useful to inline the SVG files. "
+"Do not inline, if your SVG file is from unknown sources."
+msgstr ""
+
+#: modules/carousel/widgets/imagebox-carousel.php:766
+#: modules/carousel/widgets/testimonial-carousel.php:860
+msgid ""
+"Id mollis consectetur congue egestas egestas suspendisse blandit justo. "
+"Tellus augue commodo id quis tempus etiam pulvinar at maecenas."
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:44
+msgid "Lottie Carousel"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:106
+#: modules/lottie/widgets/lottie.php:37 modules/lottie/widgets/lottie.php:65
+#: modules/lottie/widgets/lottie.php:141
+msgid "Lottie"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:150
+#: modules/lottie/widgets/lottie.php:114
+msgid "Play Speed"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:182
+#: modules/query-control/controls/group-control-posts.php:84
+#: modules/query-control/controls/group-control-query.php:81
+msgid "Source"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:186
+msgid "Media File"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:187
+#: modules/carousel/widgets/lottie-carousel.php:196
+msgid "External URL"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:204
+#: modules/carousel/widgets/lottie-carousel.php:233
+#: modules/carousel/widgets/lottie-carousel.php:285
+msgid "Enter your URL"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:212
+#: modules/carousel/widgets/lottie-carousel.php:241
+#: modules/lottie/widgets/lottie.php:72
+msgid "Upload JSON File"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:225
+msgid "Dark External URL"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:273
+msgid "Custom URL"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:313
+msgid "Light / Dark Mode"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:318
+msgid "Figma Files Included"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:323
+msgid "50+ UI Flexible Components"
+msgstr ""
+
+#: modules/carousel/widgets/lottie-carousel.php:328
+msgid "Free Lifetime Updates"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:122
+#: modules/highlighted-heading/widgets/highlighted-heading.php:75
+msgid "Before Highlighted Text"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:127
+#: modules/carousel/widgets/mobile-carousel.php:156
+#: modules/highlighted-heading/widgets/highlighted-heading.php:80
+#: modules/highlighted-heading/widgets/highlighted-heading.php:109
+msgid "Enter your title"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:129
+#: modules/carousel/widgets/mobile-carousel.php:157
+#: modules/highlighted-heading/widgets/highlighted-heading.php:82
+#: modules/highlighted-heading/widgets/highlighted-heading.php:110
+msgid "Use <br> to break into two lines"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:137
+#: modules/carousel/widgets/mobile-carousel.php:335
+#: modules/highlighted-heading/widgets/highlighted-heading.php:90
+#: modules/highlighted-heading/widgets/highlighted-heading.php:248
+msgid "Highlighted Text"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:150
+#: modules/highlighted-heading/widgets/highlighted-heading.php:103
+msgid "After Highlighted Text"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:189
+#: modules/carousel/widgets/testimonial-carousel.php:583
+#: modules/highlighted-heading/widgets/highlighted-heading.php:151
+msgid "HTML Tag"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:226
+#: modules/highlighted-heading/widgets/highlighted-heading.php:188
+#: modules/posts/traits/button-widget-trait.php:122
+#: modules/posts/widgets/posts-base.php:386
+msgid "Justified"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:284
+#: modules/highlighted-heading/widgets/highlighted-heading.php:237
+msgid "Additional CSS"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:286
+#: modules/highlighted-heading/widgets/highlighted-heading.php:239
+msgid ""
+"Additional CSS classes separated by space that you'd like to apply to the "
+"title"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:315
+#: modules/highlighted-heading/widgets/highlighted-heading.php:133
+msgid "Anchor Tag CSS"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:317
+#: modules/highlighted-heading/widgets/highlighted-heading.php:135
+msgid ""
+"Additional CSS classes separated by space that you'd like to apply to the "
+"<a> tag"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:343
+#: modules/highlighted-heading/widgets/highlighted-heading.php:256
+msgid "Highlight Color"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:368
+#: modules/highlighted-heading/widgets/highlighted-heading.php:290
+msgid "Highlighted CSS"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:388
+msgid "Tab Content"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:517
+msgid "Step 1. Advanced budget management"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:521
+msgid ""
+"Consequat ut cras nisl, enim purus in facilisi. Ipsum amet, lectus "
+"malesuada risus sollicitudin accumsan. Id sem elit vel vel lectus risus "
+"senectus."
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:524
+msgid "Step 2. Latest transaction history"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:528
+msgid ""
+"Enim, et amet praesent pharetra. Mi non ante hendrerit amet sed. Arcu "
+"sociis tristique quisque hac in consectetur condimentum."
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:531
+msgid "Step 3. Transfers to people from your contact list"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:535
+msgid ""
+"Proin volutpat mollis egestas. Nam luctus facilisis ultrices. Pellentesque "
+"volutpat ligula est. Mattis fermentum, at nec lacus."
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:538
+msgid "Step 4. Card-to-card transfers"
+msgstr ""
+
+#: modules/carousel/widgets/mobile-carousel.php:542
+msgid ""
+"A sed lorem felis, pulvinar pharetra. At tempus, vel sed faucibus amet sit "
+"elementum sed erat. Id nunc blandit pharetra facilisis."
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:55
+msgid "Post Carousel"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:183
+#: modules/carousel/widgets/project-carousel.php:183
+#: modules/posts/widgets/portfolio.php:123 modules/posts/widgets/posts.php:102
+msgid "Query"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:219
+#: modules/carousel/widgets/project-carousel.php:158
+#: modules/posts/skins/skin-base.php:61 modules/posts/widgets/portfolio.php:112
+#: modules/query-control/controls/group-control-query.php:406
+msgid "Posts Per Page"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:229
+msgid "Show Title"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:261
+msgid "Show Excerpt"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:272
+msgid "Show Author Details"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:286
+msgid "Show Author Description"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:302
+msgid "Show Category"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:313
+msgid "Show Meta Data"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:324
+#: modules/carousel/widgets/post-carousel.php:346
+msgid "Meta Data"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:331
+#: modules/carousel/widgets/post-carousel.php:353
+#: modules/pricing/skins/skin-list.php:286
+#: modules/query-control/controls/group-control-query.php:319
+#: modules/query-control/controls/group-control-query.php:381
+#: modules/ticket/widgets/ticket.php:91 modules/ticket/widgets/ticket.php:438
+msgid "Date"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:332
+#: modules/carousel/widgets/post-carousel.php:354
+msgid "Time"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:333
+msgid "Comments"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:334
+#: modules/carousel/widgets/post-carousel.php:355
+msgid "Date Modified"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:367
+msgid "Separator Between"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:385
+msgid "Meta Content"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:405
+msgid "Space Around"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:406
+msgid "Space Evenly"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:447
+msgid "Meta Color"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:474
+msgid "Separator Color"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:488
+msgid "Meta CSS Class"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:630
+msgid "Excerpt"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:640
+msgid "Excerpt Color"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:680
+msgid "Author Content"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:693
+#: modules/carousel/widgets/post-carousel.php:719
+msgid "Vertical Alignment"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:701
+#: modules/carousel/widgets/post-carousel.php:727
+msgid "Middle"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:745
+msgid "Avatar Size"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:785
+msgid "Name Color"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:829
+#: modules/carousel/widgets/team-carousel.php:461
+msgid "Role Color"
+msgstr ""
+
+#: modules/carousel/widgets/post-carousel.php:1129
+msgid "No comments"
+msgstr ""
+
+#: modules/carousel/widgets/project-carousel.php:51
+msgid "Project Carousel"
+msgstr ""
+
+#: modules/carousel/widgets/project-carousel.php:168
+#: modules/posts/skins/skin-hero.php:56
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: modules/carousel/widgets/project-carousel.php:212
+msgid "Swiper"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:39
+msgid "Team Carousel"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:205
+#: modules/team-member/widgets/team-member.php:279
+msgid "Enable Transparent?"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:219
+#: modules/icon-box/skins/skin-icon-box.php:115
+#: modules/team-member/widgets/team-member.php:293
+msgid "Hide border?"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:221
+#: modules/icon-box/skins/skin-icon-box.php:117
+#: modules/team-member/widgets/team-member.php:295
+msgid "Hidden"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:232
+msgid "Card BG Color"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:322
+#: modules/carousel/widgets/team-carousel.php:374
+#: modules/team-member/widgets/team-member.php:418
+#: modules/team-member/widgets/team-member.php:470
+msgid "Social Icon Color"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:333
+#: modules/carousel/widgets/team-carousel.php:385
+#: modules/team-member/widgets/team-member.php:429
+#: modules/team-member/widgets/team-member.php:481
+msgid "Social Icon Background Color"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:344
+#: modules/carousel/widgets/team-carousel.php:396
+#: modules/team-member/widgets/team-member.php:440
+#: modules/team-member/widgets/team-member.php:492
+msgid "Social Icon Border Color"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:422
+msgid "fw-medium fs-lg mb-1"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:450
+msgid "Role Class"
+msgstr ""
+
+#: modules/carousel/widgets/team-carousel.php:452
+msgid "fs-sm mb-3"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:44
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:196
+msgid "Responsive View Avatar"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:252
+#: modules/testimonial/skins/skin-testimonial.php:128
+msgid "Enable Blockquote Icon"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:277
+#: modules/carousel/widgets/testimonial-carousel.php:406
+#: modules/testimonial/skins/skin-testimonial.php:138
+msgid "Blockquote Icon"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:373
+msgid "Blockquote Text"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:395
+msgid "Blockquote CSS"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:397
+msgid "CSS Classes added to <p> in <blockquote>"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:542
+msgid "CSS classes"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:604
+msgid "Name CSS"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:613
+msgid "Author Role"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:645
+msgid "Role CSS"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:668
+msgid "Card CSS"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:678
+msgid "Icons Wrapper CSS"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:702
+msgid "Figure CSS"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:704
+msgid "CSS Classes added to <figure> in swiper-slide"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:790
+msgid ""
+"Dolor, a eget elementum, integer nulla volutpat, nunc, sit. Quam iaculis "
+"varius mauris magna sem. Egestas sed sed suscipit dolor faucibus dui "
+"imperdiet at eget. Tincidunt imperdiet quis hendrerit aliquam feugiat neque "
+"cras sed. Dictum quam integer volutpat tellus, faucibus platea. Pulvinar "
+"turpis proin faucibus at mauris. Sagittis gravida vitae porta enim, nulla "
+"arcu fermentum massa. Tortor ullamcorper lacus. Pellentesque lectus "
+"adipiscing aenean volutpat tortor habitant."
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:801
+msgid "Head of Marketing"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:804
+msgid ""
+"Mi semper risus ultricies orci pulvinar in at enim orci. Quis facilisis "
+"nunc pellentesque in ullamcorper sit. Lorem blandit arcu sapien, senectus "
+"libero, amet dapibus cursus quam. Eget pellentesque eu purus volutpat "
+"adipiscing malesuada. Purus nisi, tortor vel lacus. Donec diam molestie "
+"ultrices vitae eget pulvinar fames. Velit lacus mi purus velit justo, amet. "
+"Nascetur lobortis diam, duis orci."
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:814
+msgid "Annette Black"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:815
+msgid "Strategic Advisor"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:818
+msgid ""
+"Ac at sed sit senectus massa. Massa ante amet ultrices magna porta tempor. "
+"Aliquet diam in et magna ultricies mi at. Lectus enim, vel enim egestas nam "
+"pellentesque et leo. Elit mi faucibus laoreet aliquam pellentesque sed "
+"aliquet integer massa. Orci leo tortor ornare id mattis auctor aliquam "
+"volutpat aliquet. Odio lectus viverra eu blandit nunc malesuada vitae "
+"eleifend pulvinar. In ac fermentum sit in orci."
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:828
+msgid "Darrell Steward"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:829
+msgid "Project Manager"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:844
+msgid ""
+"Pellentesque finibus congue egestas egestas suspendisse blandit justo. "
+"Tellus augue commodo id quis tempus etiam pulvinar at maecenas."
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:848
+msgid "Albert Flores"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:849
+msgid "PR Director"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:852
+msgid ""
+"Vivamus iaculis facilisis pretium. Pellentesque vitae mi odio. Donec "
+"imperdiet pellentesque ipsum quis pharetra. Nullam dolor sem."
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:856
+msgid "Wade Warren"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:857
+msgid "Illustrator"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:864
+msgid "Fannie Summers"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:865
+msgid "Designer"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:868
+msgid ""
+"Phasellus luctus nisi id orci condimentum, at cursus nisl vestibulum. Orci "
+"varius natoque penatibus et magnis dis parturient montes."
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:872
+msgid "Robert Fox"
+msgstr ""
+
+#: modules/carousel/widgets/testimonial-carousel.php:873
+msgid "QA Engineer"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:39
+msgid "Categories Dropdown"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:78
+msgid "Arguments"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:85
+msgid "Class"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:95
+msgid "Taxonomy"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:105
+#: modules/pricing/widgets/price-switcher.php:95
+#: modules/query-control/controls/group-control-query.php:383
+msgid "ID"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:108
+msgid "Value for the 'id' attribute of the select element"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:118
+msgid "Value for the 'class' attribute of the select element"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:125
+msgid "Show Option All"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:127
+msgid "All Categories"
+msgstr ""
+
+#: modules/categories-dropdown/widgets/categories-dropdown.php:128
+msgid "Text to display for showing all categories."
+msgstr ""
+
+#: modules/column/module.php:55
+msgid "Widget Wrapper"
+msgstr ""
+
+#: modules/column/module.php:64
+#: modules/highlighted-heading/widgets/highlighted-heading.php:352
+#: modules/lottie/widgets/lottie.php:149
+msgid "Max Width"
+msgstr ""
+
+#: modules/column/module.php:90
+msgid "Applied to elementor-widget-wrap element."
+msgstr ""
+
+#: modules/custom-attributes/module.php:68
+msgid "Attributes"
+msgstr ""
+
+#: modules/custom-attributes/module.php:76
+msgid "Custom Attributes"
+msgstr ""
+
+#: modules/custom-attributes/module.php:81
+msgid "key|value"
+msgstr ""
+
+#: modules/custom-attributes/module.php:82
+msgid ""
+"Set custom attributes for the wrapper element. Each attribute in a separate "
+"line. Separate attribute key from the value using %s character."
+msgstr ""
+
+#: modules/custom-css/module.php:104 modules/custom-css/module.php:121
+#: modules/custom-css/module.php:142
+msgid "Custom CSS"
+msgstr ""
+
+#: modules/custom-css/module.php:112
+msgid "Add your own custom CSS here"
+msgstr ""
+
+#: modules/custom-css/module.php:132
+msgid ""
+"Use \"selector\" to target wrapper element. Examples:<br>selector {color: "
+"red;} // For main element<br>selector .child-element {margin: 10px;} // For "
+"child element<br>.my-class {text-align: center;} // Or use any custom "
+"selector"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:36
+msgid "Image with Lightbox"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:98
+#: modules/logo/widgets/logo.php:101
+#: modules/team-member/widgets/team-member.php:93
+msgid "Choose Image"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:114
+msgid "Enable Dark Image"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:125
+msgid "Dark Image"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:160
+#: modules/image-gallery/skins/skin-image-gallery.php:130
+msgid "Caption"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:162
+msgid "Enter your caption"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:163
+msgid "Use this to override the address in the maps"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:172
+#: modules/hero/widgets/hero.php:464
+msgid "Classes"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:182
+msgid "Additional CSS class that you want to apply to the image wrap"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:189
+#: modules/icon-list/module.php:85 modules/nav-menu/widgets/nav-menu.php:246
+msgid "Anchor Class"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:192
+msgid "Additional CSS class that you want to apply to the anchor"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:198
+msgid " Image Class"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:211
+msgid "Dark Image Class"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:238
+#: modules/image-gallery/skins/skin-image-gallery.php:255
+msgid "Caption Class"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:241
+msgid "Additional CSS class that you want to apply to the caption"
+msgstr ""
+
+#: modules/google-maps/skins/skin-image-lightbox-silicon.php:378
+msgid "Expand the map"
+msgstr ""
+
+#: modules/hero/skins/financial-consulting.php:39
+msgid "Financial Consulting"
+msgstr ""
+
+#: modules/hero/skins/financial-consulting.php:84
+msgid "Text Styles"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:38
+msgid "Medical"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:84 modules/hero/widgets/hero.php:137
+msgid "Hero Image"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:101
+msgid "Silicon Medical Center"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:112
+msgid ""
+"Our medical center provides a wide range of health care services. We use "
+"only advanced technologies to keep your family happy and healthy, without "
+"any unexpected surprises. We appreciate your trust greatly. Our patients "
+"choose us and our services because they know we are the best."
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:131
+#: modules/image-box/skins/skin-image-box.php:135
+msgid "Enable Button?"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:143
+#: modules/image-box/skins/skin-image-box.php:147
+msgid "Click Here"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:268
+#: modules/image-box/skins/skin-image-box.php:276
+#: modules/posts/traits/button-widget-trait.php:174
+msgid "Icon Spacing"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:348
+msgid "Additional Content Classes"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:358
+msgid "text-light pb-1 pb-md-3"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:359
+msgid "CSS class that you want to apply to the Title"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:366 modules/hero/widgets/hero.php:482
+msgid "Subtitle Class"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:368
+msgid "fs-lg text-light pb-2 pb-md-0 mb-4 mb-md-5"
+msgstr ""
+
+#: modules/hero/skins/medical-hero.php:369
+msgid "CSS class that you want to apply to the subtitle"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:48 modules/posts/skins/skin-hero.php:32
+msgid "Hero"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:106
+msgid "We Take Care of Your Health"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:117
+msgid "PROFESSIONAL MEDICAL CENTER"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:128
+msgid "Don't have insurance?"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:154
+msgid "Action Buttons"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:162
+msgid "Enable Button 1"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:283
+msgid "Enable Icon 1"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:310
+msgid "Enable Button 2"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:418
+msgid "Enable Icon 2"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:446
+msgid "Additional Content"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:453
+#: modules/nav-tabs/skins/skin-nav-tabs.php:184
+#: modules/nav-tabs/widgets/nav-tabs.php:181
+#: modules/posts/skins/skin-portfolio-list.php:31
+#: modules/pricing/skins/skin-list.php:35
+msgid "List"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:474
+msgid "display-4"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:475
+msgid "Additional CSS class that you want to apply to the Title"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:484
+msgid "fs-xl"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:485
+msgid "Additional CSS class that you want to apply to the subtitle"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:492
+msgid "Lead Class"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:494
+msgid "fs-lg"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:495
+msgid "Additional CSS class that you want to apply to the lead"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:512
+msgid "Button Class1"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:523
+msgid "Button Class2"
+msgstr ""
+
+#: modules/hero/widgets/hero.php:545
+msgid "Icon Class1"
+msgstr ""
+
+#: modules/highlighted-heading/widgets/highlighted-heading.php:38
+msgid "Highlighted Heading"
+msgstr ""
+
+#: modules/highlighted-heading/widgets/highlighted-heading.php:281
+msgid "Before Text CSS"
+msgstr ""
+
+#: modules/highlighted-heading/widgets/highlighted-heading.php:283
+msgid ""
+"Additional CSS classes separated by space that you'd like to apply to the "
+"before highlighted text"
+msgstr ""
+
+#: modules/highlighted-heading/widgets/highlighted-heading.php:299
+msgid "After Text CSS"
+msgstr ""
+
+#: modules/highlighted-heading/widgets/highlighted-heading.php:301
+msgid ""
+"Additional CSS classes separated by space that you'd like to apply to the "
+"after highlighted text"
+msgstr ""
+
+#: modules/highlighted-heading/widgets/highlighted-heading.php:387
+msgid "Height"
+msgstr ""
+
+#: modules/icon/module.php:60
+msgid ""
+"Additional CSS class that you want to apply to the <i> tag. Does not apply "
+"to SVG icons."
+msgstr ""
+
+#: modules/icon/module.php:69
+msgid "Additional CSS class that you want to apply to the .elementor-icon element"
+msgstr ""
+
+#: modules/icon-box/module.php:58
+msgid "Icon Wrapper Class"
+msgstr ""
+
+#: modules/icon-box/module.php:61
+msgid "Additional CSS class that you want to apply to the icon wrapper"
+msgstr ""
+
+#: modules/icon-box/skins/skin-icon-box-v2.php:321
+#: modules/icon-box/skins/skin-icon-box.php:170
+msgid "Backgroud Color"
+msgstr ""
+
+#: modules/icon-box/skins/skin-icon-box-v2.php:402
+#: modules/icon-box/skins/skin-icon-box-v2.php:423
+#: modules/icon-box/skins/skin-icon-box-v2.php:441
+#: modules/image-box/skins/skin-image-box-v2.php:255
+#: modules/image-box/skins/skin-image-box-v2.php:314
+#: modules/image-box/skins/skin-image-box-v2.php:337
+#: modules/image-box/skins/skin-image-box-v2.php:362
+#: modules/image-box/skins/skin-image-box-v2.php:375
+#: modules/image-box/skins/skin-image-box-v2.php:395
+#: modules/image-box/skins/skin-image-box-v2.php:415
+#: modules/image-box/skins/skin-image-box.php:119
+msgid "Additional CSS class that you want to apply to the title"
+msgstr ""
+
+#: modules/icon-box/skins/skin-icon-box-v2.php:420
+msgid "Cardbody Class"
+msgstr ""
+
+#: modules/icon-box/skins/skin-icon-box-v2.php:459
+msgid "Additional CSS class that you want to apply to the description"
+msgstr ""
+
+#: modules/icon-box/skins/skin-icon-box-v2.php:557
+msgid "Button Icon Color"
+msgstr ""
+
+#: modules/icon-box/skins/skin-icon-box.php:232
+#: modules/posts/widgets/posts-base.php:162
+#: modules/posts/widgets/posts-base.php:572
+msgid "Spacing"
+msgstr ""
+
+#: modules/icon-list/module.php:58
+msgid "List item Wrap"
+msgstr ""
+
+#: modules/icon-list/module.php:60
+msgid "Add your custom class for <ul> tag  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/icon-list/module.php:67
+msgid "List item Class"
+msgstr ""
+
+#: modules/icon-list/module.php:69
+msgid "Add your custom class for <li> tag  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/icon-list/module.php:78 modules/icon-list/module.php:87
+msgid "Additional CSS class that you want to apply to the <i> tag"
+msgstr ""
+
+#: modules/image/module.php:87
+msgid "Image Anchor Class"
+msgstr ""
+
+#: modules/image/module.php:102
+msgid "Caption CSS"
+msgstr ""
+
+#: modules/image/module.php:104
+msgid "Add your custom class for <figcaption> tag  without the dot. e.g: my-class"
+msgstr ""
+
+#: modules/image/module.php:107
+msgid "Additional CSS class that you want to apply to the figcaption tag"
+msgstr ""
+
+#: modules/image/skins/skin-image-attribute.php:52
+msgid "Image Jarallax"
+msgstr ""
+
+#: modules/image/skins/skin-image-attribute.php:86
+msgid "Data Jarallax Element"
+msgstr ""
+
+#: modules/image/skins/skin-image-attribute.php:95
+msgid "Data Parallax Element"
+msgstr ""
+
+#: modules/image/skins/skin-image.php:55
+msgid "LightGallery - Video"
+msgstr ""
+
+#: modules/image/skins/skin-image.php:104
+msgid "Enable Play Button?"
+msgstr ""
+
+#: modules/image/skins/skin-image.php:121
+#: modules/posts/traits/button-widget-trait.php:33
+msgid "Extra Large"
+msgstr ""
+
+#: modules/image/skins/skin-image.php:213
+msgid "Button Background Color"
+msgstr ""
+
+#: modules/image/skins/skin-image.php:246
+msgid "Button Hover Color"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box-v2.php:188
+msgid "Additional CSS class that you want to apply to the title icon"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box-v2.php:298
+msgid "Enable Card Shadow"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box-v2.php:309
+#: modules/pricing/skins/skin-card.php:335
+msgid "Card Body Class"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box-v2.php:357
+msgid "Shadow Class"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:94
+msgid "Style 3"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:117
+msgid "w-25"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:345
+msgid "Show border?"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:347
+msgid "show"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:478
+#: modules/team-member/widgets/team-member.php:306
+msgid "Card Hover Color"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:501
+msgid "Padding Class"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:503
+msgid "align-items-start"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:511
+msgid "Card Wrap Class"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:513
+msgid "mb-4"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:523
+msgid "rounded-3 p-3 mb-3"
+msgstr ""
+
+#: modules/image-box/skins/skin-image-box.php:531
+msgid "Content Wrap Class"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:41
+msgid "About Grid"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:94
+msgid "Index"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:97
+msgid ""
+"Specify the index of the gallery item for which you want the repeater "
+"settings to apply"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:104
+msgid "Video URL"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:106
+msgid "Specify the video URL if you want the gallery item links to a video."
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:120
+msgid "Additional Gallery Image Settings"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:134
+msgid "Attachment Caption"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:135
+#: modules/image-gallery/skins/skin-image-gallery.php:144
+msgid "Custom Caption"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:147
+msgid "Enter your image caption"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:177
+msgid "Widget wrap Class"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:179
+msgid "pb-3 mb-3"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:180
+#: modules/image-gallery/skins/skin-image-gallery.php:259
+msgid "CSS Classes added to <div>"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:190
+msgid "text-light mb-1"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:191
+msgid "CSS Classes added to <h3>"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:224
+msgid "mb-0"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:225
+msgid "CSS Classes added to <p>"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:257
+msgid "gallery-item-caption fs-sm fw-medium"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-gallery.php:267
+msgid "Caption Color"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-image-grid-parallax.php:40
+msgid "Image Grid Parallax"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-parallax-gfx.php:40
+msgid "Parallax GFX"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-parallax-gfx.php:70
+msgid "Data Depth Value"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-parallax-gfx.php:86
+msgid "Data Attribute"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-parallax-gfx.php:112
+msgid "Wrapper CSS Class"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-profile.php:41
+msgid "Profile"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-profile.php:92
+msgid "Enter Your Details"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-profile.php:128
+msgid "Wrap Spacing"
+msgstr ""
+
+#: modules/image-gallery/skins/skin-profile.php:145
+msgid "Image Spacing"
+msgstr ""
+
+#: modules/logo/widgets/logo.php:93
+msgid "Logo Wrap CSS"
+msgstr ""
+
+#: modules/logo/widgets/logo.php:115
+msgid "Image CSS"
+msgstr ""
+
+#: modules/logo/widgets/logo.php:159
+msgid "Title CSS"
+msgstr ""
+
+#: modules/lottie/widgets/lottie.php:85
+msgid "Settings"
+msgstr ""
+
+#: modules/lottie/widgets/lottie.php:92
+msgid "Loop"
+msgstr ""
+
+#: modules/lottie/widgets/lottie.php:184
+msgid "Lottie CSS"
+msgstr ""
+
+#: modules/lottie/widgets/lottie.php:187
+msgid "Additional CSS to be <lottie-player> element."
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:55
+msgid "Silicon Nav Menu"
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:165
+msgid "Nav Menu"
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:175
+msgid "Menu"
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:181
+#. translators: %1$s: Link to Menu Link.
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:189
+msgid "There are no menus in your site."
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:189
+#. translators: %1$s: Link to Menu Link.
+msgid "Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:208
+msgid "Inline"
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:220
+msgid "Wrappers"
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:228
+msgid "Menu Item Wrap"
+msgstr ""
+
+#: modules/nav-menu/widgets/nav-menu.php:237
+msgid "Menu Item Class"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:37
+msgid "Nav Days"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:78
+#: modules/nav-tabs/skins/skin-nav-tabs.php:80
+#: modules/nav-tabs/skins/skin-nav-tabs.php:81
+#: modules/nav-tabs/widgets/nav-tabs.php:86
+#: modules/nav-tabs/widgets/nav-tabs.php:88
+#: modules/nav-tabs/widgets/nav-tabs.php:89
+#: modules/pricing/skins/skin-list.php:151
+#: modules/pricing/widgets/price.php:300
+msgid "List Item"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:87
+#: modules/nav-tabs/widgets/nav-tabs.php:122
+msgid "Tab Content ID"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:89
+#: modules/nav-tabs/widgets/nav-tabs.php:124
+msgid "Tab Content Id"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:95
+#: modules/nav-tabs/skins/skin-nav-tabs.php:97
+msgid "List Item Description"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:98
+msgid "Enter your item description"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:104
+#: modules/nav-tabs/widgets/nav-tabs.php:155
+msgid "Nav List"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:109
+msgid "Day One"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:112
+msgid "Day Two"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:160
+#: modules/pricing/widgets/price.php:307
+msgid "Text Class"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:164
+msgid "Additional CSS class that you want to apply to the title wrap <div> tag"
+msgstr ""
+
+#: modules/nav-tabs/skins/skin-nav-tabs.php:174
+msgid "Additional CSS class that you want to apply to the desc wrap <div> tag"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:40
+msgid "Nav Tabs"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:77
+msgid "Nav Tabs List"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:97
+msgid "Enable Link?"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:107
+msgid "List Link"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:148
+msgid "Enter Your Icon Class"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:160
+msgid "Project management"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:163
+msgid "Remote work"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:166
+msgid "Product release"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:169
+msgid "Campaign planning"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:352
+msgid "List Wrap Class"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:354
+msgid "flex-nowrap justify-content-lg-center overflow-auto pb-2 mb-3 mb-lg-4"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:355
+#: modules/nav-tabs/widgets/nav-tabs.php:364
+msgid "Enter Your Wrap Class"
+msgstr ""
+
+#: modules/nav-tabs/widgets/nav-tabs.php:362
+msgid "List item Wrap Class"
+msgstr ""
+
+#: modules/page-settings/module.php:75
+msgid "Enable Overflow?"
+msgstr ""
+
+#: modules/page-settings/module.php:274
+msgid "Body Classes"
+msgstr ""
+
+#: modules/page-settings/module.php:294 modules/page-settings/module.php:581
+msgid "Headers"
+msgstr ""
+
+#: modules/page-settings/module.php:302
+msgid "Custom Header"
+msgstr ""
+
+#: modules/page-settings/module.php:313
+msgid "Navbar Position"
+msgstr ""
+
+#: modules/page-settings/module.php:318
+msgid "Fixed Top"
+msgstr ""
+
+#: modules/page-settings/module.php:319
+msgid "Absolute"
+msgstr ""
+
+#: modules/page-settings/module.php:330
+msgid "Stick Navbar on Scroll"
+msgstr ""
+
+#: modules/page-settings/module.php:345
+msgid "Navbar Text"
+msgstr ""
+
+#: modules/page-settings/module.php:363
+msgid "Transparent"
+msgstr ""
+
+#: modules/page-settings/module.php:376
+msgid "Enable shadow"
+msgstr ""
+
+#: modules/page-settings/module.php:390
+msgid "Disable Dark Mode Shadow"
+msgstr ""
+
+#: modules/page-settings/module.php:448
+msgid "Enable Buy Now Button ?"
+msgstr ""
+
+#: modules/page-settings/module.php:566
+#: modules/posts/traits/button-widget-trait.php:213
+msgid "Button CSS"
+msgstr ""
+
+#: modules/page-settings/module.php:787 modules/pricing/widgets/price.php:363
+#: modules/pricing/widgets/price.php:701
+msgid "Footer"
+msgstr ""
+
+#: modules/page-settings/module.php:795
+msgid "Custom Footer"
+msgstr ""
+
+#: modules/page-settings/module.php:806
+msgid "Footer Variant"
+msgstr ""
+
+#: modules/page-settings/module.php:810
+msgid "Static Footer"
+msgstr ""
+
+#: modules/page-settings/module.php:824
+msgid "Footer Static Widgets"
+msgstr ""
+
+#: modules/page-settings/module.php:839
+msgid "Copyright Text"
+msgstr ""
+
+#: modules/page-settings/module.php:841
+msgid ""
+"© All rights reserved. Made with <i class=\"bx bx-heart d-inline-block "
+"fs-lg text-gradient-primary align-middle mt-n1 mx-1\"></i> by&nbsp; <a "
+"href=\"https://madrasthemes.com/\" class=\"text-muted\" target=\"_blank\" "
+"rel=\"noopener\">MadrasThemes</a>"
+msgstr ""
+
+#: modules/parallax/widgets/parallax-3d-tilt.php:39
+msgid "Parallax 3D Tilt"
+msgstr ""
+
+#: modules/parallax/widgets/parallax-3d-tilt.php:88
+#: modules/parallax/widgets/parallax-3d-tilt.php:138
+#: modules/slider/widgets/image-comparison-slider.php:87
+#: modules/slider/widgets/image-comparison-slider.php:148
+msgid "Images"
+msgstr ""
+
+#: modules/parallax/widgets/parallax-3d-tilt.php:96
+msgid "Layer 1 Image"
+msgstr ""
+
+#: modules/parallax/widgets/parallax-3d-tilt.php:116
+msgid "Layer 2 Image"
+msgstr ""
+
+#: modules/parallax/widgets/parallax-3d-tilt.php:146
+msgid "Desktop Vertical Spacing"
+msgstr ""
+
+#: modules/parallax/widgets/parallax-3d-tilt.php:164
+msgid "Responsive Vertical Spacing"
+msgstr ""
+
+#: modules/posts/data/controller.php:43
+msgid "Document doesn't exist"
+msgstr ""
+
+#: modules/posts/data/controller.php:54
+msgid "Posts widget doesn't exist"
+msgstr ""
+
+#: modules/posts/skins/skin-base.php:225 templates/documents/page.php:16
+#: templates/types/page.php:21
+msgid "Page"
+msgstr ""
+
+#: modules/posts/skins/skin-grid-card.php:31
+msgid "Grid Card"
+msgstr ""
+
+#: modules/posts/skins/skin-grid-v1.php:31
+msgid "Grid v1"
+msgstr ""
+
+#: modules/posts/skins/skin-grid-v2.php:31
+msgid "Grid v2"
+msgstr ""
+
+#: modules/posts/skins/skin-hero.php:68
+msgid "Enable container"
+msgstr ""
+
+#: modules/posts/skins/skin-hero.php:79
+msgid "Feature Title"
+msgstr ""
+
+#: modules/posts/skins/skin-hero.php:88
+msgid "Feature Icon"
+msgstr ""
+
+#: modules/posts/skins/skin-hero.php:97
+msgid "Cover Image"
+msgstr ""
+
+#: modules/posts/skins/skin-list-simple.php:31
+msgid "List Simple"
+msgstr ""
+
+#: modules/posts/skins/skin-list-v1.php:31
+msgid "List v1"
+msgstr ""
+
+#: modules/posts/skins/skin-list-v2.php:31
+msgid "List v2"
+msgstr ""
+
+#: modules/posts/skins/skin-portfolio-grid.php:31
+msgid "Grid"
+msgstr ""
+
+#: modules/posts/skins/skin-portfolio-masonry.php:31
+msgid "Masonry"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:29
+msgid "Extra Small"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:31
+msgid "Medium"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:160
+msgid "Icon Position"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:164
+#: modules/pricing/skins/skin-list.php:228
+#: modules/pricing/widgets/price.php:638
+#: modules/query-control/controls/group-control-query.php:343
+#: modules/ticket/widgets/ticket.php:829
+msgid "Before"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:165
+#: modules/pricing/skins/skin-list.php:232
+#: modules/pricing/widgets/price.php:642
+#: modules/query-control/controls/group-control-query.php:360
+#: modules/ticket/widgets/ticket.php:833
+msgid "After"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:192
+msgid "View"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:202
+msgid "Button Wrapper CSS"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:205
+msgid "Additional CSS to be applied to .btn-wrapper element."
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:216
+msgid "Additional CSS to be applied to .btn element."
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:224
+#: modules/pricing/widgets/price.php:437 modules/ticket/widgets/ticket.php:221
+msgid "Button ID"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:230
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: modules/posts/traits/button-widget-trait.php:231
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows `A-z 0-9` & underscore chars without "
+"spaces."
+msgstr ""
+
+#: modules/posts/widgets/portfolio.php:45
+msgid "Portfolio"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:100
+#: modules/posts/widgets/posts-base.php:112
+#: modules/posts/widgets/posts-base.php:355
+msgid "No More Posts Message"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:146
+msgid "Spinner Color"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:202
+msgid "Page Limit"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:217
+msgid "Shorten"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:232
+msgid "Previous Label"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:233
+msgid "&laquo; Previous"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:246
+msgid "Next Label"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:247
+msgid "Next &raquo;"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:337
+msgid "Load More"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:405
+msgid "Custom Messages"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:420
+msgid "No more posts message"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:422
+msgid "No more posts to show"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:455
+msgid "Navigation Class"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:457
+msgid "Additional CSS class that you want to apply to the ul.pagination tag"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:475
+msgid "Colors"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:730
+#: modules/posts/widgets/posts-base.php:732
+msgid "Numbers"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:731
+#: modules/posts/widgets/posts-base.php:732
+msgid "Previous/Next"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:733
+msgid "Load on Click"
+msgstr ""
+
+#: modules/posts/widgets/posts-base.php:734
+msgid "Infinite Scroll"
+msgstr ""
+
+#: modules/posts/widgets/posts.php:33
+msgid "Posts"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:89
+msgid "Sub title"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:91
+msgid "Best for large teams"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:129
+#: modules/pricing/skins/skin-list.php:242
+#: modules/ticket/widgets/ticket.php:764
+msgid "Price"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:142
+#: modules/pricing/widgets/price.php:227
+msgid "Annually Price"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:155
+#: modules/ticket/widgets/ticket.php:240
+msgid "Price Sub Text"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:288
+msgid "Sub Title Class"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:298
+msgid "Sub Title Color"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:328
+msgid "Add your custom class for card background. e.g: bg-transparent"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:337
+msgid "Add your custom class for card body. e.g: bg-transparent"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:344
+#: modules/pricing/widgets/price.php:552
+msgid "Enable Transparent"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:356
+msgid "Enable Border Light"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:401
+msgid "Price Typography"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:410
+msgid "Price CSS Class"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:419
+msgid "Annual Price CSS Class"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:429
+msgid "Price Sub Text CSS Class"
+msgstr ""
+
+#: modules/pricing/skins/skin-card.php:438
+msgid "Price Sub Text Color"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:170
+#: modules/pricing/widgets/price.php:151 modules/pricing/widgets/price.php:623
+#: modules/ticket/widgets/ticket.php:249 modules/ticket/widgets/ticket.php:803
+msgid "Currency Symbol"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:191
+#: modules/pricing/widgets/price.php:172
+#: modules/query-control/controls/group-control-query.php:329
+#: modules/ticket/widgets/ticket.php:270
+msgid "Custom"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:201
+#: modules/pricing/widgets/price.php:181 modules/ticket/widgets/ticket.php:279
+msgid "Custom Symbol"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:212
+msgid "Symbol Color"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:223
+#: modules/pricing/widgets/price.php:633
+#: modules/team-member/widgets/team-member.php:135
+#: modules/team-member/widgets/team-member.php:137
+#: modules/ticket/widgets/ticket.php:824
+msgid "Position"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:255
+msgid "Price Class CSS"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:275
+#: modules/pricing/widgets/price.php:611 modules/ticket/widgets/ticket.php:772
+msgid "Price Color"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:300
+#: modules/ticket/widgets/ticket.php:469
+msgid "Date Class"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:309
+#: modules/ticket/widgets/ticket.php:446
+msgid "Date Color"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:335
+msgid "Early birds"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:339
+msgid "Late birds"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:389
+msgid "Skin Header"
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:40
+msgid "Price Switcher"
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:77
+#: modules/team-member/widgets/team-member.php:86
+msgid "General"
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:84
+msgid "Show Price Switcher ?"
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:87
+msgid "Enable to display price switcher."
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:107
+msgid "Left Label"
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:109
+msgid "Monthly"
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:119
+msgid "Right Label"
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:121
+msgid "Annually"
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:131
+msgid "Percentage"
+msgstr ""
+
+#: modules/pricing/widgets/price-switcher.php:133
+msgid "-10%"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:55
+msgid "Price Table"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:94 modules/pricing/widgets/price.php:492
+msgid "Header"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:103
+msgid "Standard"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:126
+msgid "Header Icon"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:141 modules/pricing/widgets/price.php:588
+#: modules/ticket/widgets/ticket.php:233 modules/ticket/widgets/ticket.php:714
+msgid "Pricing"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:192
+msgid "Monthly Price"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:204
+msgid "Monthly Sub Price"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:216
+msgid "Show Annual"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:218
+msgid "On"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:219
+msgid "Off"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:243
+msgid "Annually Sub Price"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:259 modules/ticket/widgets/ticket.php:302
+msgid "Currency Format"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:274 modules/pricing/widgets/price.php:655
+msgid "Features"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:342
+msgid "List Item #1"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:346
+msgid "List Item #2"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:350
+msgid "List Item #3"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:372 modules/ticket/widgets/ticket.php:156
+msgid "Start free trial"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:439 modules/ticket/widgets/ticket.php:223
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page   this "
+"form is displayed. This field allows A-z 0-9 & underscore chars without "
+"spaces."
+msgstr ""
+
+#: modules/pricing/widgets/price.php:449 modules/pricing/widgets/price.php:857
+msgid "Badge"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:466
+msgid "Badge Icon"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:478
+msgid "Badge Title"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:480
+msgid "Popular"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:576
+msgid "Icon Background"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:600 modules/ticket/widgets/ticket.php:813
+msgid "Currency Symbol Color"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:690
+msgid "Ul Wrap Class"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:797
+msgid "Button width class"
+msgstr ""
+
+#: modules/pricing/widgets/price.php:799 modules/ticket/widgets/ticket.php:655
+msgid "Add your custom class for button. e.g: card-active"
+msgstr ""
+
+#: modules/query-control/controls/group-control-posts.php:89
+#: modules/query-control/controls/group-control-query.php:110
+#: modules/query-control/controls/group-control-query.php:223
+#: modules/query-control/controls/group-control-related.php:83
+#: modules/query-control/module.php:121
+msgid "Search & Select"
+msgstr ""
+
+#: modules/query-control/controls/group-control-posts.php:141
+#: modules/query-control/controls/group-control-query.php:84
+#: modules/query-control/controls/group-control-query.php:207
+#: modules/query-control/controls/group-control-related.php:71
+#: modules/query-control/module.php:112
+msgid "Manual Selection"
+msgstr ""
+
+#: modules/query-control/controls/group-control-posts.php:142
+#: modules/query-control/controls/group-control-query.php:85
+msgid "Current Query"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:99
+msgid "Include"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:126
+msgid "Include By"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:130
+#: modules/query-control/controls/group-control-query.php:145
+#: modules/query-control/controls/group-control-query.php:208
+#: modules/query-control/controls/group-control-query.php:244
+#: modules/query-control/controls/group-control-related.php:51
+msgid "Term"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:146
+msgid ""
+"Terms are items in a taxonomy. The available taxonomies are: Categories, "
+"Tags, Formats and custom taxonomies."
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:191
+#: modules/query-control/module.php:107
+msgid "Exclude"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:202
+msgid "Exclude By"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:206
+#: modules/query-control/module.php:111
+msgid "Current Post"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:289
+#: modules/query-control/module.php:138
+msgid "Avoid Duplicates"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:292
+msgid ""
+"Set to Yes to avoid duplicate posts from showing up. This only effects the "
+"frontend."
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:304
+msgid "Offset"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:313
+msgid "Use this setting to skip over posts (e.g. '2' to skip over 2 posts)."
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:323
+#: modules/query-control/module.php:1185 templates/classes/manager.php:183
+msgid "All"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:324
+msgid "Past Day"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:325
+msgid "Past Week"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:326
+msgid "Past Month"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:327
+msgid "Past Quarter"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:328
+msgid "Past Year"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:348
+#: modules/query-control/controls/group-control-query.php:365
+msgid "Choose"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:356
+msgid ""
+"Setting a ‘Before’ date will show all the posts published until the chosen "
+"date (inclusive)."
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:373
+msgid ""
+"Setting an ‘After’ date will show all the posts published since the chosen "
+"date (inclusive)."
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:377
+msgid "Order By"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:384
+msgid "Menu Order"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:385
+msgid "Random"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:393
+msgid "Order"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:397
+msgid "ASC"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:398
+msgid "DESC"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:415
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:421
+msgid "Sticky-posts ordering is visible on frontend only"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:425
+msgid "Query ID"
+msgstr ""
+
+#: modules/query-control/controls/group-control-query.php:428
+msgid "Give your Query a custom unique id to allow server side filtering"
+msgstr ""
+
+#: modules/query-control/controls/group-control-related.php:42
+msgid "Related"
+msgstr ""
+
+#: modules/query-control/controls/group-control-related.php:67
+msgid "Fallback"
+msgstr ""
+
+#: modules/query-control/controls/group-control-related.php:72
+msgid "Recent Posts"
+msgstr ""
+
+#: modules/query-control/controls/group-control-related.php:75
+msgid ""
+"Displayed if no relevant results are found. Manual selection display order "
+"is random"
+msgstr ""
+
+#: modules/query-control/module.php:141
+msgid ""
+"Set to Yes to avoid duplicate posts from showing up on the page. This only "
+"affects the frontend."
+msgstr ""
+
+#: modules/section/module.php:63
+msgid "Container CSS Classes"
+msgstr ""
+
+#: modules/section/module.php:66
+msgid ""
+"Applied to elementor-container element. You can use additional bootstrap "
+"utility classes here."
+msgstr ""
+
+#: modules/section/module.php:90
+msgid "Enable Jarallax"
+msgstr ""
+
+#: modules/section/module.php:110
+msgid "Separate Wrapper for Background"
+msgstr ""
+
+#: modules/section/module.php:122
+msgid "Speed"
+msgstr ""
+
+#: modules/section/module.php:136
+msgid "Data Type"
+msgstr ""
+
+#: modules/section/module.php:148
+msgid "Enable Overlay"
+msgstr ""
+
+#: modules/section/module.php:160
+msgid "Overlay Opacity"
+msgstr ""
+
+#: modules/section/module.php:182
+msgid "Enter the style that you want to be inlined to .jarallax element"
+msgstr ""
+
+#: modules/section/module.php:199
+msgid "Applied to .jarallax element"
+msgstr ""
+
+#: modules/section/module.php:216
+msgid "Applied to the wrapper of .jarallax element"
+msgstr ""
+
+#: modules/shapes/widgets/shapes.php:32 modules/shapes/widgets/shapes.php:52
+#: modules/shapes/widgets/shapes.php:80 modules/shapes/widgets/shapes.php:111
+msgid "Shapes"
+msgstr ""
+
+#: modules/shapes/widgets/shapes.php:84
+msgid "Bottom Shape"
+msgstr ""
+
+#: modules/shapes/widgets/shapes.php:85
+msgid "Background Shape"
+msgstr ""
+
+#: modules/shapes/widgets/shapes.php:119
+msgid "SVG Color"
+msgstr ""
+
+#: modules/sidebar/module.php:51
+msgid "Off-Canvas?"
+msgstr ""
+
+#: modules/sidebar/module.php:52
+msgid "Should show this sidebar off-canvas in mobile view?"
+msgstr ""
+
+#: modules/sidebar/module.php:74 modules/sidebar/module.php:75
+msgid "Sidebar"
+msgstr ""
+
+#: modules/slider/widgets/image-comparison-slider.php:38
+msgid "Image Comparison Slider"
+msgstr ""
+
+#: modules/slider/widgets/image-comparison-slider.php:96
+msgid "Dark Mode Slot"
+msgstr ""
+
+#: modules/slider/widgets/image-comparison-slider.php:98
+msgid "Slot 2"
+msgstr ""
+
+#: modules/slider/widgets/image-comparison-slider.php:99
+msgid "Slot 1"
+msgstr ""
+
+#: modules/slider/widgets/image-comparison-slider.php:106
+msgid "Dark Mode Image"
+msgstr ""
+
+#: modules/slider/widgets/image-comparison-slider.php:126
+msgid "Light Mode Image"
+msgstr ""
+
+#: modules/slider/widgets/image-comparison-slider.php:156
+msgid "Left Background Color"
+msgstr ""
+
+#: modules/slider/widgets/image-comparison-slider.php:167
+msgid "Right Background Color"
+msgstr ""
+
+#: modules/star-rating/skins/skin-star-rating.php:113
+msgid "Pre Title"
+msgstr ""
+
+#: modules/star-rating/skins/skin-star-rating.php:115
+msgid "Enter Your Pre title"
+msgstr ""
+
+#: modules/star-rating/skins/skin-star-rating.php:124
+msgid "Enter Your reviews"
+msgstr ""
+
+#: modules/star-rating/skins/skin-star-rating.php:171
+msgid "Pre Title Color"
+msgstr ""
+
+#: modules/star-rating/skins/skin-star-rating.php:193
+msgid "Pre Title Class"
+msgstr ""
+
+#: modules/star-rating/skins/skin-star-rating.php:203
+msgid "Review Color"
+msgstr ""
+
+#: modules/star-rating/skins/skin-star-rating.php:225
+msgid "Review Class"
+msgstr ""
+
+#: modules/star-rating/skins/skin-star-rating.php:244
+msgid "Icon Wrap Class"
+msgstr ""
+
+#: modules/star-rating/skins/skin-star-rating.php:247
+msgid "Additional CSS class that you want to apply to the <div> tag"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:40
+msgid "Team Member"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:119
+msgid "Additional CSS class that you want to apply to the <img> tag"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:207
+msgid "Icon Link Class"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:217
+msgid "Icon Link"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:545
+msgid "Postion Class"
+msgstr ""
+
+#: modules/team-member/widgets/team-member.php:555
+msgid "Byline Color"
+msgstr ""
+
+#: modules/testimonial/skins/skin-testimonial.php:95
+msgid "Choose Logo"
+msgstr ""
+
+#: modules/testimonial/skins/skin-testimonial.php:242
+msgid "Avatar CSS"
+msgstr ""
+
+#: modules/testimonial/skins/skin-testimonial.php:244
+#: modules/testimonial/skins/skin-testimonial.php:311
+msgid "CSS Classes added to <img>"
+msgstr ""
+
+#: modules/testimonial/skins/skin-testimonial.php:270
+msgid "Logo Width"
+msgstr ""
+
+#: modules/testimonial/skins/skin-testimonial.php:309
+msgid "Logo CSS"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:45
+msgid "Ticket Card"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:84 modules/ticket/widgets/ticket.php:429
+msgid "Ticket Details"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:93
+msgid "Oct 14+15"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:102
+msgid "NY Digital Conference"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:127 modules/ticket/widgets/ticket.php:134
+#: modules/ticket/widgets/ticket.php:519
+msgid "QR Image"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:147 modules/ticket/widgets/ticket.php:557
+msgid "Access Button"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:242
+msgid "for only"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:290
+msgid "Ticket Price"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:316
+msgid "Wrapper"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:333
+msgid "Show dark ?"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:396
+msgid "Background Wrapper Class"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:406
+msgid "Shadow Color"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:417
+msgid "Shadow Color Class"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:457
+msgid "Date typography"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:497
+msgid "Title typography"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:653
+msgid "Button Class"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:723
+msgid "Price Text"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:742
+msgid "Text typography"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:754
+msgid "Price Sub Text Class"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:783
+msgid "Price typography"
+msgstr ""
+
+#: modules/ticket/widgets/ticket.php:795
+msgid "Ticket Price Class"
+msgstr ""
+
+#: plugin.php:87 plugin.php:98
+msgid "Something went wrong."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Silicon Elementor"
+msgstr ""
+
+#: silicon-elementor.php:87
+msgid ""
+"Silicon Elementor is not working because you need to activate the Elementor "
+"plugin."
+msgstr ""
+
+#: silicon-elementor.php:88
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: silicon-elementor.php:96
+msgid ""
+"Silicon Elementor is not working because you need to install the Elementor "
+"plugin."
+msgstr ""
+
+#: silicon-elementor.php:97
+msgid "Install Elementor Now"
+msgstr ""
+
+#: silicon-elementor.php:114
+msgid ""
+"Silicon Elementor is not working because you are using an old version of "
+"Elementor."
+msgstr ""
+
+#: silicon-elementor.php:115 silicon-elementor.php:132
+msgid "Update Elementor Now"
+msgstr ""
+
+#: silicon-elementor.php:131
+msgid ""
+"A new version of Elementor is available. For better performance and "
+"compatibility of Silicon Elementor, we recommend updating to the latest "
+"version."
+msgstr ""
+
+#: templates/classes/config.php:50
+#: templates/scripts/template-modal-header-logo.php:12
+msgid "Silicon Templates"
+msgstr ""
+
+#: templates/classes/config.php:125
+msgid "Get Pro"
+msgstr ""
+
+#: templates/scripts/template-modal-error.php:13
+msgid "Template couldn't be loaded. Please activate you license key before."
+msgstr ""
+
+#: templates/scripts/template-modal-header-back.php:10
+msgid "Back to Library"
+msgstr ""
+
+#: templates/scripts/template-modal-header.php:11
+msgid "Close"
+msgstr ""
+
+#: templates/scripts/template-modal-insert-button.php:12
+#: templates/scripts/template-modal-item.php:22
+msgid "Insert"
+msgstr ""
+
+#: templates/scripts/template-modal-keywords.php:11
+msgid "Filter by Widget / Addon"
+msgstr ""
+
+#: templates/scripts/template-modal-keywords.php:13
+msgid "All Widgets/Addons"
+msgstr ""
+
+#: templates/scripts/template-modal-loading.php:15
+msgid "Loading"
+msgstr ""
+
+#: templates/types/page.php:25
+msgid "Pages"
+msgstr ""
+
+#: templates/types/section.php:25
+msgid "Sections"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://silicon.madrasthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Silicon Elementor is built for Silicon WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MadrasThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://madrasthemes.com/"
+msgstr ""
+
+#: core/utils.php:177
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: core/utils.php:184
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: core/utils.php:191
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: core/utils.php:199
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: core/utils.php:201
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: core/utils.php:203
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: core/utils.php:205
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: core/utils.php:207
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: core/utils.php:209
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: core/utils.php:211
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: core/utils.php:213
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: core/utils.php:215
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: modules/button/skins/skin-button-reviews.php:302
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s review"
+msgid_plural "%1$s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/pricing/skins/skin-list.php:174
+#: modules/pricing/widgets/price.php:155 modules/ticket/widgets/ticket.php:253
+msgctxt "Currency Symbol"
+msgid "Dollar"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:175
+#: modules/pricing/widgets/price.php:156 modules/ticket/widgets/ticket.php:254
+msgctxt "Currency Symbol"
+msgid "Euro"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:176
+#: modules/pricing/widgets/price.php:157 modules/ticket/widgets/ticket.php:255
+msgctxt "Currency Symbol"
+msgid "Baht"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:177
+#: modules/pricing/widgets/price.php:158 modules/ticket/widgets/ticket.php:256
+msgctxt "Currency Symbol"
+msgid "Franc"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:178
+#: modules/pricing/widgets/price.php:159 modules/ticket/widgets/ticket.php:257
+msgctxt "Currency Symbol"
+msgid "Guilder"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:179
+#: modules/pricing/widgets/price.php:160 modules/ticket/widgets/ticket.php:258
+msgctxt "Currency Symbol"
+msgid "Krona"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:180
+#: modules/pricing/widgets/price.php:161 modules/ticket/widgets/ticket.php:259
+msgctxt "Currency Symbol"
+msgid "Lira"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:181
+#: modules/pricing/widgets/price.php:162 modules/ticket/widgets/ticket.php:260
+msgctxt "Currency Symbol"
+msgid "Peseta"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:182
+#: modules/pricing/widgets/price.php:163 modules/ticket/widgets/ticket.php:261
+msgctxt "Currency Symbol"
+msgid "Peso"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:183
+#: modules/pricing/widgets/price.php:164 modules/ticket/widgets/ticket.php:262
+msgctxt "Currency Symbol"
+msgid "Pound Sterling"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:184
+#: modules/pricing/widgets/price.php:165 modules/ticket/widgets/ticket.php:263
+msgctxt "Currency Symbol"
+msgid "Real"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:185
+#: modules/pricing/widgets/price.php:166 modules/ticket/widgets/ticket.php:264
+msgctxt "Currency Symbol"
+msgid "Ruble"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:186
+#: modules/pricing/widgets/price.php:167 modules/ticket/widgets/ticket.php:265
+msgctxt "Currency Symbol"
+msgid "Rupee"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:187
+#: modules/pricing/widgets/price.php:168 modules/ticket/widgets/ticket.php:266
+msgctxt "Currency Symbol"
+msgid "Rupee (Indian)"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:188
+#: modules/pricing/widgets/price.php:169 modules/ticket/widgets/ticket.php:267
+msgctxt "Currency Symbol"
+msgid "Shekel"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:189
+#: modules/pricing/widgets/price.php:170 modules/ticket/widgets/ticket.php:268
+msgctxt "Currency Symbol"
+msgid "Yen/Yuan"
+msgstr ""
+
+#: modules/pricing/skins/skin-list.php:190
+#: modules/pricing/widgets/price.php:171 modules/ticket/widgets/ticket.php:269
+msgctxt "Currency Symbol"
+msgid "Won"
+msgstr ""

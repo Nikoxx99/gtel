@@ -1,0 +1,39 @@
+.aspect-ratio > * {
+	position: absolute;
+	height: 100% !important;
+	width: 100% !important;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0
+}
+
+.aspect-w-460 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 460;
+}
+
+.aspect-w-263 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 263;
+}
+
+.aspect-w-104 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 104;
+}
+
+.aspect-h-75 {
+	--tw-aspect-h: 75;
+}
+
+.aspect-h-132 {
+	--tw-aspect-h: 132;
+}
+
+.aspect-h-361 {
+	--tw-aspect-h: 361;
+}

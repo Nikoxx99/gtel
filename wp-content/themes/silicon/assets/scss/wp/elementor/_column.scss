@@ -1,0 +1,26 @@
+.si-col {
+	--#{$variable-prefix}gutter-x: #{$grid-gutter-width};
+  	--#{$variable-prefix}gutter-y: 0;
+	flex-shrink: 0;
+	width: 100%;
+	max-width: 100%;
+	padding-right: calc(var(--#{$variable-prefix}gutter-x) * .5) !important; // stylelint-disable-line function-disallowed-list
+  	padding-left: calc(var(--#{$variable-prefix}gutter-x) * .5) !important; // stylelint-disable-line function-disallowed-list
+  	margin-top: var(--#{$variable-prefix}gutter-y);
+}
+
+.px-col {
+	--#{$variable-prefix}gutter-x: #{$grid-gutter-width};
+	padding-right: calc(var(--#{$variable-prefix}gutter-x) * .5) !important; // stylelint-disable-line function-disallowed-list
+  	padding-left: calc(var(--#{$variable-prefix}gutter-x) * .5) !important; // stylelint-disable-line function-disallowed-list	
+}
+
+.ps-col {
+	--#{$variable-prefix}gutter-x: #{$grid-gutter-width};
+	padding-left: calc(var(--#{$variable-prefix}gutter-x) * .5) !important; // stylelint-disable-line function-disallowed-list
+}
+
+.pe-col {
+	--#{$variable-prefix}gutter-x: #{$grid-gutter-width};
+	padding-right: calc(var(--#{$variable-prefix}gutter-x) * .5) !important; // stylelint-disable-line function-disallowed-list	
+}

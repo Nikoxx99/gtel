@@ -1,0 +1,46 @@
+.wp-caption,
+.wp-caption-text,
+.wp-caption-text,
+.gallery-caption {
+	font-size: .875rem;
+    color: #9397ad;
+}
+
+.screen-reader-text {
+	position: absolute !important;
+	width: 1px !important;
+	height: 1px !important;
+	padding: 0 !important;
+	margin: -1px !important;
+	overflow: hidden !important;
+	clip: rect(0, 0, 0, 0) !important;
+	white-space: nowrap !important;
+	border: 0 !important;
+}
+
+.bypostauthor {
+	text-decoration: none;
+}
+
+.alignleft {
+    /*rtl:ignore*/
+    float: left;
+    /*rtl:ignore*/
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.alignright {
+    /*rtl:ignore*/
+    float: right;
+    /*rtl:ignore*/
+    margin-left: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.aligncenter {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

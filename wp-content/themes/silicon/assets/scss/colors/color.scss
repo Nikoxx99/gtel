@@ -1,0 +1,189 @@
+.text-primary,
+.sidebar-blog .wp-block-latest-posts a:hover,
+.sidebar-blog .wp-block-latest-posts a:focus,
+.sidebar-blog .wp-block-latest-comments a:hover,
+.sidebar-blog .wp-block-latest-comments a:focus,
+h1 > a:hover,
+.h1 > a:hover,
+h2 > a:hover,
+.h2 > a:hover,
+h3 > a:hover,
+.h3 > a:hover,
+h4 > a:hover,
+.h4 > a:hover,
+h5 > a:hover,
+.h5 > a:hover,
+h6 > a:hover,
+.h6 > a:hover,
+.breadcrumb-item.active,
+.card-hover:hover .card-icon,
+.nav-tabs .nav-link:hover:not(.active),
+.nav-tabs .nav-link.show:not(.active),
+.dark-mode .nav-link:not(.active):hover,
+.page-item:not(.active) .page-link:hover,
+.nav-link:not(.active):hover,
+.nav-link:not(.active):focus,
+.navbar-light .nav-item:hover > .nav-link:not(.disabled),
+.sidebar-blog .widget_block > ul:not(.wp-block-latest-posts):not(.wp-block-social-links) li > a:hover,
+.sidebar-blog .widget_block > ul:not(.wp-block-latest-posts):not(.wp-block-social-links) li > a:focus,
+.sidebar-blog .wp-block-group__inner-container > ul:not(.wp-block-latest-posts):not(.wp-block-social-links) li > a:hover,
+.sidebar-blog .wp-block-group__inner-container > ul:not(.wp-block-latest-posts):not(.wp-block-social-links) li > a:focus,
+.sidebar-blog .widget-title + ul li > a:hover, .sidebar-blog .widget-title + ul li > a:focus, .sidebar-blog .menu li > a:hover,
+.sidebar-blog .menu li > a:focus {
+    color: var(--sl-primary) !important;
+}
+
+.bg-faded-primary,
+.nav-tabs .nav-link:hover:not(.active),
+.nav-tabs .nav-link.show:not(.active),
+.page-link:hover {
+    background-color: var(--sl-primary-faded) !important;
+}
+
+.divider:after {
+    border-left-color: var(--sl-primary) !important;
+}
+
+.custom-select:focus,
+select:focus {
+    border-color: var(--sl-primary-outline-20);
+}
+
+.btn-primary,
+.wp-block-search .wp-block-search__button {
+    background-color: var(--sl-primary);
+    border-color: var(--sl-primary);
+
+    &:hover,
+    &:focus,
+    &.active,
+    &:not(:disabled):not(.disabled):active {
+        background-color: var(--sl-primary-bg-d);
+        border-color: var(--sl-primary-border-d);
+    }
+}
+
+.btn-outline-primary {
+    color: var(--sl-primary);
+    border-color: var(--sl-primary);
+
+    &:hover,
+    &:not(:disabled):not(.disabled):active {
+        background-color: var(--sl-primary);
+        border-color: var(--sl-primary);
+    }
+}
+
+.dark-mode a.btn-outline-primary:not(:hover) {
+    color: var(--sl-primary);
+}
+
+.custom-control-input:checked ~ .custom-control-label::before {
+    background-color: var(--sl-primary);
+}
+
+.overlay-primary::before {
+    background-color: var(--sl-primary);
+}
+
+.btn-white {
+    color: var(--sl-primary);
+
+    &:hover,
+    &:focus {
+        color: var(--sl-primary);
+    }
+}
+
+.bg-primary,
+.form-switch.mode-switch .form-check-input,
+.form-switch.price-switch .form-check-input,
+.btn-video.silicon-button:hover,
+.btn-prev:not(.bg-transparent):hover,
+.btn-next:not(.bg-transparent):hover,
+.swiper-pagination .swiper-pagination-bullet-active,
+.swiper-pagination-bullet-active,
+.accordion-button:not(.collapsed)::after,
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link,
+.card-hover-primary:hover,
+.page-item.active .page-link,
+.form-check-input:checked,
+.btn-video:hover {
+    background-color: var(--sl-primary) !important;
+}
+
+.card-hover-primary:hover,
+.btn-secondary.btn-video:hover,
+.form-check-input:checked {
+    border-color: var(--sl-primary) !important;
+}
+
+.form-switch.mode-switch .form-check-input,
+.form-switch.price-switch .form-check-input,
+.silicon-button.btn-video:hover,
+.shadow-primary,
+.btn-prev:not(.bg-transparent):hover,
+.btn-next:not(.bg-transparent):hover,
+.accordion-button:not(.collapsed)::after,
+.card-hover-primary.shadow-sm:hover,
+.card-hover-primary.shadow:hover,
+.card-hover-primary:hover,
+.page-item.active .page-link {
+    box-shadow: 0 0.5rem 1.125rem -0.5rem var(--sl-primary-shadow) !important;
+}
+
+.form-select:focus,
+select:focus,
+.wp-block-search.is-style-silicon.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__input:focus,
+.wp-block-search.is-style-silicon.wp-block-search__button-outside .wp-block-search__inside-wrapper .wp-block-search__input:focus,
+.single-post .wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__input:focus,
+.single-post .wp-block-search.wp-block-search__button-outside .wp-block-search__inside-wrapper .wp-block-search__input:focus,
+.widget_block.widget_search .wp-block-search__input:focus,
+.single-post .wp-block-search .wp-block-search__input:focus,
+.block-editor-block-list__block.wp-block-search .wp-block-search__input:focus {
+    box-shadow: 0 0.5rem 1.125rem -0.5rem var(--sl-primary-shadow-sm) !important;
+}
+
+.border-primary,
+.form-control:focus,
+.form-select:focus,
+select:focus,
+.wp-block-search.is-style-silicon.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__input:focus,
+.wp-block-search.is-style-silicon.wp-block-search__button-outside .wp-block-search__inside-wrapper .wp-block-search__input:focus,
+.single-post .wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__input:focus,
+.single-post .wp-block-search.wp-block-search__button-outside .wp-block-search__inside-wrapper .wp-block-search__input:focus,
+.widget_block.widget_search .wp-block-search__input:focus,
+.single-post .wp-block-search .wp-block-search__input:focus,
+.block-editor-block-list__block.wp-block-search .wp-block-search__input:focus {
+    border-color: var(--sl-primary-border) !important;
+}
+
+a {
+    color: var(--sl-primary);
+
+    &:hover {
+        color: var(--sl-primary-bg-d);
+    }
+}
+
+.dropdown-item {
+    &:hover,
+    &:focus {
+        color: var(--sl-primary) !important;
+    }
+}
+
+.btn-link {
+    color: var(--sl-primary);
+}
+
+.btn-link:hover{
+    color: var(--sl-primary-border-d);
+}
+
+.form-control:focus,
+.custom-select:focus,
+select:focus {
+    box-shadow: 0 0 0 0 transparent, 0 0.375rem 0.625rem -0.3125rem var(--sl-primary-outline-20);
+}

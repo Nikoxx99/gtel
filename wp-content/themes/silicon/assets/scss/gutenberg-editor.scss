@@ -1,0 +1,35 @@
+/* Gutenberg Editor */
+@import 'theme';
+
+table:not([class]) {
+    width: 100%;
+    margin-bottom: 30px;
+    border-style: solid;
+
+    @extend .table;
+    @extend .table-bordered;
+
+    a {
+        text-decoration: none;
+    }
+
+    a:not(:hover) {
+        color: var(--bs-primary);
+    }
+}
+
+.wp-block-quote.has-text-align-right {
+    border-left-width: 0;
+}
+
+.wp-block-pullquote.is-style-solid-color {
+    blockquote {
+        border-width: 0;
+        padding: 0;
+    }
+}
+
+.wp-block-archives-dropdown select,
+.wp-block-categories select {
+    max-width: 100%;
+}

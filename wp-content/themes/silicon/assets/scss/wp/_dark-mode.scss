@@ -1,0 +1,34 @@
+.dark-mode {
+	--bs-primary: #9798F7;
+	
+	a {
+		color: #9798F7;
+		text-decoration: none;
+	}
+
+	.wp-block-calendar a {
+		font-weight: bold;
+	}
+
+	.text-muted {
+		color: rgba(255, 255, 255, 0.7) !important
+	}
+
+	.dark\:bg-secondary {
+		background-color: rgba(255, 255, 255, 0.05) !important;
+	}
+
+	.dark\:text-nav {
+		color: rgba(255, 255, 255, 0.85) !important;
+	}
+
+	.sidebar-blog .widget_block > ul:not(.wp-block-latest-posts):not(.wp-block-social-links) li, 
+	.sidebar-blog .wp-block-group__inner-container > ul:not(.wp-block-latest-posts):not(.wp-block-social-links) li, 
+	.sidebar-blog .widget-title + ul li, .sidebar-blog .menu li {
+		color: rgba(255, 255, 255, 0.6);
+	}
+
+	.sidebar-blog .widget_rss .widget-title + ul li > a {
+		color: #fff;
+	}
+}

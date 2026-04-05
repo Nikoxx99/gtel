@@ -1,0 +1,139 @@
+.elementor-widget-si-posts.load-more-align-center .elementor-button-wrapper, 
+.elementor-widget-si-archive-posts.load-more-align-center .elementor-button-wrapper,
+.elementor-widget-sn-portfolio.load-more-align-center .elementor-button-wrapper {
+	text-align: center; 
+}
+
+.elementor-widget-si-posts.load-more-align-start .elementor-button-wrapper,
+.elementor-widget-si-archive-posts.load-more-align-start .elementor-button-wrapper,
+.elementor-widget-sn-portfolio.load-more-align-start .elementor-button-wrapper {
+	text-align: start;
+}
+
+.elementor-widget-si-posts.load-more-align-end .elementor-button-wrapper,
+.elementor-widget-si-archive-posts.load-more-align-end .elementor-button-wrapper,
+.elementor-widget-sn-portfolio.load-more-align-end .elementor-button-wrapper {
+	text-align: end;
+}
+
+.elementor-widget-si-posts.load-more-align-justify .elementor-button,
+.elementor-widget-sn-portfolio.load-more-align-justify .elementor-button,
+.elementor-widget-si-archive-posts.load-more-align-justify .elementor-button {
+	width: 100%;
+}
+
+.elementor-widget-si-posts .e-load-more-spinner,
+.elementor-widget-sn-portfolio .e-load-more-spinner,
+.elementor-widget-si-archive-posts .e-load-more-spinner {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.elementor-widget-si-posts .e-load-more-spinner i,
+.elementor-widget-si-posts .e-load-more-spinner svg,
+.elementor-widget-sn-portfolio .e-load-more-spinner i,
+.elementor-widget-sn-portfolio .e-load-more-spinner svg,
+.elementor-widget-si-archive-posts .e-load-more-spinner i,
+.elementor-widget-si-archive-posts .e-load-more-spinner svg {
+	margin: 0 auto;
+	display: none;
+}
+
+.elementor-widget-si-posts .e-load-more-spinner i,
+.elementor-widget-sn-portfolio .e-load-more-spinner i,
+.elementor-widget-si-archive-posts .e-load-more-spinner i {
+	color: var(--load-more-spinner-color);
+}
+
+.elementor-widget-si-posts .e-load-more-spinner svg,
+.elementor-widget-sn-portfolio .e-load-more-spinner svg,
+.elementor-widget-si-archive-posts .e-load-more-spinner svg {
+	fill: var(--load-more-spinner-color);
+	height: 1em;
+	width: 1em;
+}
+
+.elementor-widget-si-posts .e-load-more-message,
+.elementor-widget-sn-portfolio .e-load-more-message,
+.elementor-widget-si-archive-posts .e-load-more-message {
+	color: var(--load-more-message-color);
+	text-align: var(--load-more-message-alignment, center);
+	display: none;
+	margin-top: var(--load-more—spacing, 30px);
+}
+
+.elementor-widget-si-posts.e-load-more-pagination-loading,
+.elementor-widget-sn-portfolio.e-load-more-pagination-loading,
+.elementor-widget-si-archive-posts.e-load-more-pagination-loading {
+	cursor: default;
+}
+.elementor-widget-si-posts.e-load-more-pagination-loading .e-load-more-spinner,
+.elementor-widget-sn-portfolio.e-load-more-pagination-loading .e-load-more-spinner,
+.elementor-widget-si-archive-posts.e-load-more-pagination-loading .e-load-more-spinner {
+	margin-top: var(--load-more—spacing, 30px);
+}
+
+.elementor-widget-si-posts.e-load-more-pagination-loading .e-load-more-spinner i,
+.elementor-widget-si-posts.e-load-more-pagination-loading .e-load-more-spinner svg,
+.elementor-widget-sn-portfolio.e-load-more-pagination-loading .e-load-more-spinner i,
+.elementor-widget-sn-portfolio.e-load-more-pagination-loading .e-load-more-spinner svg,
+.elementor-widget-si-archive-posts.e-load-more-pagination-loading .e-load-more-spinner i,
+.elementor-widget-si-archive-posts.e-load-more-pagination-loading .e-load-more-spinner svg {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.elementor-widget-si-posts.e-load-more-pagination-loading .elementor-button-content-wrapper,
+.elementor-widget-sn-portfolio.e-load-more-pagination-loading .elementor-button-content-wrapper,
+.elementor-widget-si-archive-posts.e-load-more-pagination-loading .elementor-button-content-wrapper {
+	visibility: hidden;
+}
+
+.elementor-widget-si-posts.e-load-more-pagination-end .elementor-button-wrapper,
+.elementor-widget-sn-portfolio.e-load-more-pagination-end .elementor-button-wrapper,
+.elementor-widget-si-archive-posts.e-load-more-pagination-end .elementor-button-wrapper {
+	display: none;
+}
+
+.elementor-widget-si-posts.e-load-more-pagination-end .e-load-more-message,
+.elementor-widget-sn-portfolio.e-load-more-pagination-end .e-load-more-message,
+.elementor-widget-si-archive-posts.e-load-more-pagination-end .e-load-more-message {
+	display: block;
+}
+
+.elementor-widget-si-posts.e-load-more-no-spinner .elementor-button-content-wrapper,
+.elementor-widget-sn-portfolio.e-load-more-no-spinner .elementor-button-content-wrapper,
+.elementor-widget-si-archive-posts.e-load-more-no-spinner .elementor-button-content-wrapper {
+	visibility: visible;
+}
+
+.elementor-widget-si-posts .elementor-button-wrapper,
+.elementor-widget-sn-portfolio .elementor-button-wrapper,
+.elementor-widget-si-archive-posts .elementor-button-wrapper {
+	margin-top: var(--load-more—spacing, 30px);
+}
+
+.elementor-widget-si-posts .elementor-button-wrapper .e-load-more-spinner,
+.elementor-widget-sn-portfolio .elementor-button-wrapper .e-load-more-spinner,
+.elementor-widget-si-archive-posts .elementor-button-wrapper .e-load-more-spinner {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	margin: inherit;
+}
+
+.elementor-widget-si-posts .elementor-button-wrapper .elementor-button,
+.elementor-widget-sn-portfolio .elementor-button-wrapper .elementor-button,
+.elementor-widget-si-archive-posts .elementor-button-wrapper .elementor-button {
+	cursor: pointer;
+	position: relative;
+}
+
+.swiper-pagination-lock {
+	display: none !important;
+}

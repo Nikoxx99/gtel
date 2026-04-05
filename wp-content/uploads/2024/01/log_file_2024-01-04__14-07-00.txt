@@ -1,0 +1,14 @@
+
+---Archivos descargados---
+Los archivos de importación para Software Company ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 165
+Información de archivos:
+URL del sitio = http://oitcfas.cluster051.hosting.ovh.net
+Archivo de datos = /home/oitcfas/www/wp-content/uploads/2024/01/demo-content-import-file_2024-01-04__14-07-00.xml
+Archivo de widget = ¡no definido!
+Archivo del personalizador = ¡no definido!
+Archivos de Redux:
+ ¡no definido!
+
+---ocdi/after_import---
+
