@@ -1,4 +1,4 @@
-FROM wordpress:php8.2-apache
+FROM wordpress:php8.2-apache@sha256:c960c894c6e26cc16974b98cc638053e2fd8be0acec5a61d39b56b0bde87878d
 
 # Seed inicial del sitio (WordPress + themes + plugins + uploads)
 COPY . /usr/src/wordpress/
